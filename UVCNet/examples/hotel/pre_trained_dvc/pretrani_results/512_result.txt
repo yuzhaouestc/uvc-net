@@ -1,0 +1,2 @@
+trained_lambda: 512, crf : 27,  gop : 5, bpp : 0.18849168893418947, psnr : 36.805729568509
+trained_lambda: 512, crf : 27,  gop : 10, bpp : 0.12189297331880335, psnr : 36.2257594683574

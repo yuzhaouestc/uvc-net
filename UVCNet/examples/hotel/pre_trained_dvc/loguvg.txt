@@ -1,0 +1,1251 @@
+2022-10-25 19:43:47,124 - INFO] DVC training
+2022-10-25 19:43:47,124 - INFO] config : 
+2022-10-25 19:43:47,125 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-10-25 19:47:14,642 - INFO] DVC training
+2022-10-25 19:47:14,642 - INFO] config : 
+2022-10-25 19:47:14,643 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-10-25 19:50:06,250 - INFO] DVC training
+2022-10-25 19:50:06,251 - INFO] config : 
+2022-10-25 19:50:06,252 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-10-25 19:50:49,098 - INFO] DVC training
+2022-10-25 19:50:49,098 - INFO] config : 
+2022-10-25 19:50:49,100 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-10-25 19:51:48,666 - INFO] DVC training
+2022-10-25 19:51:48,666 - INFO] config : 
+2022-10-25 19:51:48,672 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-10-25 19:56:38,721 - INFO] DVC training
+2022-10-25 19:56:38,721 - INFO] config : 
+2022-10-25 19:56:38,722 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-10-25 20:01:15,327 - INFO] DVC training
+2022-10-25 20:01:15,327 - INFO] config : 
+2022-10-25 20:01:15,328 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-10-25 20:06:30,618 - INFO] DVC training
+2022-10-25 20:06:30,619 - INFO] config : 
+2022-10-25 20:06:30,626 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-10-25 20:07:43,658 - INFO] DVC training
+2022-10-25 20:07:43,658 - INFO] config : 
+2022-10-25 20:07:43,659 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-10-25 20:08:08,677 - INFO] DVC training
+2022-10-25 20:08:08,677 - INFO] config : 
+2022-10-25 20:08:08,684 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-10-25 20:10:56,020 - INFO] DVC training
+2022-10-25 20:10:56,020 - INFO] config : 
+2022-10-25 20:10:56,021 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-10-25 20:12:03,021 - INFO] DVC training
+2022-10-25 20:12:03,021 - INFO] config : 
+2022-10-25 20:12:03,022 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-10-25 20:12:25,186 - INFO] DVC training
+2022-10-25 20:12:25,186 - INFO] config : 
+2022-10-25 20:12:25,187 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-10-25 20:12:54,812 - INFO] DVC training
+2022-10-25 20:12:54,813 - INFO] config : 
+2022-10-25 20:12:54,814 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-10-25 20:13:19,902 - INFO] DVC training
+2022-10-25 20:13:19,902 - INFO] config : 
+2022-10-25 20:13:19,903 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-10-25 20:14:35,366 - INFO] DVC training
+2022-10-25 20:14:35,367 - INFO] config : 
+2022-10-25 20:14:35,368 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-10-25 20:15:49,634 - INFO] DVC training
+2022-10-25 20:15:49,635 - INFO] config : 
+2022-10-25 20:15:49,636 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-10-25 20:16:31,276 - INFO] global step 0 : 
+
+2022-10-25 20:16:31,277 - INFO] ETH dataset : average bpp : 0.159949, average psnr : 39.102416, average msssim: 0.995184
+
+2022-10-25 20:19:20,965 - INFO] DVC training
+2022-10-25 20:19:20,965 - INFO] config : 
+2022-10-25 20:19:20,966 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-10-25 20:20:02,944 - INFO] global step 0 : 
+
+2022-10-25 20:20:02,944 - INFO] ETH dataset : average bpp : 0.159951, average psnr : 39.102429, average msssim: 0.995184
+
+2022-10-25 20:20:40,680 - INFO] global step 0 : 
+
+2022-10-25 20:20:40,680 - INFO] ETH dataset : average bpp : 0.159950, average psnr : 39.102410, average msssim: 0.995184
+
+2022-10-25 20:21:18,535 - INFO] DVC training
+2022-10-25 20:21:18,535 - INFO] config : 
+2022-10-25 20:21:18,536 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-10-25 20:21:59,467 - INFO] global step 0 : 
+
+2022-10-25 20:21:59,468 - INFO] ETH dataset : average bpp : 0.193501, average psnr : 39.901161, average msssim: 0.995868
+
+2022-10-25 20:22:36,546 - INFO] global step 0 : 
+
+2022-10-25 20:22:36,547 - INFO] ETH dataset : average bpp : 0.159949, average psnr : 39.102401, average msssim: 0.995184
+
+2022-10-25 20:23:14,174 - INFO] global step 0 : 
+
+2022-10-25 20:23:14,174 - INFO] ETH dataset : average bpp : 0.137527, average psnr : 37.965061, average msssim: 0.994014
+
+2022-10-25 20:23:50,496 - INFO] global step 0 : 
+
+2022-10-25 20:23:50,497 - INFO] ETH dataset : average bpp : 0.126498, average psnr : 36.424680, average msssim: 0.992036
+
+2022-10-25 20:25:13,215 - INFO] DVC training
+2022-10-25 20:25:13,215 - INFO] config : 
+2022-10-25 20:25:13,217 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-10-25 20:25:54,386 - INFO] global step 0 : 
+
+2022-10-25 20:25:54,387 - INFO] ETH dataset : average bpp : 0.193502, average psnr : 39.901138, average msssim: 0.995868
+
+2022-10-25 20:28:10,980 - INFO] DVC training
+2022-10-25 20:28:10,980 - INFO] config : 
+2022-10-25 20:28:10,981 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-10-25 20:28:54,422 - INFO] global step 0 : 
+
+2022-10-25 20:28:54,422 - INFO] ETH dataset : average bpp : 0.193502, average psnr : 39.901098, average msssim: 0.995868
+
+2022-10-25 20:29:14,530 - INFO] DVC training
+2022-10-25 20:29:14,531 - INFO] config : 
+2022-10-25 20:29:14,537 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-10-25 20:29:53,834 - INFO] global step 0 : 
+
+2022-10-25 20:29:53,834 - INFO] ETH dataset : average bpp : 0.193503, average psnr : 39.901078, average msssim: 0.995868
+
+2022-10-25 20:30:47,183 - INFO] DVC training
+2022-10-25 20:30:47,184 - INFO] config : 
+2022-10-25 20:30:47,191 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-10-25 20:31:26,173 - INFO] global step 0 : 
+
+2022-10-25 20:31:26,173 - INFO] ETH dataset : average bpp : 0.193499, average psnr : 39.901208, average msssim: 0.995868
+
+2022-10-25 20:31:38,507 - INFO] DVC training
+2022-10-25 20:31:38,507 - INFO] config : 
+2022-10-25 20:31:38,508 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-10-25 20:31:52,519 - INFO] DVC training
+2022-10-25 20:31:52,520 - INFO] config : 
+2022-10-25 20:31:52,521 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-10-25 20:32:04,412 - INFO] DVC training
+2022-10-25 20:32:04,412 - INFO] config : 
+2022-10-25 20:32:04,413 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-10-25 20:32:56,931 - INFO] DVC training
+2022-10-25 20:32:56,931 - INFO] config : 
+2022-10-25 20:32:56,938 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-10-25 20:34:06,329 - INFO] DVC training
+2022-10-25 20:34:06,330 - INFO] config : 
+2022-10-25 20:34:06,331 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-10-25 20:35:24,555 - INFO] DVC training
+2022-10-25 20:35:24,555 - INFO] config : 
+2022-10-25 20:35:24,557 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-10-25 20:35:40,857 - INFO] DVC training
+2022-10-25 20:35:40,857 - INFO] config : 
+2022-10-25 20:35:40,859 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-10-25 20:36:10,012 - INFO] global step 0 : 
+
+2022-10-25 20:36:10,012 - INFO] ETH dataset : average bpp : 0.290897, average psnr : 40.251508, average msssim: 0.996434
+
+2022-10-25 20:36:28,548 - INFO] global step 0 : 
+
+2022-10-25 20:36:28,548 - INFO] ETH dataset : average bpp : 0.224171, average psnr : 38.553540, average msssim: 0.994669
+
+2022-10-25 20:36:50,552 - INFO] global step 0 : 
+
+2022-10-25 20:36:50,553 - INFO] ETH dataset : average bpp : 0.193502, average psnr : 39.901180, average msssim: 0.995868
+
+2022-10-25 20:37:09,661 - INFO] global step 0 : 
+
+2022-10-25 20:37:09,662 - INFO] ETH dataset : average bpp : 0.148288, average psnr : 38.523912, average msssim: 0.994161
+
+2022-10-25 20:37:30,945 - INFO] global step 0 : 
+
+2022-10-25 20:37:30,946 - INFO] ETH dataset : average bpp : 0.154928, average psnr : 39.200003, average msssim: 0.995058
+
+2022-10-25 20:37:51,578 - INFO] global step 0 : 
+
+2022-10-25 20:37:51,578 - INFO] ETH dataset : average bpp : 0.116482, average psnr : 37.978580, average msssim: 0.993226
+
+2022-10-25 20:38:11,888 - INFO] global step 0 : 
+
+2022-10-25 20:38:11,888 - INFO] ETH dataset : average bpp : 0.136027, average psnr : 38.566776, average msssim: 0.994315
+
+2022-10-25 20:38:32,004 - INFO] global step 0 : 
+
+2022-10-25 20:38:32,004 - INFO] ETH dataset : average bpp : 0.100022, average psnr : 37.410467, average msssim: 0.992360
+
+2022-10-25 20:38:51,956 - INFO] global step 0 : 
+
+2022-10-25 20:38:51,956 - INFO] ETH dataset : average bpp : 0.124090, average psnr : 38.092243, average msssim: 0.993812
+
+2022-10-25 20:39:14,228 - INFO] global step 0 : 
+
+2022-10-25 20:39:14,229 - INFO] ETH dataset : average bpp : 0.089839, average psnr : 36.974872, average msssim: 0.991728
+
+2022-10-25 20:39:32,324 - INFO] global step 0 : 
+
+2022-10-25 20:39:32,325 - INFO] ETH dataset : average bpp : 0.119394, average psnr : 37.584546, average msssim: 0.993058
+
+2022-10-25 20:39:54,703 - INFO] global step 0 : 
+
+2022-10-25 20:39:54,722 - INFO] ETH dataset : average bpp : 0.084850, average psnr : 36.469712, average msssim: 0.990807
+
+2022-10-25 20:40:11,749 - INFO] global step 0 : 
+
+2022-10-25 20:40:11,750 - INFO] ETH dataset : average bpp : 0.109684, average psnr : 36.367676, average msssim: 0.991391
+
+2022-10-25 20:40:34,961 - INFO] global step 0 : 
+
+2022-10-25 20:40:34,961 - INFO] ETH dataset : average bpp : 0.075778, average psnr : 35.248951, average msssim: 0.988640
+
+2022-10-25 20:40:52,269 - INFO] global step 0 : 
+
+2022-10-25 20:40:52,269 - INFO] ETH dataset : average bpp : 0.112412, average psnr : 34.903407, average msssim: 0.989010
+
+2022-10-25 20:41:15,536 - INFO] global step 0 : 
+
+2022-10-25 20:41:15,537 - INFO] ETH dataset : average bpp : 0.078390, average psnr : 33.634607, average msssim: 0.985111
+
+2022-10-25 20:41:32,979 - INFO] global step 0 : 
+
+2022-10-25 20:41:32,979 - INFO] ETH dataset : average bpp : 0.115691, average psnr : 34.155728, average msssim: 0.987628
+
+2022-10-25 20:41:55,810 - INFO] global step 0 : 
+
+2022-10-25 20:41:55,811 - INFO] ETH dataset : average bpp : 0.082832, average psnr : 32.772314, average msssim: 0.983013
+
+2022-10-25 20:42:02,611 - INFO] DVC training
+2022-10-25 20:42:02,611 - INFO] config : 
+2022-10-25 20:42:02,617 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-10-25 20:42:41,189 - INFO] global step 0 : 
+
+2022-10-25 20:42:41,190 - INFO] ETH dataset : average bpp : 0.168578, average psnr : 36.323788, average msssim: 0.992046
+
+2022-10-25 20:43:12,517 - INFO] DVC training
+2022-10-25 20:43:12,518 - INFO] config : 
+2022-10-25 20:43:12,519 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-10-25 20:43:18,194 - INFO] global step 0 : 
+
+2022-10-25 20:43:18,195 - INFO] ETH dataset : average bpp : 0.114381, average psnr : 36.695453, average msssim: 0.992110
+
+2022-10-25 20:43:57,952 - INFO] global step 0 : 
+
+2022-10-25 20:43:57,953 - INFO] ETH dataset : average bpp : 0.118867, average psnr : 33.999324, average msssim: 0.987073
+
+2022-10-25 20:44:02,338 - INFO] global step 0 : 
+
+2022-10-25 20:44:02,339 - INFO] ETH dataset : average bpp : 0.089926, average psnr : 36.266369, average msssim: 0.991221
+
+2022-10-25 20:44:38,589 - INFO] global step 0 : 
+
+2022-10-25 20:44:38,590 - INFO] ETH dataset : average bpp : 0.084067, average psnr : 34.626955, average msssim: 0.987879
+
+2022-10-25 20:44:44,944 - INFO] global step 0 : 
+
+2022-10-25 20:44:44,944 - INFO] ETH dataset : average bpp : 0.076769, average psnr : 35.768274, average msssim: 0.990237
+
+2022-10-25 20:45:17,973 - INFO] global step 0 : 
+
+2022-10-25 20:45:17,974 - INFO] ETH dataset : average bpp : 0.066626, average psnr : 34.416779, average msssim: 0.986966
+
+2022-10-25 20:45:25,167 - INFO] global step 0 : 
+
+2022-10-25 20:45:25,167 - INFO] ETH dataset : average bpp : 0.068771, average psnr : 35.373632, average msssim: 0.989554
+
+2022-10-25 20:45:57,361 - INFO] global step 0 : 
+
+2022-10-25 20:45:57,362 - INFO] ETH dataset : average bpp : 0.056785, average psnr : 34.058943, average msssim: 0.985854
+
+2022-10-25 20:46:07,158 - INFO] global step 0 : 
+
+2022-10-25 20:46:07,159 - INFO] ETH dataset : average bpp : 0.064054, average psnr : 34.912723, average msssim: 0.988527
+
+2022-10-25 20:46:40,657 - INFO] global step 0 : 
+
+2022-10-25 20:46:40,657 - INFO] ETH dataset : average bpp : 0.050875, average psnr : 33.745418, average msssim: 0.984994
+
+2022-10-25 20:46:53,071 - INFO] global step 0 : 
+
+2022-10-25 20:46:53,071 - INFO] ETH dataset : average bpp : 0.055609, average psnr : 33.758453, average msssim: 0.985896
+
+2022-10-25 20:47:21,866 - INFO] global step 0 : 
+
+2022-10-25 20:47:21,867 - INFO] ETH dataset : average bpp : 0.046861, average psnr : 33.358470, average msssim: 0.983779
+
+2022-10-25 20:47:35,038 - INFO] global step 0 : 
+
+2022-10-25 20:47:35,038 - INFO] ETH dataset : average bpp : 0.055992, average psnr : 32.156881, average msssim: 0.980844
+
+2022-10-25 20:48:02,467 - INFO] global step 0 : 
+
+2022-10-25 20:48:02,468 - INFO] ETH dataset : average bpp : 0.040054, average psnr : 32.229351, average msssim: 0.980227
+
+2022-10-25 20:48:17,332 - INFO] global step 0 : 
+
+2022-10-25 20:48:17,333 - INFO] ETH dataset : average bpp : 0.058951, average psnr : 31.379003, average msssim: 0.977774
+
+2022-10-25 20:48:42,004 - INFO] global step 0 : 
+
+2022-10-25 20:48:42,005 - INFO] ETH dataset : average bpp : 0.039097, average psnr : 30.561600, average msssim: 0.973230
+
+2022-10-25 20:49:20,771 - INFO] global step 0 : 
+
+2022-10-25 20:49:20,771 - INFO] ETH dataset : average bpp : 0.041268, average psnr : 29.682588, average msssim: 0.968799
+
+2022-10-25 21:23:24,148 - INFO] DVC training
+2022-10-25 21:23:24,148 - INFO] config : 
+2022-10-25 21:23:24,149 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-10-25 21:24:18,880 - INFO] DVC training
+2022-10-25 21:24:18,881 - INFO] config : 
+2022-10-25 21:24:18,887 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-10-25 21:25:28,508 - INFO] global step 30294 : 
+
+2022-10-25 21:25:28,509 - INFO] ETH dataset : average bpp : 0.261132, average psnr : 40.222411, average msssim: 0.996512
+
+2022-10-25 21:26:35,389 - INFO] global step 30294 : 
+
+2022-10-25 21:26:35,390 - INFO] ETH dataset : average bpp : 0.158188, average psnr : 40.000092, average msssim: 0.996165
+
+2022-10-25 21:27:44,152 - INFO] global step 30294 : 
+
+2022-10-25 21:27:44,153 - INFO] ETH dataset : average bpp : 0.115120, average psnr : 39.264497, average msssim: 0.995314
+
+2022-10-25 21:28:54,416 - INFO] global step 30294 : 
+
+2022-10-25 21:28:54,417 - INFO] ETH dataset : average bpp : 0.092277, average psnr : 38.496809, average msssim: 0.994356
+
+2022-10-25 21:30:05,226 - INFO] global step 30294 : 
+
+2022-10-25 21:30:05,227 - INFO] ETH dataset : average bpp : 0.077770, average psnr : 37.844228, average msssim: 0.993559
+
+2022-10-25 21:31:15,574 - INFO] global step 30294 : 
+
+2022-10-25 21:31:15,574 - INFO] ETH dataset : average bpp : 0.071032, average psnr : 37.075747, average msssim: 0.992211
+
+2022-10-25 21:32:26,242 - INFO] global step 30294 : 
+
+2022-10-25 21:32:26,243 - INFO] ETH dataset : average bpp : 0.061310, average psnr : 34.723721, average msssim: 0.987588
+
+2022-10-25 21:33:39,327 - INFO] global step 30294 : 
+
+2022-10-25 21:33:39,327 - INFO] ETH dataset : average bpp : 0.075571, average psnr : 31.066854, average msssim: 0.975643
+
+2022-10-25 21:34:52,234 - INFO] global step 30294 : 
+
+2022-10-25 21:34:52,235 - INFO] ETH dataset : average bpp : 0.089676, average psnr : 28.660323, average msssim: 0.964109
+
+2022-10-25 21:38:45,826 - INFO] DVC training
+2022-10-25 21:38:45,826 - INFO] config : 
+2022-10-25 21:38:45,827 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-10-25 21:39:55,676 - INFO] global step 67694 : 
+
+2022-10-25 21:39:55,677 - INFO] ETH dataset : average bpp : 0.262097, average psnr : 40.213059, average msssim: 0.996537
+
+2022-10-25 21:41:02,520 - INFO] global step 67694 : 
+
+2022-10-25 21:41:02,520 - INFO] ETH dataset : average bpp : 0.159474, average psnr : 40.029544, average msssim: 0.996270
+
+2022-10-25 21:42:10,991 - INFO] global step 67694 : 
+
+2022-10-25 21:42:10,993 - INFO] ETH dataset : average bpp : 0.115999, average psnr : 39.390729, average msssim: 0.995542
+
+2022-10-25 21:43:20,862 - INFO] global step 67694 : 
+
+2022-10-25 21:43:20,863 - INFO] ETH dataset : average bpp : 0.092520, average psnr : 38.734331, average msssim: 0.994761
+
+2022-10-25 21:44:31,378 - INFO] global step 67694 : 
+
+2022-10-25 21:44:31,379 - INFO] ETH dataset : average bpp : 0.077265, average psnr : 38.213097, average msssim: 0.994204
+
+2022-10-25 21:45:41,882 - INFO] global step 67694 : 
+
+2022-10-25 21:45:41,883 - INFO] ETH dataset : average bpp : 0.069590, average psnr : 37.566344, average msssim: 0.993113
+
+2022-10-25 21:46:52,067 - INFO] global step 67694 : 
+
+2022-10-25 21:46:52,068 - INFO] ETH dataset : average bpp : 0.055524, average psnr : 35.535790, average msssim: 0.989804
+
+2022-10-25 21:48:04,760 - INFO] global step 67694 : 
+
+2022-10-25 21:48:04,761 - INFO] ETH dataset : average bpp : 0.073853, average psnr : 31.869166, average msssim: 0.980358
+
+2022-10-25 21:49:18,271 - INFO] global step 67694 : 
+
+2022-10-25 21:49:18,272 - INFO] ETH dataset : average bpp : 0.087991, average psnr : 29.656238, average msssim: 0.972415
+
+2022-10-26 09:25:33,719 - INFO] DVC training
+2022-10-26 09:25:33,720 - INFO] config : 
+2022-10-26 09:25:33,726 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-10-26 09:31:13,036 - INFO] DVC training
+2022-10-26 09:31:13,036 - INFO] config : 
+2022-10-26 09:31:13,037 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-10-26 09:31:26,042 - INFO] DVC training
+2022-10-26 09:31:26,042 - INFO] config : 
+2022-10-26 09:31:26,044 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-10-26 09:31:43,330 - INFO] DVC training
+2022-10-26 09:31:43,330 - INFO] config : 
+2022-10-26 09:31:43,337 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-10-26 09:32:44,167 - INFO] global step 22814 : 
+
+2022-10-26 09:32:44,168 - INFO] ETH dataset : average bpp : 0.147535, average psnr : 36.565587, average msssim: 0.991743
+
+2022-10-26 09:33:17,337 - INFO] global step 22814 : 
+
+2022-10-26 09:33:17,337 - INFO] ETH dataset : average bpp : 0.102720, average psnr : 34.203899, average msssim: 0.986928
+
+2022-10-26 09:33:45,350 - INFO] global step 22814 : 
+
+2022-10-26 09:33:45,350 - INFO] ETH dataset : average bpp : 0.199178, average psnr : 38.318967, average msssim: 0.994565
+
+2022-10-26 09:34:47,830 - INFO] global step 22814 : 
+
+2022-10-26 09:34:47,831 - INFO] ETH dataset : average bpp : 0.091231, average psnr : 37.461332, average msssim: 0.992131
+
+2022-10-26 09:36:06,954 - INFO] global step 22814 : 
+
+2022-10-26 09:36:06,954 - INFO] ETH dataset : average bpp : 0.120667, average psnr : 38.442455, average msssim: 0.994462
+
+2022-10-26 09:36:37,155 - INFO] global step 22814 : 
+
+2022-10-26 09:36:37,223 - INFO] ETH dataset : average bpp : 0.066142, average psnr : 35.193222, average msssim: 0.987902
+
+2022-10-26 09:37:08,735 - INFO] global step 22814 : 
+
+2022-10-26 09:37:08,735 - INFO] ETH dataset : average bpp : 0.065377, average psnr : 37.201909, average msssim: 0.991164
+
+2022-10-26 09:38:48,553 - INFO] global step 22814 : 
+
+2022-10-26 09:38:48,554 - INFO] ETH dataset : average bpp : 0.087185, average psnr : 37.977491, average msssim: 0.993628
+
+2022-10-26 09:39:56,058 - INFO] global step 22814 : 
+
+2022-10-26 09:39:56,059 - INFO] ETH dataset : average bpp : 0.051271, average psnr : 36.650778, average msssim: 0.989921
+
+2022-10-26 09:40:31,651 - INFO] global step 22814 : 
+
+2022-10-26 09:40:31,653 - INFO] ETH dataset : average bpp : 0.047985, average psnr : 34.987103, average msssim: 0.986390
+
+2022-10-26 09:41:41,690 - INFO] global step 22814 : 
+
+2022-10-26 09:41:41,691 - INFO] ETH dataset : average bpp : 0.068876, average psnr : 37.408737, average msssim: 0.992668
+
+2022-10-26 09:42:43,165 - INFO] global step 22814 : 
+
+2022-10-26 09:42:43,166 - INFO] ETH dataset : average bpp : 0.042821, average psnr : 36.174340, average msssim: 0.989102
+
+2022-10-26 09:45:09,652 - INFO] global step 22814 : 
+
+2022-10-26 09:45:09,653 - INFO] ETH dataset : average bpp : 0.037902, average psnr : 34.451931, average msssim: 0.984249
+
+2022-10-26 09:45:37,829 - INFO] global step 22814 : 
+
+2022-10-26 09:45:37,830 - INFO] ETH dataset : average bpp : 0.057167, average psnr : 36.896306, average msssim: 0.991870
+
+2022-10-26 09:46:28,525 - INFO] global step 22814 : 
+
+2022-10-26 09:46:28,526 - INFO] ETH dataset : average bpp : 0.037530, average psnr : 35.524793, average msssim: 0.987529
+
+2022-10-26 09:49:00,036 - INFO] global step 22814 : 
+
+2022-10-26 09:49:00,037 - INFO] ETH dataset : average bpp : 0.050307, average psnr : 36.177389, average msssim: 0.990282
+
+2022-10-26 09:49:04,536 - INFO] global step 22814 : 
+
+2022-10-26 09:49:04,537 - INFO] ETH dataset : average bpp : 0.031823, average psnr : 33.982854, average msssim: 0.982208
+
+2022-10-26 09:49:28,824 - INFO] global step 22814 : 
+
+2022-10-26 09:49:28,825 - INFO] ETH dataset : average bpp : 0.028510, average psnr : 32.929637, average msssim: 0.981433
+
+2022-10-26 09:52:30,941 - INFO] global step 22814 : 
+
+2022-10-26 09:52:30,942 - INFO] ETH dataset : average bpp : 0.041611, average psnr : 33.053047, average msssim: 0.982512
+
+2022-10-26 09:52:34,662 - INFO] global step 22814 : 
+
+2022-10-26 09:52:34,662 - INFO] ETH dataset : average bpp : 0.049204, average psnr : 27.367735, average msssim: 0.956183
+
+2022-10-26 09:52:50,446 - INFO] global step 22814 : 
+
+2022-10-26 09:52:50,447 - INFO] ETH dataset : average bpp : 0.027954, average psnr : 33.351777, average msssim: 0.979373
+
+2022-10-26 09:55:23,348 - INFO] global step 22814 : 
+
+2022-10-26 09:55:23,350 - INFO] ETH dataset : average bpp : 0.074868, average psnr : 24.742629, average msssim: 0.932569
+
+2022-10-26 09:55:27,556 - INFO] global step 22814 : 
+
+2022-10-26 09:55:27,557 - INFO] ETH dataset : average bpp : 0.088269, average psnr : 26.774547, average msssim: 0.950463
+
+2022-10-26 09:56:00,152 - INFO] global step 22814 : 
+
+2022-10-26 09:56:00,152 - INFO] ETH dataset : average bpp : 0.021333, average psnr : 31.108991, average msssim: 0.967996
+
+2022-10-26 09:56:14,838 - INFO] global step 22814 : 
+
+2022-10-26 09:56:14,839 - INFO] ETH dataset : average bpp : 0.131629, average psnr : 23.715296, average msssim: 0.922438
+
+2022-10-26 09:57:13,202 - INFO] global step 22814 : 
+
+2022-10-26 09:57:13,202 - INFO] ETH dataset : average bpp : 0.027287, average psnr : 27.098301, average msssim: 0.930449
+
+2022-10-26 09:58:26,900 - INFO] global step 22814 : 
+
+2022-10-26 09:58:26,900 - INFO] ETH dataset : average bpp : 0.049700, average psnr : 24.897555, average msssim: 0.895771
+
+2022-11-03 10:35:11,275 - INFO] DVC training
+2022-11-03 10:35:11,276 - INFO] config : 
+2022-11-03 10:35:11,281 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-11-03 10:37:35,628 - INFO] DVC training
+2022-11-03 10:37:35,628 - INFO] config : 
+2022-11-03 10:37:35,629 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-11-03 10:39:45,746 - INFO] DVC training
+2022-11-03 10:39:45,746 - INFO] config : 
+2022-11-03 10:39:45,752 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-11-03 10:40:19,846 - INFO] DVC training
+2022-11-03 10:40:19,847 - INFO] config : 
+2022-11-03 10:40:19,853 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-11-03 10:40:21,642 - INFO] DVC training
+2022-11-03 10:40:21,643 - INFO] config : 
+2022-11-03 10:40:21,649 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-11-03 10:54:45,824 - INFO] DVC training
+2022-11-03 10:54:45,825 - INFO] config : 
+2022-11-03 10:54:45,835 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-11-03 11:19:05,344 - INFO] global step 0 : 
+
+2022-11-03 11:19:05,345 - INFO] ETH dataset : average bpp : 0.146840, average psnr : 34.697886, average msssim: 0.980501
+
+2022-11-03 12:01:50,645 - INFO] global step 0 : 
+
+2022-11-03 12:01:50,648 - INFO] ETH dataset : average bpp : 0.188492, average psnr : 36.805730, average msssim: 0.988886
+
+2022-11-03 12:02:53,433 - INFO] global step 0 : 
+
+2022-11-03 12:02:53,437 - INFO] ETH dataset : average bpp : 0.245871, average psnr : 38.640211, average msssim: 0.993298
+
+2022-11-03 12:19:16,242 - INFO] global step 0 : 
+
+2022-11-03 12:19:16,244 - INFO] ETH dataset : average bpp : 0.326915, average psnr : 39.840795, average msssim: 0.995924
+
+2022-11-03 12:54:28,529 - INFO] global step 0 : 
+
+2022-11-03 12:54:28,533 - INFO] ETH dataset : average bpp : 0.093738, average psnr : 34.462211, average msssim: 0.981078
+
+2022-11-03 13:24:25,623 - INFO] global step 0 : 
+
+2022-11-03 13:24:25,630 - INFO] ETH dataset : average bpp : 0.121893, average psnr : 36.225759, average msssim: 0.988685
+
+2022-11-03 13:25:28,343 - INFO] global step 0 : 
+
+2022-11-03 13:25:28,346 - INFO] ETH dataset : average bpp : 0.160232, average psnr : 37.827463, average msssim: 0.992274
+
+2022-11-03 13:41:47,842 - INFO] global step 0 : 
+
+2022-11-03 13:41:47,848 - INFO] ETH dataset : average bpp : 0.214843, average psnr : 38.702658, average msssim: 0.994735
+
+2022-11-03 14:30:01,739 - INFO] global step 0 : 
+
+2022-11-03 14:30:01,741 - INFO] ETH dataset : average bpp : 0.071989, average psnr : 33.916944, average msssim: 0.978481
+
+2022-11-03 15:04:28,858 - INFO] DVC training
+2022-11-03 15:04:28,859 - INFO] config : 
+2022-11-03 15:04:28,860 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-11-03 15:06:59,480 - INFO] global step 0 : 
+
+2022-11-03 15:06:59,481 - INFO] ETH dataset : average bpp : 0.326916, average psnr : 39.840750, average msssim: 0.995924
+
+2022-11-03 15:09:17,846 - INFO] global step 0 : 
+
+2022-11-03 15:09:17,847 - INFO] ETH dataset : average bpp : 0.214843, average psnr : 38.702688, average msssim: 0.994735
+
+2022-11-04 09:40:38,816 - INFO] DVC training
+2022-11-04 09:40:38,817 - INFO] config : 
+2022-11-04 09:40:38,818 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-11-04 09:41:07,419 - INFO] DVC training
+2022-11-04 09:41:07,419 - INFO] config : 
+2022-11-04 09:41:07,424 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-11-04 09:45:43,444 - INFO] global step 0 : 
+
+2022-11-04 09:45:43,445 - INFO] ETH dataset : average bpp : 0.214842, average psnr : 38.702662, average msssim: 0.994735
+
+2022-11-04 09:51:37,944 - INFO] global step 0 : 
+
+2022-11-04 09:51:37,945 - INFO] ETH dataset : average bpp : 0.171918, average psnr : 37.769384, average msssim: 0.993158
+
+2022-11-04 10:01:31,941 - INFO] DVC training
+2022-11-04 10:01:31,941 - INFO] config : 
+2022-11-04 10:01:31,947 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-11-04 10:02:59,746 - INFO] global step 22814 : 
+
+2022-11-04 10:02:59,747 - INFO] ETH dataset : average bpp : 0.077677, average psnr : 32.930791, average msssim: 0.972622
+
+2022-11-04 10:03:57,327 - INFO] global step 22814 : 
+
+2022-11-04 10:03:57,328 - INFO] ETH dataset : average bpp : 0.056067, average psnr : 31.948344, average msssim: 0.966550
+
+2022-11-04 10:05:09,221 - INFO] DVC training
+2022-11-04 10:05:09,221 - INFO] config : 
+2022-11-04 10:05:09,227 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-11-04 10:06:10,434 - INFO] global step 22814 : 
+
+2022-11-04 10:06:10,435 - INFO] ETH dataset : average bpp : 0.131820, average psnr : 33.872724, average msssim: 0.975935
+
+2022-11-04 10:07:05,133 - INFO] global step 22814 : 
+
+2022-11-04 10:07:05,134 - INFO] ETH dataset : average bpp : 0.077677, average psnr : 32.930791, average msssim: 0.972622
+
+2022-11-04 10:08:01,845 - INFO] global step 22814 : 
+
+2022-11-04 10:08:01,845 - INFO] ETH dataset : average bpp : 0.056067, average psnr : 31.948344, average msssim: 0.966550
+
+2022-11-04 10:09:00,061 - INFO] global step 22814 : 
+
+2022-11-04 10:09:00,063 - INFO] ETH dataset : average bpp : 0.045612, average psnr : 31.092499, average msssim: 0.959757
+
+2022-11-04 10:09:56,685 - INFO] global step 22814 : 
+
+2022-11-04 10:09:56,685 - INFO] ETH dataset : average bpp : 0.039636, average psnr : 30.413966, average msssim: 0.954406
+
+2022-11-04 10:10:54,834 - INFO] global step 22814 : 
+
+2022-11-04 10:10:54,835 - INFO] ETH dataset : average bpp : 0.036491, average psnr : 29.798475, average msssim: 0.946556
+
+2022-11-04 10:11:50,378 - INFO] global step 22814 : 
+
+2022-11-04 10:11:50,378 - INFO] ETH dataset : average bpp : 0.031331, average psnr : 28.068075, average msssim: 0.920931
+
+2022-11-04 10:12:43,900 - INFO] global step 22814 : 
+
+2022-11-04 10:12:43,901 - INFO] ETH dataset : average bpp : 0.044579, average psnr : 25.421040, average msssim: 0.838915
+
+2022-11-04 10:13:38,545 - INFO] global step 22814 : 
+
+2022-11-04 10:13:38,545 - INFO] ETH dataset : average bpp : 0.077945, average psnr : 23.534498, average msssim: 0.755866
+
+2022-11-04 11:16:09,809 - INFO] DVC training
+2022-11-04 11:16:09,809 - INFO] config : 
+2022-11-04 11:16:09,810 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-11-04 11:17:24,442 - INFO] global step 673 : 
+
+2022-11-04 11:17:24,443 - INFO] ETH dataset : average bpp : 0.177250, average psnr : 22.207943, average msssim: nan
+
+2022-11-04 11:18:39,016 - INFO] DVC training
+2022-11-04 11:18:39,017 - INFO] config : 
+2022-11-04 11:18:39,018 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-11-04 11:20:15,153 - INFO] global step 673 : 
+
+2022-11-04 11:20:15,154 - INFO] ETH dataset : average bpp : 0.141129, average psnr : 35.060254, average msssim: 0.980839
+
+2022-11-04 11:21:48,773 - INFO] global step 673 : 
+
+2022-11-04 11:21:48,774 - INFO] ETH dataset : average bpp : 0.087766, average psnr : 34.921869, average msssim: 0.982088
+
+2022-11-04 11:23:24,677 - INFO] global step 673 : 
+
+2022-11-04 11:23:24,678 - INFO] ETH dataset : average bpp : 0.066124, average psnr : 34.336248, average msssim: 0.979800
+
+2022-11-04 11:25:05,236 - INFO] global step 673 : 
+
+2022-11-04 11:25:05,236 - INFO] ETH dataset : average bpp : 0.055001, average psnr : 33.795528, average msssim: 0.977184
+
+2022-11-04 11:26:43,423 - INFO] global step 673 : 
+
+2022-11-04 11:26:43,424 - INFO] ETH dataset : average bpp : 0.047968, average psnr : 33.418792, average msssim: 0.975591
+
+2022-11-04 11:28:21,782 - INFO] global step 673 : 
+
+2022-11-04 11:28:21,783 - INFO] ETH dataset : average bpp : 0.043839, average psnr : 32.872003, average msssim: 0.971428
+
+2022-11-04 15:54:49,144 - INFO] DVC training
+2022-11-04 15:54:49,145 - INFO] config : 
+2022-11-04 15:54:49,151 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-11-04 15:57:22,528 - INFO] global step 7403 : 
+
+2022-11-04 15:57:22,529 - INFO] ETH dataset : average bpp : 0.171763, average psnr : 36.875125, average msssim: 0.988966
+
+2022-11-04 15:59:45,847 - INFO] global step 7403 : 
+
+2022-11-04 15:59:45,847 - INFO] ETH dataset : average bpp : 0.104931, average psnr : 36.127461, average msssim: 0.988834
+
+2022-11-04 16:02:12,932 - INFO] global step 7403 : 
+
+2022-11-04 16:02:12,934 - INFO] ETH dataset : average bpp : 0.078892, average psnr : 35.215037, average msssim: 0.986219
+
+2022-11-04 16:04:39,053 - INFO] global step 7403 : 
+
+2022-11-04 16:04:39,054 - INFO] ETH dataset : average bpp : 0.065489, average psnr : 34.531589, average msssim: 0.983566
+
+2022-11-04 16:06:59,227 - INFO] global step 7403 : 
+
+2022-11-04 16:06:59,228 - INFO] ETH dataset : average bpp : 0.056833, average psnr : 34.055271, average msssim: 0.981946
+
+2022-11-04 16:09:21,135 - INFO] global step 7403 : 
+
+2022-11-04 16:09:21,136 - INFO] ETH dataset : average bpp : 0.052304, average psnr : 33.488993, average msssim: 0.978238
+
+2022-11-04 16:12:06,331 - INFO] global step 7403 : 
+
+2022-11-04 16:12:06,332 - INFO] ETH dataset : average bpp : 0.042381, average psnr : 32.403446, average msssim: 0.971448
+
+2022-11-04 16:54:11,067 - INFO] DVC training
+2022-11-04 16:54:11,068 - INFO] config : 
+2022-11-04 16:54:11,069 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-11-04 16:56:22,829 - INFO] global step 7403 : 
+
+2022-11-04 16:56:22,830 - INFO] ETH dataset : average bpp : 0.167040, average psnr : 36.583470, average msssim: 0.987346
+
+2022-11-04 16:58:34,119 - INFO] global step 7403 : 
+
+2022-11-04 16:58:34,120 - INFO] ETH dataset : average bpp : 0.102673, average psnr : 35.835145, average msssim: 0.986462
+
+2022-11-04 16:59:36,718 - INFO] DVC training
+2022-11-04 16:59:36,718 - INFO] config : 
+2022-11-04 16:59:36,725 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-11-04 17:01:58,370 - INFO] global step 7403 : 
+
+2022-11-04 17:01:58,371 - INFO] ETH dataset : average bpp : 0.174589, average psnr : 37.186195, average msssim: 0.992477
+
+2022-11-04 17:04:12,762 - INFO] global step 7403 : 
+
+2022-11-04 17:04:12,763 - INFO] ETH dataset : average bpp : 0.127720, average psnr : 35.940947, average msssim: 0.989190
+

@@ -1,0 +1,81 @@
+2022-09-19 21:36:44,112 - INFO] DVC training
+2022-09-19 21:36:44,113 - INFO] config : 
+2022-09-19 21:36:44,115 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-19 21:38:19,505 - INFO] DVC training
+2022-09-19 21:38:19,505 - INFO] config : 
+2022-09-19 21:38:19,506 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-19 21:38:58,584 - INFO] DVC training
+2022-09-19 21:38:58,584 - INFO] config : 
+2022-09-19 21:38:58,585 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-19 21:41:53,062 - INFO] DVC training
+2022-09-19 21:41:53,062 - INFO] config : 
+2022-09-19 21:41:53,063 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-19 21:42:51,936 - INFO] DVC training
+2022-09-19 21:42:51,936 - INFO] config : 
+2022-09-19 21:42:51,938 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 01:08:46,186 - INFO] Train Epoch : 00 Loss:	 0.099775	 lr:0.0001
+2022-09-20 04:30:38,172 - INFO] Train Epoch : 01 Loss:	 0.085290	 lr:0.0001
+2022-09-20 07:52:14,970 - INFO] Train Epoch : 02 Loss:	 0.082969	 lr:0.0001
+2022-10-24 15:40:54,378 - INFO] DVC training
+2022-10-24 15:40:54,379 - INFO] config : 
+2022-10-24 15:40:54,388 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+

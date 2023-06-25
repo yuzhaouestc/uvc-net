@@ -1,0 +1,17 @@
+trained_lambda: 256, crf : 31,  gop : 10, bpp : 0.0776765666064896, psnr : 32.93079127545965
+trained_lambda: 256, crf : 31,  gop : 15, bpp : 0.056067351899931665, psnr : 31.948343574125452
+trained_lambda: 256, crf : 31,  gop : 5, bpp : 0.13181962591704854, psnr : 33.87272446123736
+trained_lambda: 256, crf : 31,  gop : 10, bpp : 0.07767656660998207, psnr : 32.9307913326801
+trained_lambda: 256, crf : 31,  gop : 15, bpp : 0.05606735188014106, psnr : 31.948343548694137
+trained_lambda: 256, crf : 31,  gop : 20, bpp : 0.045612229327652326, psnr : 31.09249930363272
+trained_lambda: 256, crf : 31,  gop : 25, bpp : 0.03963623872837973, psnr : 30.41396609678274
+trained_lambda: 256, crf : 31,  gop : 30, bpp : 0.036490645318027745, psnr : 29.798475470579252
+trained_lambda: 256, crf : 31,  gop : 50, bpp : 0.031330846543758464, psnr : 28.068074706598914
+trained_lambda: 256, crf : 31,  gop : 100, bpp : 0.04457851420487387, psnr : 25.421039946385637
+trained_lambda: 256, crf : 31,  gop : 150, bpp : 0.07794465948110917, psnr : 23.534497778661436
+trained_lambda: 256, crf : 31,  gop : 5, bpp : 0.14112912561992816, psnr : 35.06025408871946
+trained_lambda: 256, crf : 31,  gop : 10, bpp : 0.08776586258789296, psnr : 34.9218685777566
+trained_lambda: 256, crf : 31,  gop : 15, bpp : 0.06612405930621239, psnr : 34.336248205422244
+trained_lambda: 256, crf : 31,  gop : 20, bpp : 0.05500066495993379, psnr : 33.7955280778942
+trained_lambda: 256, crf : 31,  gop : 25, bpp : 0.047968469592317216, psnr : 33.4187920957248
+trained_lambda: 256, crf : 31,  gop : 30, bpp : 0.04383855758502374, psnr : 32.87200315638043

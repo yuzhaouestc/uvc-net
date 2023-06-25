@@ -1,0 +1,4466 @@
+2022-09-19 21:36:44,112 - INFO] DVC training
+2022-09-19 21:36:44,113 - INFO] config : 
+2022-09-19 21:36:44,115 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-19 21:38:19,505 - INFO] DVC training
+2022-09-19 21:38:19,505 - INFO] config : 
+2022-09-19 21:38:19,506 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-19 21:38:58,584 - INFO] DVC training
+2022-09-19 21:38:58,584 - INFO] config : 
+2022-09-19 21:38:58,585 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-19 21:41:53,062 - INFO] DVC training
+2022-09-19 21:41:53,062 - INFO] config : 
+2022-09-19 21:41:53,063 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-19 21:42:51,936 - INFO] DVC training
+2022-09-19 21:42:51,936 - INFO] config : 
+2022-09-19 21:42:51,938 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 20:43:20,427 - INFO] DVC training
+2022-09-20 20:43:20,428 - INFO] config : 
+2022-09-20 20:43:20,429 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 20:43:58,355 - INFO] DVC training
+2022-09-20 20:43:58,355 - INFO] config : 
+2022-09-20 20:43:58,363 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 20:54:07,047 - INFO] DVC training
+2022-09-20 20:54:07,048 - INFO] config : 
+2022-09-20 20:54:07,055 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 20:54:46,683 - INFO] DVC training
+2022-09-20 20:54:46,683 - INFO] config : 
+2022-09-20 20:54:46,694 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 20:55:54,139 - INFO] DVC training
+2022-09-20 20:55:54,139 - INFO] config : 
+2022-09-20 20:55:54,145 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 20:56:39,544 - INFO] DVC training
+2022-09-20 20:56:39,544 - INFO] config : 
+2022-09-20 20:56:39,551 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 21:03:13,489 - INFO] DVC training
+2022-09-20 21:03:13,489 - INFO] config : 
+2022-09-20 21:03:13,496 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 21:03:54,163 - INFO] DVC training
+2022-09-20 21:03:54,163 - INFO] config : 
+2022-09-20 21:03:54,164 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 21:05:13,848 - INFO] DVC training
+2022-09-20 21:05:13,848 - INFO] config : 
+2022-09-20 21:05:13,853 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 21:06:29,653 - INFO] DVC training
+2022-09-20 21:06:29,654 - INFO] config : 
+2022-09-20 21:06:29,655 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 21:08:16,051 - INFO] global step 0 : 
+
+2022-09-20 21:08:16,052 - INFO] EWAP_eth dataset : average bpp : 0.129236, average psnr : 45.061000, average msssim: 0.995804
+
+2022-09-20 21:11:21,106 - INFO] DVC training
+2022-09-20 21:11:21,106 - INFO] config : 
+2022-09-20 21:11:21,115 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 21:13:35,991 - INFO] DVC training
+2022-09-20 21:13:35,991 - INFO] config : 
+2022-09-20 21:13:35,998 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 21:14:47,862 - INFO] global step 0 : 
+
+2022-09-20 21:14:47,863 - INFO] EWAP_eth dataset : average bpp : 0.109813, average psnr : 42.840489, average msssim: 0.993361
+
+2022-09-20 21:36:21,971 - INFO] DVC training
+2022-09-20 21:36:21,972 - INFO] config : 
+2022-09-20 21:36:21,973 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 21:37:09,438 - INFO] DVC training
+2022-09-20 21:37:09,439 - INFO] config : 
+2022-09-20 21:37:09,444 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 21:38:30,049 - INFO] DVC training
+2022-09-20 21:38:30,050 - INFO] config : 
+2022-09-20 21:38:30,056 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 21:39:44,251 - INFO] DVC training
+2022-09-20 21:39:44,252 - INFO] config : 
+2022-09-20 21:39:44,253 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 21:40:52,003 - INFO] DVC training
+2022-09-20 21:40:52,003 - INFO] config : 
+2022-09-20 21:40:52,005 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 21:41:53,899 - INFO] DVC training
+2022-09-20 21:41:53,900 - INFO] config : 
+2022-09-20 21:41:53,900 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 21:43:23,028 - INFO] global step 0 : 
+
+2022-09-20 21:43:23,029 - INFO] EWAP_eth dataset : average bpp : 0.081795, average psnr : 42.840451, average msssim: 0.993361
+
+2022-09-20 21:43:51,437 - INFO] DVC training
+2022-09-20 21:43:51,437 - INFO] config : 
+2022-09-20 21:43:51,438 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 21:51:58,130 - INFO] global step 0 : 
+
+2022-09-20 21:51:58,131 - INFO] EWAP_eth dataset : average bpp : 0.081259, average psnr : 42.772479, average msssim: 0.993742
+
+2022-09-20 21:56:20,591 - INFO] DVC training
+2022-09-20 21:56:20,591 - INFO] config : 
+2022-09-20 21:56:20,597 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 21:57:19,946 - INFO] DVC training
+2022-09-20 21:57:19,946 - INFO] config : 
+2022-09-20 21:57:19,956 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 22:11:51,351 - INFO] global step 0 : 
+
+2022-09-20 22:11:51,351 - INFO] EWAP_eth dataset : average bpp : 0.109621, average psnr : 40.440329, average msssim: 0.988293
+
+2022-09-20 22:16:53,993 - INFO] DVC training
+2022-09-20 22:16:53,994 - INFO] config : 
+2022-09-20 22:16:53,995 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 22:17:43,993 - INFO] DVC training
+2022-09-20 22:17:43,993 - INFO] config : 
+2022-09-20 22:17:43,999 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 22:22:44,754 - INFO] DVC training
+2022-09-20 22:22:44,754 - INFO] config : 
+2022-09-20 22:22:44,760 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 22:23:13,398 - INFO] DVC training
+2022-09-20 22:23:13,398 - INFO] config : 
+2022-09-20 22:23:13,405 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 22:24:07,386 - INFO] DVC training
+2022-09-20 22:24:07,386 - INFO] config : 
+2022-09-20 22:24:07,394 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 22:24:31,532 - INFO] DVC training
+2022-09-20 22:24:31,532 - INFO] config : 
+2022-09-20 22:24:31,533 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 22:25:03,556 - INFO] DVC training
+2022-09-20 22:25:03,557 - INFO] config : 
+2022-09-20 22:25:03,563 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 22:26:05,982 - INFO] DVC training
+2022-09-20 22:26:05,982 - INFO] config : 
+2022-09-20 22:26:05,988 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 22:27:49,123 - INFO] global step 0 : 
+
+2022-09-20 22:27:49,123 - INFO] EWAP_eth dataset : average bpp : 0.091750, average psnr : 34.741439, average msssim: 0.981631
+
+2022-09-20 22:29:41,246 - INFO] DVC training
+2022-09-20 22:29:41,247 - INFO] config : 
+2022-09-20 22:29:41,255 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 22:31:32,330 - INFO] global step 0 : 
+
+2022-09-20 22:31:32,331 - INFO] EWAP_eth dataset : average bpp : 0.090830, average psnr : 34.974513, average msssim: 0.982177
+
+2022-09-20 22:32:28,744 - INFO] DVC training
+2022-09-20 22:32:28,745 - INFO] config : 
+2022-09-20 22:32:28,751 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 22:34:22,729 - INFO] DVC training
+2022-09-20 22:34:22,729 - INFO] config : 
+2022-09-20 22:34:22,740 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 22:39:11,862 - INFO] DVC training
+2022-09-20 22:39:11,863 - INFO] config : 
+2022-09-20 22:39:11,870 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 22:46:32,137 - INFO] global step 0 : 
+
+2022-09-20 22:46:32,138 - INFO] EWAP_eth dataset : average bpp : 0.081497, average psnr : 35.601237, average msssim: 0.989701
+
+2022-09-20 22:53:15,979 - INFO] DVC training
+2022-09-20 22:53:15,979 - INFO] config : 
+2022-09-20 22:53:15,986 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 22:53:48,043 - INFO] DVC training
+2022-09-20 22:53:48,044 - INFO] config : 
+2022-09-20 22:53:48,050 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 22:54:36,001 - INFO] DVC training
+2022-09-20 22:54:36,002 - INFO] config : 
+2022-09-20 22:54:36,008 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 22:56:13,354 - INFO] DVC training
+2022-09-20 22:56:13,354 - INFO] config : 
+2022-09-20 22:56:13,360 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 22:56:58,044 - INFO] DVC training
+2022-09-20 22:56:58,045 - INFO] config : 
+2022-09-20 22:56:58,050 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 23:03:41,188 - INFO] DVC training
+2022-09-20 23:03:41,188 - INFO] config : 
+2022-09-20 23:03:41,189 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 23:04:24,246 - INFO] DVC training
+2022-09-20 23:04:24,246 - INFO] config : 
+2022-09-20 23:04:24,253 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 23:05:21,392 - INFO] DVC training
+2022-09-20 23:05:21,392 - INFO] config : 
+2022-09-20 23:05:21,400 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 23:05:46,645 - INFO] DVC training
+2022-09-20 23:05:46,646 - INFO] config : 
+2022-09-20 23:05:46,647 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 23:07:09,266 - INFO] DVC training
+2022-09-20 23:07:09,266 - INFO] config : 
+2022-09-20 23:07:09,267 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 23:08:55,403 - INFO] DVC training
+2022-09-20 23:08:55,403 - INFO] config : 
+2022-09-20 23:08:55,410 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 23:10:35,632 - INFO] DVC training
+2022-09-20 23:10:35,632 - INFO] config : 
+2022-09-20 23:10:35,633 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 23:24:31,938 - INFO] Train Epoch : 00 Loss:	 0.162973	 lr:0.0001
+2022-09-20 23:25:04,226 - INFO] DVC training
+2022-09-20 23:25:04,226 - INFO] config : 
+2022-09-20 23:25:04,235 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 23:32:02,573 - INFO] DVC training
+2022-09-20 23:32:02,573 - INFO] config : 
+2022-09-20 23:32:02,575 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 23:32:23,925 - INFO] global step 2093 : 
+
+2022-09-20 23:32:23,926 - INFO] EWAP_eth dataset : average bpp : 1.344376, average psnr : 27.499631, average msssim: 0.944598
+
+2022-09-20 23:32:48,412 - INFO] DVC training
+2022-09-20 23:32:48,413 - INFO] config : 
+2022-09-20 23:32:48,419 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 23:34:09,523 - INFO] global step 2093 : 
+
+2022-09-20 23:34:09,524 - INFO] EWAP_eth dataset : average bpp : 1.345971, average psnr : 27.590475, average msssim: 0.940526
+
+2022-09-20 23:46:14,276 - INFO] Train Epoch : 00 Loss:	 0.010796	 lr:0.0001
+2022-09-20 23:46:48,961 - INFO] DVC training
+2022-09-20 23:46:48,961 - INFO] config : 
+2022-09-20 23:46:48,969 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-20 23:47:55,402 - INFO] global step 2093 : 
+
+2022-09-20 23:47:55,403 - INFO] EWAP_eth dataset : average bpp : 0.074109, average psnr : 36.250043, average msssim: 0.989385
+
+2022-09-21 00:00:03,370 - INFO] Train Epoch : 01 Loss:	 0.012046	 lr:0.0001
+2022-09-21 00:14:00,091 - INFO] Train Epoch : 02 Loss:	 0.013176	 lr:0.0001
+2022-09-21 00:27:46,894 - INFO] Train Epoch : 03 Loss:	 0.015758	 lr:0.0001
+2022-09-21 00:41:44,871 - INFO] Train Epoch : 04 Loss:	 0.014145	 lr:0.0001
+2022-09-21 00:55:40,620 - INFO] Train Epoch : 05 Loss:	 0.010064	 lr:0.0001
+2022-09-21 01:09:33,711 - INFO] Train Epoch : 06 Loss:	 0.012732	 lr:0.0001
+2022-09-21 01:23:30,998 - INFO] Train Epoch : 07 Loss:	 0.010810	 lr:0.0001
+2022-09-21 01:37:16,408 - INFO] Train Epoch : 08 Loss:	 0.010425	 lr:0.0001
+2022-09-21 01:51:15,065 - INFO] Train Epoch : 09 Loss:	 0.014778	 lr:0.0001
+2022-09-21 02:05:05,958 - INFO] Train Epoch : 10 Loss:	 0.010575	 lr:0.0001
+2022-09-21 02:19:00,926 - INFO] Train Epoch : 11 Loss:	 0.010415	 lr:0.0001
+2022-09-21 02:33:00,787 - INFO] Train Epoch : 12 Loss:	 0.009999	 lr:0.0001
+2022-09-21 02:46:49,964 - INFO] Train Epoch : 13 Loss:	 0.012827	 lr:0.0001
+2022-09-21 03:00:45,679 - INFO] Train Epoch : 14 Loss:	 0.013274	 lr:0.0001
+2022-09-21 03:14:34,377 - INFO] Train Epoch : 15 Loss:	 0.014505	 lr:0.0001
+2022-09-21 03:28:32,831 - INFO] Train Epoch : 16 Loss:	 0.011515	 lr:0.0001
+2022-09-21 03:42:31,514 - INFO] Train Epoch : 17 Loss:	 0.010667	 lr:0.0001
+2022-09-21 03:56:17,166 - INFO] Train Epoch : 18 Loss:	 0.010176	 lr:0.0001
+2022-09-21 04:10:14,976 - INFO] Train Epoch : 19 Loss:	 0.013318	 lr:0.0001
+2022-09-21 04:24:01,365 - INFO] Train Epoch : 20 Loss:	 0.009547	 lr:0.0001
+2022-09-21 04:38:01,125 - INFO] Train Epoch : 21 Loss:	 0.009344	 lr:0.0001
+2022-09-21 04:51:58,162 - INFO] Train Epoch : 22 Loss:	 0.011659	 lr:0.0001
+2022-09-21 05:05:46,075 - INFO] Train Epoch : 23 Loss:	 0.011170	 lr:0.0001
+2022-09-21 05:19:44,266 - INFO] Train Epoch : 24 Loss:	 0.011059	 lr:0.0001
+2022-09-21 05:33:30,704 - INFO] Train Epoch : 25 Loss:	 0.011766	 lr:0.0001
+2022-09-21 05:47:27,223 - INFO] Train Epoch : 26 Loss:	 0.013090	 lr:0.0001
+2022-09-21 06:01:26,484 - INFO] Train Epoch : 27 Loss:	 0.009649	 lr:0.0001
+2022-09-21 06:15:12,286 - INFO] Train Epoch : 28 Loss:	 0.011082	 lr:0.0001
+2022-09-21 06:29:09,031 - INFO] Train Epoch : 29 Loss:	 0.012273	 lr:0.0001
+2022-09-21 06:42:53,095 - INFO] Train Epoch : 30 Loss:	 0.012937	 lr:0.0001
+2022-09-21 06:56:48,162 - INFO] Train Epoch : 31 Loss:	 0.011902	 lr:0.0001
+2022-09-21 07:10:39,578 - INFO] Train Epoch : 32 Loss:	 0.010191	 lr:0.0001
+2022-09-21 07:24:32,693 - INFO] Train Epoch : 33 Loss:	 0.008351	 lr:0.0001
+2022-09-21 07:38:30,861 - INFO] Train Epoch : 34 Loss:	 0.014124	 lr:0.0001
+2022-09-21 07:52:17,170 - INFO] Train Epoch : 35 Loss:	 0.010950	 lr:0.0001
+2022-09-21 08:06:13,834 - INFO] Train Epoch : 36 Loss:	 0.011937	 lr:0.0001
+2022-09-21 08:20:04,957 - INFO] Train Epoch : 37 Loss:	 0.013418	 lr:0.0001
+2022-09-21 08:33:57,008 - INFO] Train Epoch : 38 Loss:	 0.010052	 lr:0.0001
+2022-09-21 08:47:56,268 - INFO] Train Epoch : 39 Loss:	 0.011842	 lr:0.0001
+2022-09-21 09:01:42,805 - INFO] Train Epoch : 40 Loss:	 0.016703	 lr:0.0001
+2022-09-21 09:12:34,407 - INFO] DVC training
+2022-09-21 09:12:34,407 - INFO] config : 
+2022-09-21 09:12:34,409 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-21 09:13:52,657 - INFO] global step 85813 : 
+
+2022-09-21 09:13:52,658 - INFO] EWAP_eth dataset : average bpp : 0.066809, average psnr : 36.118877, average msssim: 0.989037
+
+2022-09-21 09:15:38,256 - INFO] Train Epoch : 41 Loss:	 0.012968	 lr:0.0001
+2022-09-21 09:29:02,556 - INFO] Train Epoch : 42 Loss:	 0.011686	 lr:0.0001
+2022-09-21 09:39:27,795 - INFO] Train Epoch : 43 Loss:	 0.011731	 lr:0.0001
+2022-09-21 09:48:27,316 - INFO] Train Epoch : 44 Loss:	 0.009568	 lr:0.0001
+2022-09-21 09:53:41,360 - INFO] Train Epoch : 45 Loss:	 0.010889	 lr:0.0001
+2022-09-21 09:58:58,209 - INFO] Train Epoch : 46 Loss:	 0.010929	 lr:0.0001
+2022-09-21 10:04:15,405 - INFO] Train Epoch : 47 Loss:	 0.012563	 lr:0.0001
+2022-09-21 10:09:39,137 - INFO] Train Epoch : 48 Loss:	 0.011616	 lr:0.0001
+2022-09-21 10:14:57,797 - INFO] Train Epoch : 49 Loss:	 0.014430	 lr:0.0001
+2022-09-21 10:20:37,941 - INFO] Train Epoch : 50 Loss:	 0.012529	 lr:0.0001
+2022-09-21 10:26:09,504 - INFO] Train Epoch : 51 Loss:	 0.010576	 lr:0.0001
+2022-09-21 10:31:50,941 - INFO] Train Epoch : 52 Loss:	 0.011506	 lr:0.0001
+2022-09-21 10:37:48,656 - INFO] Train Epoch : 53 Loss:	 0.010281	 lr:0.0001
+2022-09-21 10:43:04,538 - INFO] Train Epoch : 54 Loss:	 0.010987	 lr:0.0001
+2022-09-21 10:48:21,554 - INFO] Train Epoch : 55 Loss:	 0.009675	 lr:0.0001
+2022-09-21 10:54:19,713 - INFO] Train Epoch : 56 Loss:	 0.010913	 lr:0.0001
+2022-09-21 11:01:38,904 - INFO] Train Epoch : 57 Loss:	 0.015129	 lr:0.0001
+2022-09-21 11:06:56,502 - INFO] Train Epoch : 58 Loss:	 0.013168	 lr:0.0001
+2022-09-21 11:12:12,423 - INFO] Train Epoch : 59 Loss:	 0.014033	 lr:0.0001
+2022-09-21 11:17:27,396 - INFO] Train Epoch : 60 Loss:	 0.012419	 lr:0.0001
+2022-09-21 11:22:41,044 - INFO] Train Epoch : 61 Loss:	 0.012113	 lr:0.0001
+2022-09-21 11:28:01,545 - INFO] Train Epoch : 62 Loss:	 0.015378	 lr:0.0001
+2022-09-21 11:33:46,137 - INFO] Train Epoch : 63 Loss:	 0.010717	 lr:0.0001
+2022-09-21 11:39:23,885 - INFO] Train Epoch : 64 Loss:	 0.012606	 lr:0.0001
+2022-09-21 11:44:57,384 - INFO] Train Epoch : 65 Loss:	 0.009706	 lr:0.0001
+2022-09-21 11:50:13,531 - INFO] Train Epoch : 66 Loss:	 0.012030	 lr:0.0001
+2022-09-21 11:55:30,292 - INFO] Train Epoch : 67 Loss:	 0.010157	 lr:0.0001
+2022-09-21 12:00:43,853 - INFO] Train Epoch : 68 Loss:	 0.010426	 lr:0.0001
+2022-09-21 12:05:58,543 - INFO] Train Epoch : 69 Loss:	 0.013492	 lr:0.0001
+2022-09-21 12:11:13,300 - INFO] Train Epoch : 70 Loss:	 0.012862	 lr:0.0001
+2022-09-21 12:16:27,403 - INFO] Train Epoch : 71 Loss:	 0.011214	 lr:0.0001
+2022-09-21 12:21:42,417 - INFO] Train Epoch : 72 Loss:	 0.007557	 lr:0.0001
+2022-09-21 12:27:01,256 - INFO] Train Epoch : 73 Loss:	 0.013228	 lr:0.0001
+2022-09-21 12:32:18,474 - INFO] Train Epoch : 74 Loss:	 0.009201	 lr:0.0001
+2022-09-21 12:37:32,262 - INFO] Train Epoch : 75 Loss:	 0.008828	 lr:0.0001
+2022-09-21 12:42:47,229 - INFO] Train Epoch : 76 Loss:	 0.011688	 lr:0.0001
+2022-09-21 12:48:02,517 - INFO] Train Epoch : 77 Loss:	 0.010881	 lr:0.0001
+2022-09-21 12:53:16,657 - INFO] Train Epoch : 78 Loss:	 0.010706	 lr:0.0001
+2022-09-21 12:58:34,458 - INFO] Train Epoch : 79 Loss:	 0.015593	 lr:0.0001
+2022-09-21 13:03:54,095 - INFO] Train Epoch : 80 Loss:	 0.008991	 lr:0.0001
+2022-09-21 13:09:08,984 - INFO] Train Epoch : 81 Loss:	 0.009508	 lr:0.0001
+2022-09-21 13:14:30,600 - INFO] Train Epoch : 82 Loss:	 0.013053	 lr:0.0001
+2022-09-21 13:19:46,959 - INFO] Train Epoch : 83 Loss:	 0.010443	 lr:0.0001
+2022-09-21 13:25:01,973 - INFO] Train Epoch : 84 Loss:	 0.011645	 lr:0.0001
+2022-09-21 13:30:19,522 - INFO] Train Epoch : 85 Loss:	 0.014051	 lr:0.0001
+2022-09-21 13:35:37,297 - INFO] Train Epoch : 86 Loss:	 0.011359	 lr:0.0001
+2022-09-21 13:41:09,228 - INFO] Train Epoch : 87 Loss:	 0.010371	 lr:0.0001
+2022-09-21 13:46:48,219 - INFO] Train Epoch : 88 Loss:	 0.012060	 lr:0.0001
+2022-09-21 13:52:25,096 - INFO] Train Epoch : 89 Loss:	 0.010262	 lr:0.0001
+2022-09-21 13:58:24,609 - INFO] Train Epoch : 90 Loss:	 0.009014	 lr:0.0001
+2022-09-21 14:03:40,745 - INFO] Train Epoch : 91 Loss:	 0.014103	 lr:0.0001
+2022-09-21 14:08:56,260 - INFO] Train Epoch : 92 Loss:	 0.011419	 lr:0.0001
+2022-09-21 14:14:15,562 - INFO] Train Epoch : 93 Loss:	 0.011082	 lr:0.0001
+2022-09-21 14:19:30,177 - INFO] Train Epoch : 94 Loss:	 0.012851	 lr:0.0001
+2022-09-21 14:24:48,849 - INFO] Train Epoch : 95 Loss:	 0.010990	 lr:0.0001
+2022-09-21 14:30:08,731 - INFO] Train Epoch : 96 Loss:	 0.010265	 lr:0.0001
+2022-09-21 14:35:25,528 - INFO] Train Epoch : 97 Loss:	 0.013319	 lr:0.0001
+2022-09-21 14:40:42,975 - INFO] Train Epoch : 98 Loss:	 0.010278	 lr:0.0001
+2022-09-21 14:45:59,944 - INFO] Train Epoch : 99 Loss:	 0.014853	 lr:0.0001
+2022-09-21 14:51:18,151 - INFO] Train Epoch : 100 Loss:	 0.010023	 lr:0.0001
+2022-09-21 14:56:34,832 - INFO] Train Epoch : 101 Loss:	 0.012258	 lr:0.0001
+2022-09-21 15:01:49,947 - INFO] Train Epoch : 102 Loss:	 0.009727	 lr:0.0001
+2022-09-21 15:07:04,680 - INFO] Train Epoch : 103 Loss:	 0.012744	 lr:0.0001
+2022-09-21 15:12:21,053 - INFO] Train Epoch : 104 Loss:	 0.010175	 lr:0.0001
+2022-09-21 15:17:39,732 - INFO] Train Epoch : 105 Loss:	 0.013087	 lr:0.0001
+2022-09-21 15:23:07,710 - INFO] Train Epoch : 106 Loss:	 0.012898	 lr:0.0001
+2022-09-21 15:28:38,246 - INFO] Train Epoch : 107 Loss:	 0.009278	 lr:0.0001
+2022-09-21 15:34:17,649 - INFO] Train Epoch : 108 Loss:	 0.010143	 lr:0.0001
+2022-09-21 15:39:36,119 - INFO] Train Epoch : 109 Loss:	 0.015092	 lr:0.0001
+2022-09-21 15:44:52,236 - INFO] Train Epoch : 110 Loss:	 0.009380	 lr:0.0001
+2022-09-21 15:50:06,523 - INFO] Train Epoch : 111 Loss:	 0.011530	 lr:0.0001
+2022-09-21 15:55:22,296 - INFO] Train Epoch : 112 Loss:	 0.011647	 lr:0.0001
+2022-09-21 16:00:37,306 - INFO] Train Epoch : 113 Loss:	 0.013000	 lr:0.0001
+2022-09-21 16:05:51,296 - INFO] Train Epoch : 114 Loss:	 0.009393	 lr:0.0001
+2022-09-21 16:11:05,053 - INFO] Train Epoch : 115 Loss:	 0.013837	 lr:0.0001
+2022-09-21 16:16:26,878 - INFO] Train Epoch : 116 Loss:	 0.013011	 lr:0.0001
+2022-09-21 16:21:47,736 - INFO] Train Epoch : 117 Loss:	 0.014232	 lr:0.0001
+2022-09-21 16:27:05,234 - INFO] Train Epoch : 118 Loss:	 0.014207	 lr:0.0001
+2022-09-21 16:32:22,468 - INFO] Train Epoch : 119 Loss:	 0.011841	 lr:0.0001
+2022-09-21 16:37:38,573 - INFO] Train Epoch : 120 Loss:	 0.009530	 lr:0.0001
+2022-09-21 16:42:56,548 - INFO] Train Epoch : 121 Loss:	 0.012432	 lr:0.0001
+2022-09-21 16:48:52,289 - INFO] Train Epoch : 122 Loss:	 0.009797	 lr:0.0001
+2022-09-21 16:55:21,144 - INFO] Train Epoch : 123 Loss:	 0.010923	 lr:0.0001
+2022-09-21 17:00:18,910 - INFO] DVC training
+2022-09-21 17:00:18,910 - INFO] config : 
+2022-09-21 17:00:18,917 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-09-21 17:01:06,422 - INFO] global step 259532 : 
+
+2022-09-21 17:01:06,422 - INFO] EWAP_eth dataset : average bpp : 0.065311, average psnr : 35.965777, average msssim: 0.988553
+
+2022-09-21 17:01:58,454 - INFO] Train Epoch : 124 Loss:	 0.010840	 lr:0.0001
+2022-09-21 17:04:33,117 - INFO] DVC training
+2022-09-21 17:04:33,117 - INFO] config : 
+2022-09-21 17:04:33,118 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-21 17:10:28,634 - INFO] Train Epoch : 00 Loss:	 0.013582	 lr:1e-05
+2022-09-21 17:11:47,550 - INFO] DVC training
+2022-09-21 17:11:47,551 - INFO] config : 
+2022-09-21 17:11:47,552 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-21 17:12:34,631 - INFO] global step 2093 : 
+
+2022-09-21 17:12:34,631 - INFO] EWAP_eth dataset : average bpp : 0.078850, average psnr : 36.344371, average msssim: 0.989946
+
+2022-09-21 17:16:53,555 - INFO] Train Epoch : 01 Loss:	 0.012762	 lr:1e-05
+2022-09-21 17:22:14,308 - INFO] Train Epoch : 02 Loss:	 0.009447	 lr:1e-05
+2022-09-21 17:27:39,400 - INFO] Train Epoch : 03 Loss:	 0.012630	 lr:1e-05
+2022-09-21 17:33:05,135 - INFO] Train Epoch : 04 Loss:	 0.009926	 lr:1e-05
+2022-09-21 17:38:32,324 - INFO] Train Epoch : 05 Loss:	 0.014058	 lr:1e-05
+2022-09-21 17:44:00,028 - INFO] Train Epoch : 06 Loss:	 0.015864	 lr:1e-05
+2022-09-21 17:49:27,118 - INFO] Train Epoch : 07 Loss:	 0.011320	 lr:1e-05
+2022-09-21 17:54:54,428 - INFO] Train Epoch : 08 Loss:	 0.012374	 lr:1e-05
+2022-09-21 18:00:15,422 - INFO] Train Epoch : 09 Loss:	 0.013788	 lr:1e-05
+2022-09-21 18:05:32,673 - INFO] Train Epoch : 10 Loss:	 0.019526	 lr:1e-05
+2022-09-21 18:10:48,166 - INFO] Train Epoch : 11 Loss:	 0.014438	 lr:1e-05
+2022-09-21 18:16:03,040 - INFO] Train Epoch : 12 Loss:	 0.010210	 lr:1e-05
+2022-09-21 18:21:18,315 - INFO] Train Epoch : 13 Loss:	 0.010191	 lr:1e-05
+2022-09-21 18:26:35,450 - INFO] Train Epoch : 14 Loss:	 0.011862	 lr:1e-05
+2022-09-21 18:31:49,284 - INFO] Train Epoch : 15 Loss:	 0.009003	 lr:1e-05
+2022-09-21 18:37:05,474 - INFO] Train Epoch : 16 Loss:	 0.012800	 lr:1e-05
+2022-09-21 18:42:22,520 - INFO] Train Epoch : 17 Loss:	 0.013021	 lr:1e-05
+2022-09-21 18:47:40,848 - INFO] Train Epoch : 18 Loss:	 0.009538	 lr:1e-05
+2022-09-21 18:54:03,480 - INFO] Train Epoch : 19 Loss:	 0.017875	 lr:1e-05
+2022-09-21 18:59:54,676 - INFO] Train Epoch : 20 Loss:	 0.010920	 lr:1e-05
+2022-09-21 19:06:30,389 - INFO] Train Epoch : 21 Loss:	 0.014173	 lr:1e-05
+2022-09-21 19:13:00,882 - INFO] Train Epoch : 22 Loss:	 0.012661	 lr:1e-05
+2022-09-21 19:19:33,315 - INFO] Train Epoch : 23 Loss:	 0.009879	 lr:1e-05
+2022-09-21 19:25:42,717 - INFO] Train Epoch : 24 Loss:	 0.012062	 lr:1e-05
+2022-09-21 19:28:00,628 - INFO] DVC training
+2022-09-21 19:28:00,628 - INFO] config : 
+2022-09-21 19:28:00,635 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-21 19:28:51,762 - INFO] global step 52325 : 
+
+2022-09-21 19:28:51,762 - INFO] EWAP_eth dataset : average bpp : 0.069606, average psnr : 36.096364, average msssim: 0.989328
+
+2022-09-21 19:31:07,313 - INFO] Train Epoch : 25 Loss:	 0.009935	 lr:1e-05
+2022-09-21 19:36:24,808 - INFO] Train Epoch : 26 Loss:	 0.012107	 lr:1e-05
+2022-09-21 19:41:41,532 - INFO] Train Epoch : 27 Loss:	 0.012536	 lr:1e-05
+2022-09-21 19:44:08,053 - INFO] DVC training
+2022-09-21 19:44:08,053 - INFO] config : 
+2022-09-21 19:44:08,054 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-21 19:44:50,388 - INFO] DVC training
+2022-09-21 19:44:50,389 - INFO] config : 
+2022-09-21 19:44:50,396 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-21 19:45:40,085 - INFO] DVC training
+2022-09-21 19:45:40,085 - INFO] config : 
+2022-09-21 19:45:40,092 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-21 19:46:11,496 - INFO] DVC training
+2022-09-21 19:46:11,496 - INFO] config : 
+2022-09-21 19:46:11,504 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-21 19:47:10,938 - INFO] Train Epoch : 28 Loss:	 0.010401	 lr:1e-05
+2022-09-21 19:48:25,601 - INFO] DVC training
+2022-09-21 19:48:25,601 - INFO] config : 
+2022-09-21 19:48:25,608 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-21 19:55:07,404 - INFO] DVC training
+2022-09-21 19:55:07,405 - INFO] config : 
+2022-09-21 19:55:07,406 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-21 19:55:34,855 - INFO] Train Epoch : 29 Loss:	 0.015075	 lr:1e-05
+2022-09-21 19:57:00,397 - INFO] DVC training
+2022-09-21 19:57:00,397 - INFO] config : 
+2022-09-21 19:57:00,404 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-21 19:57:33,203 - INFO] DVC training
+2022-09-21 19:57:33,203 - INFO] config : 
+2022-09-21 19:57:33,205 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-21 19:58:21,699 - INFO] DVC training
+2022-09-21 19:58:21,700 - INFO] config : 
+2022-09-21 19:58:21,701 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-21 20:03:14,478 - INFO] Train Epoch : 30 Loss:	 0.009054	 lr:1e-05
+2022-09-21 20:03:41,957 - INFO] DVC training
+2022-09-21 20:03:41,957 - INFO] config : 
+2022-09-21 20:03:41,964 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-21 20:05:05,273 - INFO] DVC training
+2022-09-21 20:05:05,274 - INFO] config : 
+2022-09-21 20:05:05,280 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-21 20:06:23,390 - INFO] DVC training
+2022-09-21 20:06:23,390 - INFO] config : 
+2022-09-21 20:06:23,397 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-21 20:07:41,009 - INFO] DVC training
+2022-09-21 20:07:41,010 - INFO] config : 
+2022-09-21 20:07:41,016 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-21 20:11:42,696 - INFO] Train Epoch : 31 Loss:	 0.011566	 lr:1e-05
+2022-09-21 20:21:27,894 - INFO] Train Epoch : 32 Loss:	 0.011833	 lr:1e-05
+2022-09-21 20:31:05,260 - INFO] Train Epoch : 33 Loss:	 0.009718	 lr:1e-05
+2022-09-21 20:33:50,585 - INFO] DVC training
+2022-09-21 20:33:50,585 - INFO] config : 
+2022-09-21 20:33:50,591 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-21 20:34:16,836 - INFO] DVC training
+2022-09-21 20:34:16,836 - INFO] config : 
+2022-09-21 20:34:16,844 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-21 20:36:26,486 - INFO] DVC training
+2022-09-21 20:36:26,486 - INFO] config : 
+2022-09-21 20:36:26,488 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-21 20:36:45,768 - INFO] Train Epoch : 34 Loss:	 0.010671	 lr:1e-05
+2022-09-21 20:38:38,436 - INFO] DVC training
+2022-09-21 20:38:38,436 - INFO] config : 
+2022-09-21 20:38:38,442 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-21 20:42:21,440 - INFO] Train Epoch : 35 Loss:	 0.012994	 lr:1e-05
+2022-09-21 20:44:30,343 - INFO] DVC training
+2022-09-21 20:44:30,343 - INFO] config : 
+2022-09-21 20:44:30,350 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-21 20:47:45,170 - INFO] Train Epoch : 36 Loss:	 0.009345	 lr:1e-05
+2022-09-21 20:49:13,440 - INFO] DVC training
+2022-09-21 20:49:13,440 - INFO] config : 
+2022-09-21 20:49:13,448 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-21 20:49:44,599 - INFO] DVC training
+2022-09-21 20:49:44,599 - INFO] config : 
+2022-09-21 20:49:44,600 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-21 20:50:22,689 - INFO] DVC training
+2022-09-21 20:50:22,689 - INFO] config : 
+2022-09-21 20:50:22,696 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-21 20:53:21,253 - INFO] Train Epoch : 37 Loss:	 0.011645	 lr:1e-05
+2022-09-21 20:58:56,827 - INFO] Train Epoch : 38 Loss:	 0.015006	 lr:1e-05
+2022-09-21 21:04:36,253 - INFO] Train Epoch : 39 Loss:	 0.011899	 lr:1e-05
+2022-09-21 21:05:00,611 - INFO] DVC training
+2022-09-21 21:05:00,611 - INFO] config : 
+2022-09-21 21:05:00,613 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-21 21:06:28,867 - INFO] DVC training
+2022-09-21 21:06:28,867 - INFO] config : 
+2022-09-21 21:06:28,874 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-21 21:13:43,795 - INFO] Train Epoch : 40 Loss:	 0.012186	 lr:1e-05
+2022-09-21 21:19:13,877 - INFO] Train Epoch : 00 Loss:	 0.010476	 lr:1e-05
+2022-09-21 21:20:47,449 - INFO] DVC training
+2022-09-21 21:20:47,449 - INFO] config : 
+2022-09-21 21:20:47,451 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-21 21:21:36,797 - INFO] DVC training
+2022-09-21 21:21:36,797 - INFO] config : 
+2022-09-21 21:21:36,798 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-21 21:22:46,695 - INFO] global step 2093 : 
+
+2022-09-21 21:22:46,696 - INFO] EWAP_eth dataset : average bpp : 0.077599, average psnr : 35.079471, average msssim: 0.981171
+
+2022-09-21 21:23:29,366 - INFO] Train Epoch : 41 Loss:	 0.012058	 lr:1e-05
+2022-09-21 21:31:50,236 - INFO] Train Epoch : 01 Loss:	 0.013367	 lr:1e-05
+2022-09-21 21:33:14,992 - INFO] Train Epoch : 42 Loss:	 0.013229	 lr:1e-05
+2022-09-21 21:40:15,546 - INFO] DVC training
+2022-09-21 21:40:15,546 - INFO] config : 
+2022-09-21 21:40:15,548 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-21 21:41:24,072 - INFO] global step 2093 : 
+
+2022-09-21 21:41:24,073 - INFO] EWAP_eth dataset : average bpp : 0.077599, average psnr : 35.079448, average msssim: 0.981171
+
+2022-09-21 21:41:39,202 - INFO] DVC training
+2022-09-21 21:41:39,202 - INFO] config : 
+2022-09-21 21:41:39,209 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-21 21:42:39,574 - INFO] DVC training
+2022-09-21 21:42:39,574 - INFO] config : 
+2022-09-21 21:42:39,580 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-21 21:43:03,784 - INFO] Train Epoch : 43 Loss:	 0.007446	 lr:1e-05
+2022-09-21 21:43:50,125 - INFO] global step 4186 : 
+
+2022-09-21 21:43:50,125 - INFO] EWAP_eth dataset : average bpp : 0.077009, average psnr : 35.131174, average msssim: 0.981100
+
+2022-09-21 21:44:38,470 - INFO] DVC training
+2022-09-21 21:44:38,470 - INFO] config : 
+2022-09-21 21:44:38,478 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-21 21:46:35,813 - INFO] DVC training
+2022-09-21 21:46:35,813 - INFO] config : 
+2022-09-21 21:46:35,814 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-21 21:47:19,689 - INFO] DVC training
+2022-09-21 21:47:19,690 - INFO] config : 
+2022-09-21 21:47:19,696 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-21 21:50:19,594 - INFO] Train Epoch : 44 Loss:	 0.014187	 lr:1e-05
+2022-09-21 21:54:06,775 - INFO] DVC training
+2022-09-21 21:54:06,776 - INFO] config : 
+2022-09-21 21:54:06,777 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-21 21:59:52,652 - INFO] Train Epoch : 45 Loss:	 0.014001	 lr:1e-05
+2022-09-21 22:07:15,943 - INFO] Train Epoch : 00 Loss:	 0.607350	 lr:1e-05
+2022-09-21 22:09:44,570 - INFO] Train Epoch : 46 Loss:	 0.013793	 lr:1e-05
+2022-09-21 22:19:38,088 - INFO] Train Epoch : 47 Loss:	 0.010179	 lr:1e-05
+2022-09-21 22:20:14,698 - INFO] Train Epoch : 01 Loss:	 0.478898	 lr:1e-05
+2022-09-21 22:29:31,886 - INFO] Train Epoch : 48 Loss:	 0.011814	 lr:1e-05
+2022-09-21 22:33:10,172 - INFO] Train Epoch : 02 Loss:	 0.392008	 lr:1e-05
+2022-09-21 22:39:24,401 - INFO] Train Epoch : 49 Loss:	 0.015150	 lr:1e-05
+2022-09-21 22:46:07,589 - INFO] Train Epoch : 03 Loss:	 0.307063	 lr:1e-05
+2022-09-21 22:49:17,102 - INFO] Train Epoch : 50 Loss:	 0.010199	 lr:1e-05
+2022-09-21 22:59:04,431 - INFO] Train Epoch : 04 Loss:	 0.244876	 lr:1e-05
+2022-09-21 22:59:10,676 - INFO] Train Epoch : 51 Loss:	 0.010724	 lr:1e-05
+2022-09-21 23:09:04,396 - INFO] Train Epoch : 52 Loss:	 0.015550	 lr:1e-05
+2022-09-21 23:12:03,841 - INFO] Train Epoch : 05 Loss:	 0.232060	 lr:1e-05
+2022-09-21 23:18:57,826 - INFO] Train Epoch : 53 Loss:	 0.011471	 lr:1e-05
+2022-09-21 23:25:01,340 - INFO] Train Epoch : 06 Loss:	 0.234508	 lr:1e-05
+2022-09-21 23:28:50,689 - INFO] Train Epoch : 54 Loss:	 0.009230	 lr:1e-05
+2022-09-21 23:37:57,889 - INFO] Train Epoch : 07 Loss:	 0.185880	 lr:1e-05
+2022-09-21 23:38:44,800 - INFO] Train Epoch : 55 Loss:	 0.010058	 lr:1e-05
+2022-09-21 23:48:40,169 - INFO] Train Epoch : 56 Loss:	 0.010167	 lr:1e-05
+2022-09-21 23:50:50,690 - INFO] Train Epoch : 08 Loss:	 0.169785	 lr:1e-05
+2022-09-21 23:58:33,075 - INFO] Train Epoch : 57 Loss:	 0.010155	 lr:1e-05
+2022-09-22 00:03:47,483 - INFO] Train Epoch : 09 Loss:	 0.184140	 lr:1e-05
+2022-09-22 00:08:26,483 - INFO] Train Epoch : 58 Loss:	 0.009241	 lr:1e-05
+2022-09-22 00:16:43,578 - INFO] Train Epoch : 10 Loss:	 0.145808	 lr:1e-05
+2022-09-22 00:18:19,341 - INFO] Train Epoch : 59 Loss:	 0.010248	 lr:1e-05
+2022-09-22 00:28:14,285 - INFO] Train Epoch : 60 Loss:	 0.011553	 lr:1e-05
+2022-09-22 00:29:40,690 - INFO] Train Epoch : 11 Loss:	 0.145401	 lr:1e-05
+2022-09-22 00:38:06,728 - INFO] Train Epoch : 61 Loss:	 0.012886	 lr:1e-05
+2022-09-22 00:42:38,259 - INFO] Train Epoch : 12 Loss:	 0.134067	 lr:1e-05
+2022-09-22 00:47:59,065 - INFO] Train Epoch : 62 Loss:	 0.014023	 lr:1e-05
+2022-09-22 00:55:33,569 - INFO] Train Epoch : 13 Loss:	 0.118048	 lr:1e-05
+2022-09-22 00:57:53,196 - INFO] Train Epoch : 63 Loss:	 0.010346	 lr:1e-05
+2022-09-22 01:07:47,302 - INFO] Train Epoch : 64 Loss:	 0.012516	 lr:1e-05
+2022-09-22 01:08:30,133 - INFO] Train Epoch : 14 Loss:	 0.119461	 lr:1e-05
+2022-09-22 01:17:40,654 - INFO] Train Epoch : 65 Loss:	 0.013635	 lr:1e-05
+2022-09-22 01:21:29,217 - INFO] Train Epoch : 15 Loss:	 0.109261	 lr:1e-05
+2022-09-22 01:27:34,006 - INFO] Train Epoch : 66 Loss:	 0.009573	 lr:1e-05
+2022-09-22 01:34:25,391 - INFO] Train Epoch : 16 Loss:	 0.122763	 lr:1e-05
+2022-09-22 01:37:27,557 - INFO] Train Epoch : 67 Loss:	 0.012928	 lr:1e-05
+2022-09-22 01:47:20,807 - INFO] Train Epoch : 17 Loss:	 0.105177	 lr:1e-05
+2022-09-22 01:47:22,327 - INFO] Train Epoch : 68 Loss:	 0.008074	 lr:1e-05
+2022-09-22 01:57:17,906 - INFO] Train Epoch : 69 Loss:	 0.012918	 lr:1e-05
+2022-09-22 02:00:16,180 - INFO] Train Epoch : 18 Loss:	 0.089866	 lr:1e-05
+2022-09-22 02:07:10,774 - INFO] Train Epoch : 70 Loss:	 0.010462	 lr:1e-05
+2022-09-22 02:13:14,262 - INFO] Train Epoch : 19 Loss:	 0.108447	 lr:1e-05
+2022-09-22 02:17:03,579 - INFO] Train Epoch : 71 Loss:	 0.011097	 lr:1e-05
+2022-09-22 02:26:10,176 - INFO] Train Epoch : 20 Loss:	 0.087765	 lr:1e-05
+2022-09-22 02:26:57,407 - INFO] Train Epoch : 72 Loss:	 0.010857	 lr:1.0000000000000002e-06
+2022-09-22 02:36:54,542 - INFO] Train Epoch : 73 Loss:	 0.010494	 lr:1.0000000000000002e-06
+2022-09-22 02:39:04,468 - INFO] Train Epoch : 21 Loss:	 0.094109	 lr:1e-05
+2022-09-22 02:46:48,564 - INFO] Train Epoch : 74 Loss:	 0.010066	 lr:1.0000000000000002e-06
+2022-09-22 02:51:59,437 - INFO] Train Epoch : 22 Loss:	 0.092114	 lr:1e-05
+2022-09-22 02:56:41,784 - INFO] Train Epoch : 75 Loss:	 0.012080	 lr:1.0000000000000002e-06
+2022-09-22 03:04:53,191 - INFO] Train Epoch : 23 Loss:	 0.090142	 lr:1e-05
+2022-09-22 03:06:37,050 - INFO] Train Epoch : 76 Loss:	 0.013326	 lr:1.0000000000000002e-06
+2022-09-22 03:16:29,549 - INFO] Train Epoch : 77 Loss:	 0.012587	 lr:1.0000000000000002e-06
+2022-09-22 03:17:50,751 - INFO] Train Epoch : 24 Loss:	 0.079604	 lr:1e-05
+2022-09-22 03:26:23,072 - INFO] Train Epoch : 78 Loss:	 0.011307	 lr:1.0000000000000002e-06
+2022-09-22 03:30:46,718 - INFO] Train Epoch : 25 Loss:	 0.076390	 lr:1e-05
+2022-09-22 03:36:16,040 - INFO] Train Epoch : 79 Loss:	 0.011236	 lr:1.0000000000000002e-06
+2022-09-22 03:43:41,053 - INFO] Train Epoch : 26 Loss:	 0.091251	 lr:1e-05
+2022-09-22 03:46:11,295 - INFO] Train Epoch : 80 Loss:	 0.010899	 lr:1.0000000000000002e-06
+2022-09-22 03:56:05,581 - INFO] Train Epoch : 81 Loss:	 0.012306	 lr:1.0000000000000002e-06
+2022-09-22 03:56:35,604 - INFO] Train Epoch : 27 Loss:	 0.079990	 lr:1e-05
+2022-09-22 04:05:58,137 - INFO] Train Epoch : 82 Loss:	 0.009558	 lr:1.0000000000000002e-06
+2022-09-22 04:09:32,374 - INFO] Train Epoch : 28 Loss:	 0.071063	 lr:1e-05
+2022-09-22 04:15:52,344 - INFO] Train Epoch : 83 Loss:	 0.011595	 lr:1.0000000000000002e-06
+2022-09-22 04:22:26,257 - INFO] Train Epoch : 29 Loss:	 0.080527	 lr:1e-05
+2022-09-22 04:25:46,024 - INFO] Train Epoch : 84 Loss:	 0.012793	 lr:1.0000000000000002e-06
+2022-09-22 04:35:23,142 - INFO] Train Epoch : 30 Loss:	 0.074690	 lr:1e-05
+2022-09-22 04:35:40,989 - INFO] Train Epoch : 85 Loss:	 0.010688	 lr:1.0000000000000002e-06
+2022-09-22 04:45:35,275 - INFO] Train Epoch : 86 Loss:	 0.009819	 lr:1.0000000000000002e-06
+2022-09-22 04:48:18,294 - INFO] Train Epoch : 31 Loss:	 0.073503	 lr:1e-05
+2022-09-22 04:55:30,074 - INFO] Train Epoch : 87 Loss:	 0.008179	 lr:1.0000000000000002e-06
+2022-09-22 05:01:14,141 - INFO] Train Epoch : 32 Loss:	 0.066956	 lr:1e-05
+2022-09-22 05:05:24,770 - INFO] Train Epoch : 88 Loss:	 0.008144	 lr:1.0000000000000002e-06
+2022-09-22 05:14:11,674 - INFO] Train Epoch : 33 Loss:	 0.072144	 lr:1e-05
+2022-09-22 05:15:18,460 - INFO] Train Epoch : 89 Loss:	 0.010886	 lr:1.0000000000000002e-06
+2022-09-22 05:25:13,085 - INFO] Train Epoch : 90 Loss:	 0.012780	 lr:1.0000000000000002e-06
+2022-09-22 05:27:04,984 - INFO] Train Epoch : 34 Loss:	 0.070167	 lr:1e-05
+2022-09-22 05:35:08,895 - INFO] Train Epoch : 91 Loss:	 0.011625	 lr:1.0000000000000002e-06
+2022-09-22 05:39:58,655 - INFO] Train Epoch : 35 Loss:	 0.068535	 lr:1e-05
+2022-09-22 05:45:02,524 - INFO] Train Epoch : 92 Loss:	 0.012948	 lr:1.0000000000000002e-06
+2022-09-22 05:52:53,360 - INFO] Train Epoch : 36 Loss:	 0.077002	 lr:1e-05
+2022-09-22 05:54:57,004 - INFO] Train Epoch : 93 Loss:	 0.012146	 lr:1.0000000000000002e-06
+2022-09-22 06:04:51,578 - INFO] Train Epoch : 94 Loss:	 0.009707	 lr:1.0000000000000002e-06
+2022-09-22 06:05:49,734 - INFO] Train Epoch : 37 Loss:	 0.072406	 lr:1e-05
+2022-09-22 06:14:44,812 - INFO] Train Epoch : 95 Loss:	 0.011297	 lr:1.0000000000000002e-06
+2022-09-22 06:16:53,232 - INFO] Train Epoch : 38 Loss:	 0.058649	 lr:1e-05
+2022-09-22 06:23:44,823 - INFO] Train Epoch : 39 Loss:	 0.071529	 lr:1e-05
+2022-09-22 06:30:37,377 - INFO] Train Epoch : 40 Loss:	 0.067636	 lr:1e-05
+2022-09-22 06:37:27,593 - INFO] Train Epoch : 41 Loss:	 0.068906	 lr:1e-05
+2022-09-22 06:44:19,832 - INFO] Train Epoch : 42 Loss:	 0.068802	 lr:1e-05
+2022-09-22 06:51:09,099 - INFO] Train Epoch : 43 Loss:	 0.069463	 lr:1e-05
+2022-09-22 06:57:59,812 - INFO] Train Epoch : 44 Loss:	 0.061093	 lr:1e-05
+2022-09-22 07:04:50,280 - INFO] Train Epoch : 45 Loss:	 0.069978	 lr:1e-05
+2022-09-22 07:11:40,749 - INFO] Train Epoch : 46 Loss:	 0.073563	 lr:1e-05
+2022-09-22 07:18:31,310 - INFO] Train Epoch : 47 Loss:	 0.062756	 lr:1e-05
+2022-09-22 07:25:22,977 - INFO] Train Epoch : 48 Loss:	 0.066161	 lr:1e-05
+2022-09-22 07:32:14,458 - INFO] Train Epoch : 49 Loss:	 0.069746	 lr:1e-05
+2022-09-22 07:39:04,323 - INFO] Train Epoch : 50 Loss:	 0.057439	 lr:1e-05
+2022-09-22 07:45:56,188 - INFO] Train Epoch : 51 Loss:	 0.054142	 lr:1e-05
+2022-09-22 07:52:45,209 - INFO] Train Epoch : 52 Loss:	 0.062935	 lr:1e-05
+2022-09-22 07:59:33,374 - INFO] Train Epoch : 53 Loss:	 0.060516	 lr:1e-05
+2022-09-22 08:06:25,297 - INFO] Train Epoch : 54 Loss:	 0.067803	 lr:1e-05
+2022-09-22 08:13:17,443 - INFO] Train Epoch : 55 Loss:	 0.068347	 lr:1e-05
+2022-09-22 08:20:12,253 - INFO] Train Epoch : 56 Loss:	 0.073390	 lr:1e-05
+2022-09-22 08:27:05,595 - INFO] Train Epoch : 57 Loss:	 0.057860	 lr:1e-05
+2022-09-22 08:33:57,624 - INFO] Train Epoch : 58 Loss:	 0.067456	 lr:1e-05
+2022-09-22 08:40:49,898 - INFO] Train Epoch : 59 Loss:	 0.065170	 lr:1e-05
+2022-09-22 08:47:43,117 - INFO] Train Epoch : 60 Loss:	 0.064246	 lr:1e-05
+2022-09-22 08:54:33,449 - INFO] Train Epoch : 61 Loss:	 0.063857	 lr:1e-05
+2022-09-22 09:01:23,498 - INFO] Train Epoch : 62 Loss:	 0.064781	 lr:1e-05
+2022-09-22 09:08:14,293 - INFO] Train Epoch : 63 Loss:	 0.057418	 lr:1e-05
+2022-09-22 09:15:06,431 - INFO] Train Epoch : 64 Loss:	 0.063272	 lr:1e-05
+2022-09-22 09:21:58,924 - INFO] Train Epoch : 65 Loss:	 0.054995	 lr:1e-05
+2022-09-22 09:29:30,147 - INFO] DVC training
+2022-09-22 09:29:30,148 - INFO] config : 
+2022-09-22 09:29:30,149 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-22 09:31:08,900 - INFO] DVC training
+2022-09-22 09:31:08,900 - INFO] config : 
+2022-09-22 09:31:08,902 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-22 09:32:17,844 - INFO] global step 98371 : 
+
+2022-09-22 09:32:17,845 - INFO] EWAP_eth dataset : average bpp : 0.072441, average psnr : 29.515561, average msssim: 0.961844
+
+2022-09-22 10:32:07,788 - INFO] DVC training
+2022-09-22 10:32:07,788 - INFO] config : 
+2022-09-22 10:32:07,795 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-22 10:38:58,703 - INFO] Train Epoch : 00 Loss:	 0.011209	 lr:1e-05
+2022-09-22 10:45:43,514 - INFO] Train Epoch : 01 Loss:	 0.011365	 lr:1e-05
+2022-09-22 10:49:12,978 - INFO] DVC training
+2022-09-22 10:49:12,979 - INFO] config : 
+2022-09-22 10:49:12,980 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-22 10:50:21,970 - INFO] global step 2093 : 
+
+2022-09-22 10:50:21,971 - INFO] EWAP_eth dataset : average bpp : 0.308234, average psnr : 30.788087, average msssim: 0.358110
+
+2022-09-22 10:52:30,047 - INFO] Train Epoch : 02 Loss:	 0.008178	 lr:1e-05
+2022-09-22 10:53:39,472 - INFO] DVC training
+2022-09-22 10:53:39,472 - INFO] config : 
+2022-09-22 10:53:39,479 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-22 10:54:56,911 - INFO] DVC training
+2022-09-22 10:54:56,911 - INFO] config : 
+2022-09-22 10:54:56,918 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-22 10:57:08,706 - INFO] DVC training
+2022-09-22 10:57:08,706 - INFO] config : 
+2022-09-22 10:57:08,707 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-22 10:58:17,823 - INFO] global step 2093 : 
+
+2022-09-22 10:58:17,824 - INFO] EWAP_eth dataset : average bpp : 0.077509, average psnr : 38.785516, average msssim: 0.981115
+
+2022-09-22 10:59:20,226 - INFO] Train Epoch : 03 Loss:	 0.007588	 lr:1e-05
+2022-09-22 11:06:05,951 - INFO] Train Epoch : 04 Loss:	 0.009750	 lr:1e-05
+2022-09-22 11:12:50,995 - INFO] Train Epoch : 05 Loss:	 0.010117	 lr:1e-05
+2022-09-22 11:15:33,768 - INFO] DVC training
+2022-09-22 11:15:33,768 - INFO] config : 
+2022-09-22 11:15:33,776 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-22 11:16:37,608 - INFO] global step 2093 : 
+
+2022-09-22 11:16:37,609 - INFO] EWAP_eth dataset : average bpp : 0.082383, average psnr : 38.854901, average msssim: 0.980398
+
+2022-09-22 11:17:53,391 - INFO] DVC training
+2022-09-22 11:17:53,391 - INFO] config : 
+2022-09-22 11:17:53,393 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-22 11:19:15,863 - INFO] DVC training
+2022-09-22 11:19:15,864 - INFO] config : 
+2022-09-22 11:19:15,870 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-22 11:19:40,905 - INFO] Train Epoch : 06 Loss:	 0.011303	 lr:1e-05
+2022-09-22 11:23:14,608 - INFO] DVC training
+2022-09-22 11:23:14,608 - INFO] config : 
+2022-09-22 11:23:14,614 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-22 11:24:23,296 - INFO] global step 2093 : 
+
+2022-09-22 11:24:23,297 - INFO] EWAP_eth dataset : average bpp : 0.077510, average psnr : 38.785626, average msssim: 0.981115
+
+2022-09-22 11:26:28,060 - INFO] Train Epoch : 07 Loss:	 0.009295	 lr:1e-05
+2022-09-22 11:33:12,710 - INFO] Train Epoch : 08 Loss:	 0.009277	 lr:1e-05
+2022-09-22 11:39:59,043 - INFO] Train Epoch : 09 Loss:	 0.008263	 lr:1e-05
+2022-09-22 11:46:44,001 - INFO] Train Epoch : 10 Loss:	 0.008927	 lr:1e-05
+2022-09-22 11:53:29,597 - INFO] Train Epoch : 11 Loss:	 0.008957	 lr:1e-05
+2022-09-22 12:00:14,769 - INFO] Train Epoch : 12 Loss:	 0.009615	 lr:1e-05
+2022-09-22 12:06:59,481 - INFO] Train Epoch : 13 Loss:	 0.009150	 lr:1e-05
+2022-09-22 12:13:43,898 - INFO] Train Epoch : 14 Loss:	 0.007776	 lr:1e-05
+2022-09-22 12:20:29,437 - INFO] Train Epoch : 15 Loss:	 0.007841	 lr:1e-05
+2022-09-22 12:27:16,928 - INFO] Train Epoch : 16 Loss:	 0.009782	 lr:1e-05
+2022-09-22 12:34:02,408 - INFO] Train Epoch : 17 Loss:	 0.009966	 lr:1e-05
+2022-09-22 12:40:48,204 - INFO] Train Epoch : 18 Loss:	 0.009676	 lr:1e-05
+2022-09-22 12:47:33,243 - INFO] Train Epoch : 19 Loss:	 0.008314	 lr:1e-05
+2022-09-22 12:54:18,272 - INFO] Train Epoch : 20 Loss:	 0.009196	 lr:1e-05
+2022-09-22 13:01:04,405 - INFO] Train Epoch : 21 Loss:	 0.008106	 lr:1e-05
+2022-09-22 13:07:49,989 - INFO] Train Epoch : 22 Loss:	 0.009000	 lr:1e-05
+2022-09-22 13:14:35,243 - INFO] Train Epoch : 23 Loss:	 0.009454	 lr:1e-05
+2022-09-22 13:21:22,347 - INFO] Train Epoch : 24 Loss:	 0.009297	 lr:1e-05
+2022-09-22 13:28:08,709 - INFO] Train Epoch : 25 Loss:	 0.008471	 lr:1e-05
+2022-09-22 13:34:54,290 - INFO] Train Epoch : 26 Loss:	 0.008399	 lr:1e-05
+2022-09-22 13:41:37,812 - INFO] Train Epoch : 27 Loss:	 0.008518	 lr:1e-05
+2022-09-22 13:48:22,951 - INFO] Train Epoch : 28 Loss:	 0.007769	 lr:1e-05
+2022-09-22 13:55:08,601 - INFO] Train Epoch : 29 Loss:	 0.009362	 lr:1e-05
+2022-09-22 14:01:53,982 - INFO] Train Epoch : 30 Loss:	 0.009043	 lr:1e-05
+2022-09-22 14:08:39,999 - INFO] Train Epoch : 31 Loss:	 0.006700	 lr:1e-05
+2022-09-22 14:15:24,514 - INFO] Train Epoch : 32 Loss:	 0.010226	 lr:1e-05
+2022-09-22 14:22:11,487 - INFO] Train Epoch : 33 Loss:	 0.008635	 lr:1e-05
+2022-09-22 14:28:59,160 - INFO] Train Epoch : 34 Loss:	 0.009192	 lr:1e-05
+2022-09-22 14:34:00,938 - INFO] DVC training
+2022-09-22 14:34:00,938 - INFO] config : 
+2022-09-22 14:34:00,939 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-22 14:40:55,173 - INFO] Train Epoch : 00 Loss:	 0.011541	 lr:1e-05
+2022-09-22 14:47:39,431 - INFO] Train Epoch : 01 Loss:	 0.012874	 lr:1e-05
+2022-09-22 14:48:18,766 - INFO] DVC training
+2022-09-22 14:48:18,766 - INFO] config : 
+2022-09-22 14:48:18,768 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-22 14:49:27,869 - INFO] global step 2093 : 
+
+2022-09-22 14:49:27,870 - INFO] EWAP_eth dataset : average bpp : 0.077589, average psnr : 35.079255, average msssim: 0.981133
+
+2022-09-22 14:50:24,069 - INFO] DVC training
+2022-09-22 14:50:24,069 - INFO] config : 
+2022-09-22 14:50:24,071 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-22 14:51:33,111 - INFO] global step 0 : 
+
+2022-09-22 14:51:33,112 - INFO] EWAP_eth dataset : average bpp : 0.081392, average psnr : 34.041590, average msssim: 0.980230
+
+2022-09-22 14:54:27,995 - INFO] Train Epoch : 02 Loss:	 0.012744	 lr:1e-05
+2022-09-22 15:01:14,167 - INFO] Train Epoch : 03 Loss:	 0.011254	 lr:1e-05
+2022-09-22 15:08:14,718 - INFO] Train Epoch : 04 Loss:	 0.015183	 lr:1e-05
+2022-09-22 15:15:16,653 - INFO] Train Epoch : 05 Loss:	 0.014544	 lr:1e-05
+2022-09-22 15:22:03,529 - INFO] Train Epoch : 06 Loss:	 0.014177	 lr:1e-05
+2022-09-22 15:29:04,464 - INFO] Train Epoch : 07 Loss:	 0.010632	 lr:1e-05
+2022-09-22 15:36:35,356 - INFO] Train Epoch : 08 Loss:	 0.012792	 lr:1e-05
+2022-09-22 15:44:58,815 - INFO] Train Epoch : 09 Loss:	 0.011599	 lr:1e-05
+2022-09-22 15:52:09,009 - INFO] Train Epoch : 10 Loss:	 0.009694	 lr:1e-05
+2022-09-22 15:58:56,714 - INFO] Train Epoch : 11 Loss:	 0.013051	 lr:1e-05
+2022-09-22 16:05:46,024 - INFO] Train Epoch : 12 Loss:	 0.015270	 lr:1e-05
+2022-09-22 16:12:35,834 - INFO] Train Epoch : 13 Loss:	 0.009597	 lr:1e-05
+2022-09-22 16:19:23,369 - INFO] Train Epoch : 14 Loss:	 0.011817	 lr:1e-05
+2022-09-22 16:26:10,328 - INFO] Train Epoch : 15 Loss:	 0.013880	 lr:1e-05
+2022-09-22 16:32:58,124 - INFO] Train Epoch : 16 Loss:	 0.012400	 lr:1e-05
+2022-09-22 16:39:48,628 - INFO] Train Epoch : 17 Loss:	 0.014210	 lr:1e-05
+2022-09-22 16:46:39,449 - INFO] Train Epoch : 18 Loss:	 0.013751	 lr:1e-05
+2022-09-22 16:53:26,506 - INFO] Train Epoch : 19 Loss:	 0.012442	 lr:1e-05
+2022-09-22 17:00:10,299 - INFO] Train Epoch : 20 Loss:	 0.010891	 lr:1e-05
+2022-09-22 17:06:56,372 - INFO] Train Epoch : 21 Loss:	 0.010382	 lr:1e-05
+2022-09-22 17:13:40,912 - INFO] Train Epoch : 22 Loss:	 0.015426	 lr:1e-05
+2022-09-22 17:20:26,127 - INFO] Train Epoch : 23 Loss:	 0.011342	 lr:1e-05
+2022-09-22 17:27:10,818 - INFO] Train Epoch : 24 Loss:	 0.009384	 lr:1e-05
+2022-09-22 17:33:56,844 - INFO] Train Epoch : 25 Loss:	 0.008585	 lr:1e-05
+2022-09-22 17:40:42,882 - INFO] Train Epoch : 26 Loss:	 0.013102	 lr:1e-05
+2022-09-22 17:47:30,860 - INFO] Train Epoch : 27 Loss:	 0.011831	 lr:1e-05
+2022-09-22 17:54:17,756 - INFO] Train Epoch : 28 Loss:	 0.013188	 lr:1e-05
+2022-09-22 18:01:02,288 - INFO] Train Epoch : 29 Loss:	 0.009644	 lr:1e-05
+2022-09-22 18:07:47,238 - INFO] Train Epoch : 30 Loss:	 0.011219	 lr:1e-05
+2022-09-22 18:14:30,973 - INFO] Train Epoch : 31 Loss:	 0.012160	 lr:1e-05
+2022-09-22 18:21:16,697 - INFO] Train Epoch : 32 Loss:	 0.014048	 lr:1e-05
+2022-09-22 18:28:02,644 - INFO] Train Epoch : 33 Loss:	 0.011574	 lr:1e-05
+2022-09-22 18:34:49,237 - INFO] Train Epoch : 34 Loss:	 0.011914	 lr:1e-05
+2022-09-22 18:41:37,765 - INFO] Train Epoch : 35 Loss:	 0.014672	 lr:1e-05
+2022-09-22 18:48:24,463 - INFO] Train Epoch : 36 Loss:	 0.012381	 lr:1e-05
+2022-09-22 18:55:12,298 - INFO] Train Epoch : 37 Loss:	 0.009151	 lr:1e-05
+2022-09-22 19:01:59,142 - INFO] Train Epoch : 38 Loss:	 0.011200	 lr:1e-05
+2022-09-22 19:08:45,190 - INFO] Train Epoch : 39 Loss:	 0.011925	 lr:1e-05
+2022-09-22 19:15:32,030 - INFO] Train Epoch : 40 Loss:	 0.010502	 lr:1e-05
+2022-09-22 19:22:17,428 - INFO] Train Epoch : 41 Loss:	 0.010289	 lr:1e-05
+2022-09-22 19:29:04,846 - INFO] Train Epoch : 42 Loss:	 0.013077	 lr:1e-05
+2022-09-22 19:35:50,833 - INFO] Train Epoch : 43 Loss:	 0.014063	 lr:1e-05
+2022-09-22 19:42:36,268 - INFO] Train Epoch : 44 Loss:	 0.012147	 lr:1e-05
+2022-09-22 19:49:22,041 - INFO] Train Epoch : 45 Loss:	 0.013106	 lr:1e-05
+2022-09-22 19:56:10,402 - INFO] Train Epoch : 46 Loss:	 0.012882	 lr:1e-05
+2022-09-22 20:03:00,041 - INFO] Train Epoch : 47 Loss:	 0.008402	 lr:1e-05
+2022-09-22 20:09:49,526 - INFO] Train Epoch : 48 Loss:	 0.012414	 lr:1e-05
+2022-09-22 20:16:37,943 - INFO] Train Epoch : 49 Loss:	 0.011720	 lr:1e-05
+2022-09-22 20:23:27,578 - INFO] Train Epoch : 50 Loss:	 0.010899	 lr:1e-05
+2022-09-22 20:30:15,084 - INFO] Train Epoch : 51 Loss:	 0.013197	 lr:1e-05
+2022-09-22 20:37:02,286 - INFO] Train Epoch : 52 Loss:	 0.010276	 lr:1e-05
+2022-09-22 20:43:51,570 - INFO] Train Epoch : 53 Loss:	 0.011506	 lr:1e-05
+2022-09-22 20:50:39,254 - INFO] Train Epoch : 54 Loss:	 0.012394	 lr:1e-05
+2022-09-22 20:57:26,146 - INFO] Train Epoch : 55 Loss:	 0.010345	 lr:1e-05
+2022-09-22 21:04:14,298 - INFO] Train Epoch : 56 Loss:	 0.012817	 lr:1e-05
+2022-09-22 21:11:02,125 - INFO] Train Epoch : 57 Loss:	 0.010529	 lr:1e-05
+2022-09-22 21:17:48,664 - INFO] Train Epoch : 58 Loss:	 0.011891	 lr:1e-05
+2022-09-22 21:24:33,562 - INFO] Train Epoch : 59 Loss:	 0.012835	 lr:1e-05
+2022-09-22 21:31:22,427 - INFO] Train Epoch : 60 Loss:	 0.010400	 lr:1e-05
+2022-09-22 21:38:10,898 - INFO] Train Epoch : 61 Loss:	 0.010921	 lr:1e-05
+2022-09-22 21:44:59,522 - INFO] Train Epoch : 62 Loss:	 0.010039	 lr:1e-05
+2022-09-22 21:51:48,228 - INFO] Train Epoch : 63 Loss:	 0.010248	 lr:1e-05
+2022-09-22 21:58:36,761 - INFO] Train Epoch : 64 Loss:	 0.009840	 lr:1e-05
+2022-09-22 22:05:24,029 - INFO] Train Epoch : 65 Loss:	 0.009403	 lr:1e-05
+2022-09-22 22:12:10,383 - INFO] Train Epoch : 66 Loss:	 0.012617	 lr:1e-05
+2022-09-22 22:18:57,962 - INFO] Train Epoch : 67 Loss:	 0.012343	 lr:1e-05
+2022-09-22 22:25:42,908 - INFO] Train Epoch : 68 Loss:	 0.012034	 lr:1e-05
+2022-09-22 22:32:29,526 - INFO] Train Epoch : 69 Loss:	 0.014863	 lr:1e-05
+2022-09-22 22:39:16,102 - INFO] Train Epoch : 70 Loss:	 0.009633	 lr:1e-05
+2022-09-22 22:46:04,129 - INFO] Train Epoch : 71 Loss:	 0.010921	 lr:1e-05
+2022-09-22 22:52:51,485 - INFO] Train Epoch : 72 Loss:	 0.013197	 lr:1.0000000000000002e-06
+2022-09-22 22:59:37,983 - INFO] Train Epoch : 73 Loss:	 0.010117	 lr:1.0000000000000002e-06
+2022-09-22 23:06:25,834 - INFO] Train Epoch : 74 Loss:	 0.013966	 lr:1.0000000000000002e-06
+2022-09-22 23:13:11,917 - INFO] Train Epoch : 75 Loss:	 0.012017	 lr:1.0000000000000002e-06
+2022-09-22 23:20:01,544 - INFO] Train Epoch : 76 Loss:	 0.010449	 lr:1.0000000000000002e-06
+2022-09-22 23:26:49,290 - INFO] Train Epoch : 77 Loss:	 0.009514	 lr:1.0000000000000002e-06
+2022-09-22 23:33:35,520 - INFO] Train Epoch : 78 Loss:	 0.009107	 lr:1.0000000000000002e-06
+2022-09-22 23:40:20,442 - INFO] Train Epoch : 79 Loss:	 0.012739	 lr:1.0000000000000002e-06
+2022-09-22 23:47:08,671 - INFO] Train Epoch : 80 Loss:	 0.008626	 lr:1.0000000000000002e-06
+2022-09-22 23:53:55,292 - INFO] Train Epoch : 81 Loss:	 0.011340	 lr:1.0000000000000002e-06
+2022-09-23 00:00:42,614 - INFO] Train Epoch : 82 Loss:	 0.011801	 lr:1.0000000000000002e-06
+2022-09-23 00:07:29,347 - INFO] Train Epoch : 83 Loss:	 0.012337	 lr:1.0000000000000002e-06
+2022-09-23 00:14:16,464 - INFO] Train Epoch : 84 Loss:	 0.012021	 lr:1.0000000000000002e-06
+2022-09-23 00:21:04,778 - INFO] Train Epoch : 85 Loss:	 0.008689	 lr:1.0000000000000002e-06
+2022-09-23 00:27:52,844 - INFO] Train Epoch : 86 Loss:	 0.010937	 lr:1.0000000000000002e-06
+2022-09-23 00:34:42,106 - INFO] Train Epoch : 87 Loss:	 0.010430	 lr:1.0000000000000002e-06
+2022-09-23 00:41:29,293 - INFO] Train Epoch : 88 Loss:	 0.010309	 lr:1.0000000000000002e-06
+2022-09-23 00:48:15,747 - INFO] Train Epoch : 89 Loss:	 0.010983	 lr:1.0000000000000002e-06
+2022-09-23 00:55:03,242 - INFO] Train Epoch : 90 Loss:	 0.009571	 lr:1.0000000000000002e-06
+2022-09-23 01:01:51,228 - INFO] Train Epoch : 91 Loss:	 0.009944	 lr:1.0000000000000002e-06
+2022-09-23 01:08:41,161 - INFO] Train Epoch : 92 Loss:	 0.008686	 lr:1.0000000000000002e-06
+2022-09-23 01:15:27,618 - INFO] Train Epoch : 93 Loss:	 0.011599	 lr:1.0000000000000002e-06
+2022-09-23 01:22:13,450 - INFO] Train Epoch : 94 Loss:	 0.011395	 lr:1.0000000000000002e-06
+2022-09-23 01:28:59,253 - INFO] Train Epoch : 95 Loss:	 0.010843	 lr:1.0000000000000002e-06
+2022-09-23 15:07:22,911 - INFO] DVC training
+2022-09-23 15:07:22,912 - INFO] config : 
+2022-09-23 15:07:22,913 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-23 15:07:46,735 - INFO] DVC training
+2022-09-23 15:07:46,736 - INFO] config : 
+2022-09-23 15:07:46,737 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-23 15:08:55,157 - INFO] global step 186277 : 
+
+2022-09-23 15:08:55,158 - INFO] EWAP_eth dataset : average bpp : 0.065767, average psnr : 35.217393, average msssim: 0.980949
+
+2022-09-23 15:14:17,580 - INFO] DVC training
+2022-09-23 15:14:17,580 - INFO] config : 
+2022-09-23 15:14:17,586 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 1024,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-23 15:21:07,879 - INFO] Train Epoch : 00 Loss:	 0.023373	 lr:1e-05
+2022-09-23 15:27:50,762 - INFO] Train Epoch : 01 Loss:	 0.025067	 lr:1e-05
+2022-09-23 15:29:20,368 - INFO] DVC training
+2022-09-23 15:29:20,369 - INFO] config : 
+2022-09-23 15:29:20,370 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 1024,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-23 15:30:28,517 - INFO] global step 2093 : 
+
+2022-09-23 15:30:28,518 - INFO] EWAP_eth dataset : average bpp : 0.084907, average psnr : 35.348849, average msssim: 0.981910
+
+2022-09-23 15:31:10,161 - INFO] DVC training
+2022-09-23 15:31:10,161 - INFO] config : 
+2022-09-23 15:31:10,163 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-23 15:38:01,565 - INFO] Train Epoch : 00 Loss:	 0.052338	 lr:1e-05
+2022-09-23 15:44:47,508 - INFO] Train Epoch : 01 Loss:	 0.053583	 lr:1e-05
+2022-09-23 15:51:30,351 - INFO] Train Epoch : 02 Loss:	 0.042438	 lr:1e-05
+2022-09-23 15:58:14,443 - INFO] Train Epoch : 03 Loss:	 0.032906	 lr:1e-05
+2022-09-23 16:01:03,967 - INFO] DVC training
+2022-09-23 16:01:03,968 - INFO] config : 
+2022-09-23 16:01:03,969 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-23 16:02:16,247 - INFO] DVC training
+2022-09-23 16:02:16,247 - INFO] config : 
+2022-09-23 16:02:16,254 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-23 16:03:36,734 - INFO] global step 2093 : 
+
+2022-09-23 16:03:36,735 - INFO] EWAP_eth dataset : average bpp : 0.097675, average psnr : 35.532595, average msssim: 0.982482
+
+2022-09-23 16:10:31,935 - INFO] DVC training
+2022-09-23 16:10:31,935 - INFO] config : 
+2022-09-23 16:10:31,937 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-23 16:11:40,604 - INFO] global step 2093 : 
+
+2022-09-23 16:11:40,606 - INFO] EWAP_eth dataset : average bpp : 0.097670, average psnr : 35.532488, average msssim: 0.982482
+
+2022-09-23 16:29:24,101 - INFO] DVC training
+2022-09-23 16:29:24,101 - INFO] config : 
+2022-09-23 16:29:24,103 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-23 16:35:24,293 - INFO] Train Epoch : 00 Loss:	 0.038025	 lr:1e-05
+2022-09-23 16:36:20,810 - INFO] DVC training
+2022-09-23 16:36:20,810 - INFO] config : 
+2022-09-23 16:36:20,816 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-23 16:37:11,912 - INFO] global step 2093 : 
+
+2022-09-23 16:37:11,912 - INFO] EWAP_eth dataset : average bpp : 0.100608, average psnr : 36.794856, average msssim: 0.991529
+
+2022-09-23 16:41:21,829 - INFO] Train Epoch : 01 Loss:	 0.053885	 lr:1e-05
+2022-09-23 16:47:14,038 - INFO] Train Epoch : 02 Loss:	 0.039741	 lr:1e-05
+2022-09-23 16:53:19,250 - INFO] Train Epoch : 03 Loss:	 0.035639	 lr:1e-05
+2022-09-23 17:00:07,823 - INFO] Train Epoch : 04 Loss:	 0.030303	 lr:1e-05
+2022-09-23 17:06:47,609 - INFO] Train Epoch : 05 Loss:	 0.032682	 lr:1e-05
+2022-09-23 17:13:31,721 - INFO] Train Epoch : 06 Loss:	 0.048151	 lr:1e-05
+2022-09-23 17:19:55,457 - INFO] Train Epoch : 07 Loss:	 0.031933	 lr:1e-05
+2022-09-23 17:26:25,713 - INFO] Train Epoch : 08 Loss:	 0.039072	 lr:1e-05
+2022-09-23 17:32:57,853 - INFO] Train Epoch : 09 Loss:	 0.040843	 lr:1e-05
+2022-09-23 17:39:32,015 - INFO] Train Epoch : 10 Loss:	 0.036440	 lr:1e-05
+2022-09-23 17:46:07,440 - INFO] Train Epoch : 11 Loss:	 0.056693	 lr:1e-05
+2022-09-23 17:52:30,847 - INFO] Train Epoch : 12 Loss:	 0.039761	 lr:1e-05
+2022-09-23 17:59:06,293 - INFO] Train Epoch : 13 Loss:	 0.029822	 lr:1e-05
+2022-09-23 18:05:14,230 - INFO] Train Epoch : 14 Loss:	 0.038777	 lr:1e-05
+2022-09-23 18:11:09,224 - INFO] Train Epoch : 15 Loss:	 0.030729	 lr:1e-05
+2022-09-23 18:17:03,090 - INFO] Train Epoch : 16 Loss:	 0.041117	 lr:1e-05
+2022-09-23 18:22:53,979 - INFO] Train Epoch : 17 Loss:	 0.027507	 lr:1e-05
+2022-09-23 18:28:43,029 - INFO] Train Epoch : 18 Loss:	 0.034790	 lr:1e-05
+2022-09-23 18:34:32,096 - INFO] Train Epoch : 19 Loss:	 0.039835	 lr:1e-05
+2022-09-23 18:40:19,319 - INFO] Train Epoch : 20 Loss:	 0.036256	 lr:1e-05
+2022-09-23 18:46:08,111 - INFO] Train Epoch : 21 Loss:	 0.039565	 lr:1e-05
+2022-09-23 18:51:53,532 - INFO] Train Epoch : 22 Loss:	 0.036489	 lr:1e-05
+2022-09-23 18:57:41,173 - INFO] Train Epoch : 23 Loss:	 0.029118	 lr:1e-05
+2022-09-23 19:03:34,871 - INFO] Train Epoch : 24 Loss:	 0.035506	 lr:1e-05
+2022-09-23 19:09:24,996 - INFO] Train Epoch : 25 Loss:	 0.023464	 lr:1e-05
+2022-09-23 19:15:16,612 - INFO] Train Epoch : 26 Loss:	 0.034192	 lr:1e-05
+2022-09-23 19:21:06,218 - INFO] Train Epoch : 27 Loss:	 0.044134	 lr:1e-05
+2022-09-23 19:26:57,641 - INFO] Train Epoch : 28 Loss:	 0.035110	 lr:1e-05
+2022-09-23 19:32:50,246 - INFO] Train Epoch : 29 Loss:	 0.041380	 lr:1e-05
+2022-09-23 19:38:41,948 - INFO] Train Epoch : 30 Loss:	 0.025278	 lr:1e-05
+2022-09-23 19:44:33,409 - INFO] Train Epoch : 31 Loss:	 0.044699	 lr:1e-05
+2022-09-23 19:50:24,666 - INFO] Train Epoch : 32 Loss:	 0.029174	 lr:1e-05
+2022-09-23 19:56:15,048 - INFO] Train Epoch : 33 Loss:	 0.042262	 lr:1e-05
+2022-09-23 20:02:07,616 - INFO] Train Epoch : 34 Loss:	 0.026664	 lr:1e-05
+2022-09-23 20:07:56,969 - INFO] Train Epoch : 35 Loss:	 0.039195	 lr:1e-05
+2022-09-23 20:13:48,369 - INFO] Train Epoch : 36 Loss:	 0.040326	 lr:1e-05
+2022-09-23 20:19:38,477 - INFO] Train Epoch : 37 Loss:	 0.027149	 lr:1e-05
+2022-09-23 20:25:29,442 - INFO] Train Epoch : 38 Loss:	 0.036989	 lr:1e-05
+2022-09-23 20:31:23,530 - INFO] Train Epoch : 39 Loss:	 0.039471	 lr:1e-05
+2022-09-23 20:37:16,054 - INFO] Train Epoch : 40 Loss:	 0.032610	 lr:1e-05
+2022-09-23 20:43:06,562 - INFO] Train Epoch : 41 Loss:	 0.027843	 lr:1e-05
+2022-09-23 20:48:56,549 - INFO] Train Epoch : 42 Loss:	 0.030591	 lr:1e-05
+2022-09-23 20:54:48,443 - INFO] Train Epoch : 43 Loss:	 0.030879	 lr:1e-05
+2022-09-23 21:00:40,440 - INFO] Train Epoch : 44 Loss:	 0.041638	 lr:1e-05
+2022-09-23 21:06:31,670 - INFO] Train Epoch : 45 Loss:	 0.042694	 lr:1e-05
+2022-09-23 21:12:24,646 - INFO] Train Epoch : 46 Loss:	 0.046734	 lr:1e-05
+2022-09-23 21:18:16,549 - INFO] Train Epoch : 47 Loss:	 0.038440	 lr:1e-05
+2022-09-23 21:24:07,172 - INFO] Train Epoch : 48 Loss:	 0.033592	 lr:1e-05
+2022-09-23 21:29:59,230 - INFO] Train Epoch : 49 Loss:	 0.046898	 lr:1e-05
+2022-09-23 21:35:51,031 - INFO] Train Epoch : 50 Loss:	 0.027588	 lr:1e-05
+2022-09-23 21:41:41,043 - INFO] Train Epoch : 51 Loss:	 0.040999	 lr:1e-05
+2022-09-23 21:47:31,307 - INFO] Train Epoch : 52 Loss:	 0.035144	 lr:1e-05
+2022-09-23 21:53:22,698 - INFO] Train Epoch : 53 Loss:	 0.036084	 lr:1e-05
+2022-09-23 21:59:14,162 - INFO] Train Epoch : 54 Loss:	 0.037554	 lr:1e-05
+2022-09-23 22:05:05,083 - INFO] Train Epoch : 55 Loss:	 0.030870	 lr:1e-05
+2022-09-23 22:10:57,754 - INFO] Train Epoch : 56 Loss:	 0.036947	 lr:1e-05
+2022-09-23 22:16:51,056 - INFO] Train Epoch : 57 Loss:	 0.025906	 lr:1e-05
+2022-09-23 22:22:41,218 - INFO] Train Epoch : 58 Loss:	 0.038880	 lr:1e-05
+2022-09-23 22:28:30,739 - INFO] Train Epoch : 59 Loss:	 0.040823	 lr:1e-05
+2022-09-23 22:34:27,068 - INFO] Train Epoch : 60 Loss:	 0.043928	 lr:1e-05
+2022-09-23 22:40:17,440 - INFO] Train Epoch : 61 Loss:	 0.026822	 lr:1e-05
+2022-09-23 22:46:07,719 - INFO] Train Epoch : 62 Loss:	 0.026878	 lr:1e-05
+2022-09-23 22:51:59,258 - INFO] Train Epoch : 63 Loss:	 0.032728	 lr:1e-05
+2022-09-23 22:57:48,774 - INFO] Train Epoch : 64 Loss:	 0.030940	 lr:1e-05
+2022-09-23 23:03:40,048 - INFO] Train Epoch : 65 Loss:	 0.033264	 lr:1e-05
+2022-09-23 23:09:32,838 - INFO] Train Epoch : 66 Loss:	 0.030192	 lr:1e-05
+2022-09-23 23:15:21,628 - INFO] Train Epoch : 67 Loss:	 0.034119	 lr:1e-05
+2022-09-23 23:21:11,835 - INFO] Train Epoch : 68 Loss:	 0.030687	 lr:1e-05
+2022-09-23 23:27:03,737 - INFO] Train Epoch : 69 Loss:	 0.031714	 lr:1e-05
+2022-09-23 23:32:54,777 - INFO] Train Epoch : 70 Loss:	 0.030472	 lr:1e-05
+2022-09-23 23:38:46,688 - INFO] Train Epoch : 71 Loss:	 0.031037	 lr:1e-05
+2022-09-23 23:44:39,562 - INFO] Train Epoch : 72 Loss:	 0.034732	 lr:1.0000000000000002e-06
+2022-09-23 23:50:32,492 - INFO] Train Epoch : 73 Loss:	 0.026387	 lr:1.0000000000000002e-06
+2022-09-23 23:56:25,549 - INFO] Train Epoch : 74 Loss:	 0.038346	 lr:1.0000000000000002e-06
+2022-09-24 00:02:16,708 - INFO] Train Epoch : 75 Loss:	 0.035565	 lr:1.0000000000000002e-06
+2022-09-24 00:08:07,008 - INFO] Train Epoch : 76 Loss:	 0.035555	 lr:1.0000000000000002e-06
+2022-09-24 00:14:00,322 - INFO] Train Epoch : 77 Loss:	 0.032167	 lr:1.0000000000000002e-06
+2022-09-24 00:19:52,695 - INFO] Train Epoch : 78 Loss:	 0.040172	 lr:1.0000000000000002e-06
+2022-09-24 00:25:46,946 - INFO] Train Epoch : 79 Loss:	 0.048334	 lr:1.0000000000000002e-06
+2022-09-24 00:31:36,432 - INFO] Train Epoch : 80 Loss:	 0.038252	 lr:1.0000000000000002e-06
+2022-09-24 00:37:31,116 - INFO] Train Epoch : 81 Loss:	 0.039645	 lr:1.0000000000000002e-06
+2022-09-24 00:43:24,606 - INFO] Train Epoch : 82 Loss:	 0.032921	 lr:1.0000000000000002e-06
+2022-09-24 00:49:17,291 - INFO] Train Epoch : 83 Loss:	 0.039081	 lr:1.0000000000000002e-06
+2022-09-24 00:55:08,702 - INFO] Train Epoch : 84 Loss:	 0.038527	 lr:1.0000000000000002e-06
+2022-09-24 01:01:00,841 - INFO] Train Epoch : 85 Loss:	 0.032044	 lr:1.0000000000000002e-06
+2022-09-24 01:06:52,965 - INFO] Train Epoch : 86 Loss:	 0.035360	 lr:1.0000000000000002e-06
+2022-09-24 01:12:46,829 - INFO] Train Epoch : 87 Loss:	 0.032100	 lr:1.0000000000000002e-06
+2022-09-24 01:18:38,579 - INFO] Train Epoch : 88 Loss:	 0.028360	 lr:1.0000000000000002e-06
+2022-09-24 01:24:32,457 - INFO] Train Epoch : 89 Loss:	 0.036271	 lr:1.0000000000000002e-06
+2022-09-24 01:30:24,172 - INFO] Train Epoch : 90 Loss:	 0.031858	 lr:1.0000000000000002e-06
+2022-09-24 01:36:19,179 - INFO] Train Epoch : 91 Loss:	 0.036817	 lr:1.0000000000000002e-06
+2022-09-24 01:42:11,419 - INFO] Train Epoch : 92 Loss:	 0.025592	 lr:1.0000000000000002e-06
+2022-09-24 01:48:01,659 - INFO] Train Epoch : 93 Loss:	 0.038968	 lr:1.0000000000000002e-06
+2022-09-24 01:53:51,307 - INFO] Train Epoch : 94 Loss:	 0.036620	 lr:1.0000000000000002e-06
+2022-09-24 01:59:43,478 - INFO] Train Epoch : 95 Loss:	 0.035556	 lr:1.0000000000000002e-06
+2022-09-24 15:46:06,970 - INFO] DVC training
+2022-09-24 15:46:06,971 - INFO] config : 
+2022-09-24 15:46:06,972 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-09-24 15:47:00,163 - INFO] global step 2093 : 
+
+2022-09-24 15:47:00,163 - INFO] EWAP_eth dataset : average bpp : 0.078849, average psnr : 36.344372, average msssim: 0.989946
+
+2022-10-11 14:42:48,294 - INFO] DVC training
+2022-10-11 14:42:48,294 - INFO] config : 
+2022-10-11 14:42:48,297 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-11 14:44:14,273 - INFO] global step 0 : 
+
+2022-10-11 14:44:14,274 - INFO] EWAP_eth dataset : average bpp : 0.082214, average psnr : 35.637715, average msssim: 0.989290
+
+2022-10-11 14:54:57,780 - INFO] DVC training
+2022-10-11 14:54:57,780 - INFO] config : 
+2022-10-11 14:54:57,781 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-11 14:56:00,626 - INFO] global step 0 : 
+
+2022-10-11 14:56:00,627 - INFO] EWAP_eth dataset : average bpp : 0.083639, average psnr : 35.271714, average msssim: 0.988860
+
+2022-10-11 14:57:29,839 - INFO] DVC training
+2022-10-11 14:57:29,839 - INFO] config : 
+2022-10-11 14:57:29,840 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-11 14:58:32,447 - INFO] global step 0 : 
+
+2022-10-11 14:58:32,448 - INFO] EWAP_eth dataset : average bpp : 0.079735, average psnr : 35.749070, average msssim: 0.989920
+
+2022-10-11 14:59:17,304 - INFO] DVC training
+2022-10-11 14:59:17,304 - INFO] config : 
+2022-10-11 14:59:17,306 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-11 15:00:17,948 - INFO] global step 0 : 
+
+2022-10-11 15:00:17,949 - INFO] EWAP_eth dataset : average bpp : 0.080792, average psnr : 35.668098, average msssim: 0.989646
+
+2022-10-11 15:01:37,937 - INFO] DVC training
+2022-10-11 15:01:37,937 - INFO] config : 
+2022-10-11 15:01:37,943 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-11 15:02:36,076 - INFO] global step 0 : 
+
+2022-10-11 15:02:36,076 - INFO] EWAP_eth dataset : average bpp : 0.080933, average psnr : 35.580402, average msssim: 0.990567
+
+2022-10-11 15:06:32,438 - INFO] DVC training
+2022-10-11 15:06:32,438 - INFO] config : 
+2022-10-11 15:06:32,439 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-11 15:08:01,141 - INFO] global step 0 : 
+
+2022-10-11 15:08:01,142 - INFO] EWAP_eth dataset : average bpp : 0.070573, average psnr : 34.458769, average msssim: 0.986387
+
+2022-10-11 15:09:29,015 - INFO] DVC training
+2022-10-11 15:09:29,016 - INFO] config : 
+2022-10-11 15:09:29,022 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-11 15:11:11,263 - INFO] global step 0 : 
+
+2022-10-11 15:11:11,264 - INFO] EWAP_eth dataset : average bpp : 0.062096, average psnr : 33.425658, average msssim: 0.982911
+
+2022-10-11 15:13:14,481 - INFO] DVC training
+2022-10-11 15:13:14,481 - INFO] config : 
+2022-10-11 15:13:14,482 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-11 15:14:14,025 - INFO] global step 0 : 
+
+2022-10-11 15:14:14,026 - INFO] EWAP_eth dataset : average bpp : 0.125833, average psnr : 36.327218, average msssim: 0.990947
+
+2022-10-11 15:16:52,365 - INFO] DVC training
+2022-10-11 15:16:52,365 - INFO] config : 
+2022-10-11 15:16:52,366 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-11 15:17:50,538 - INFO] global step 0 : 
+
+2022-10-11 15:17:50,538 - INFO] EWAP_eth dataset : average bpp : 0.123322, average psnr : 35.539166, average msssim: 0.989069
+
+2022-10-11 15:19:04,244 - INFO] DVC training
+2022-10-11 15:19:04,244 - INFO] config : 
+2022-10-11 15:19:04,250 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-11 15:20:04,834 - INFO] global step 0 : 
+
+2022-10-11 15:20:04,835 - INFO] EWAP_eth dataset : average bpp : 0.134094, average psnr : 36.463570, average msssim: 0.991213
+
+2022-10-11 15:22:19,296 - INFO] DVC training
+2022-10-11 15:22:19,297 - INFO] config : 
+2022-10-11 15:22:19,304 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-11 15:23:38,535 - INFO] global step 0 : 
+
+2022-10-11 15:23:38,536 - INFO] EWAP_eth dataset : average bpp : 0.116032, average psnr : 36.754394, average msssim: 0.991936
+
+2022-10-11 15:25:15,574 - INFO] DVC training
+2022-10-11 15:25:15,575 - INFO] config : 
+2022-10-11 15:25:15,576 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-11 15:26:16,054 - INFO] global step 0 : 
+
+2022-10-11 15:26:16,055 - INFO] EWAP_eth dataset : average bpp : 0.117853, average psnr : 36.743023, average msssim: 0.991806
+
+2022-10-11 15:27:27,653 - INFO] DVC training
+2022-10-11 15:27:27,653 - INFO] config : 
+2022-10-11 15:27:27,655 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-11 15:28:25,765 - INFO] global step 0 : 
+
+2022-10-11 15:28:25,765 - INFO] EWAP_eth dataset : average bpp : 0.134092, average psnr : 36.463519, average msssim: 0.991213
+
+2022-10-11 15:29:26,149 - INFO] DVC training
+2022-10-11 15:29:26,149 - INFO] config : 
+2022-10-11 15:29:26,151 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-11 15:30:27,850 - INFO] global step 0 : 
+
+2022-10-11 15:30:27,851 - INFO] EWAP_eth dataset : average bpp : 0.116875, average psnr : 36.594159, average msssim: 0.992202
+
+2022-10-11 15:31:35,812 - INFO] DVC training
+2022-10-11 15:31:35,812 - INFO] config : 
+2022-10-11 15:31:35,813 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-11 15:32:36,457 - INFO] global step 0 : 
+
+2022-10-11 15:32:36,458 - INFO] EWAP_eth dataset : average bpp : 0.117992, average psnr : 36.834183, average msssim: 0.991652
+
+2022-10-11 15:34:11,979 - INFO] DVC training
+2022-10-11 15:34:11,980 - INFO] config : 
+2022-10-11 15:34:11,981 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-11 15:35:15,449 - INFO] global step 0 : 
+
+2022-10-11 15:35:15,450 - INFO] EWAP_eth dataset : average bpp : 0.122320, average psnr : 36.620696, average msssim: 0.991979
+
+2022-10-11 15:36:44,147 - INFO] DVC training
+2022-10-11 15:36:44,147 - INFO] config : 
+2022-10-11 15:36:44,153 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 200000,
+    "train_lambda": 512,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-11 15:37:44,374 - INFO] global step 0 : 
+
+2022-10-11 15:37:44,375 - INFO] EWAP_eth dataset : average bpp : 0.120645, average psnr : 36.718930, average msssim: 0.991639
+
+2022-10-11 15:45:09,152 - INFO] DVC training
+2022-10-11 15:45:09,152 - INFO] config : 
+2022-10-11 15:45:09,159 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-11 15:45:58,745 - INFO] DVC training
+2022-10-11 15:45:58,745 - INFO] config : 
+2022-10-11 15:45:58,746 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-11 15:46:39,137 - INFO] DVC training
+2022-10-11 15:46:39,138 - INFO] config : 
+2022-10-11 15:46:39,139 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-11 15:47:38,961 - INFO] DVC training
+2022-10-11 15:47:38,961 - INFO] config : 
+2022-10-11 15:47:38,967 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-11 15:48:12,197 - INFO] DVC training
+2022-10-11 15:48:12,197 - INFO] config : 
+2022-10-11 15:48:12,202 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-11 16:00:21,487 - INFO] DVC training
+2022-10-11 16:00:21,487 - INFO] config : 
+2022-10-11 16:00:21,494 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-11 16:15:44,333 - INFO] Train Epoch : 00 Loss:	 0.039765	 lr:1e-05
+2022-10-11 16:32:11,214 - INFO] Train Epoch : 01 Loss:	 0.036326	 lr:1e-05
+2022-10-11 16:33:01,386 - INFO] DVC training
+2022-10-11 16:33:01,387 - INFO] config : 
+2022-10-11 16:33:01,389 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-11 16:34:46,048 - INFO] global step 2168 : 
+
+2022-10-11 16:34:46,049 - INFO] EWAP_eth dataset : average bpp : 0.104216, average psnr : 36.928361, average msssim: 0.992010
+
+2022-10-11 16:40:29,097 - INFO] DVC training
+2022-10-11 16:40:29,097 - INFO] config : 
+2022-10-11 16:40:29,103 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-11 16:41:16,113 - INFO] DVC training
+2022-10-11 16:41:16,113 - INFO] config : 
+2022-10-11 16:41:16,114 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-11 16:42:37,042 - INFO] global step 4336 : 
+
+2022-10-11 16:42:37,043 - INFO] EWAP_eth dataset : average bpp : 0.102645, average psnr : 36.963953, average msssim: 0.992014
+
+2022-10-11 16:52:20,944 - INFO] Train Epoch : 00 Loss:	 0.035947	 lr:1e-05
+2022-10-11 16:59:28,621 - INFO] DVC training
+2022-10-11 16:59:28,622 - INFO] config : 
+2022-10-11 16:59:28,628 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-11 17:03:56,852 - INFO] global step 2243 : 
+
+2022-10-11 17:03:56,854 - INFO] EWAP_eth dataset : average bpp : 0.111606, average psnr : 36.860704, average msssim: 0.991908
+
+2022-10-11 17:04:51,937 - INFO] DVC training
+2022-10-11 17:04:51,938 - INFO] config : 
+2022-10-11 17:04:51,945 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-11 17:18:56,538 - INFO] Train Epoch : 00 Loss:	 0.038259	 lr:1e-05
+2022-10-11 17:31:15,892 - INFO] DVC training
+2022-10-11 17:31:15,892 - INFO] config : 
+2022-10-11 17:31:15,898 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-11 17:32:09,247 - INFO] Train Epoch : 01 Loss:	 0.037512	 lr:1e-05
+2022-10-11 17:33:29,931 - INFO] global step 2243 : 
+
+2022-10-11 17:33:29,932 - INFO] EWAP_eth dataset : average bpp : 0.104487, average psnr : 36.951882, average msssim: 0.992041
+
+2022-10-11 17:38:38,185 - INFO] DVC training
+2022-10-11 17:38:38,185 - INFO] config : 
+2022-10-11 17:38:38,192 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-11 17:50:35,366 - INFO] Train Epoch : 00 Loss:	 0.042551	 lr:0.0001
+2022-10-11 18:03:49,233 - INFO] DVC training
+2022-10-11 18:03:49,233 - INFO] config : 
+2022-10-11 18:03:49,234 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-11 18:19:20,384 - INFO] Train Epoch : 00 Loss:	 0.031901	 lr:1e-05
+2022-10-11 18:21:30,744 - INFO] DVC training
+2022-10-11 18:21:30,744 - INFO] config : 
+2022-10-11 18:21:30,745 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-11 18:25:23,787 - INFO] DVC training
+2022-10-11 18:25:23,787 - INFO] config : 
+2022-10-11 18:25:23,793 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-11 18:26:28,865 - INFO] global step 2243 : 
+
+2022-10-11 18:26:28,866 - INFO] EWAP_eth dataset : average bpp : 0.104567, average psnr : 36.945380, average msssim: 0.992046
+
+2022-10-11 18:28:51,330 - INFO] DVC training
+2022-10-11 18:28:51,330 - INFO] config : 
+2022-10-11 18:28:51,336 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-11 18:30:36,568 - INFO] global step 2243 : 
+
+2022-10-11 18:30:36,568 - INFO] EWAP_eth dataset : average bpp : 0.107043, average psnr : 37.007053, average msssim: 0.991707
+
+2022-10-11 20:50:10,695 - INFO] DVC training
+2022-10-11 20:50:10,696 - INFO] config : 
+2022-10-11 20:50:10,697 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-11 20:52:29,052 - INFO] Train Epoch : 00 Loss:	 0.014460	 lr:1e-05
+2022-10-11 20:53:25,889 - INFO] DVC training
+2022-10-11 20:53:25,890 - INFO] config : 
+2022-10-11 20:53:25,896 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-11 20:54:33,871 - INFO] Train Epoch : 01 Loss:	 0.014812	 lr:1e-05
+2022-10-11 20:54:46,554 - INFO] global step 374 : 
+
+2022-10-11 20:54:46,554 - INFO] EWAP_eth dataset : average bpp : 0.110881, average psnr : 36.941330, average msssim: 0.991716
+
+2022-10-11 20:56:35,729 - INFO] Train Epoch : 02 Loss:	 0.017667	 lr:1e-05
+2022-10-11 20:57:08,312 - INFO] DVC training
+2022-10-11 20:57:08,312 - INFO] config : 
+2022-10-11 20:57:08,314 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-11 20:58:30,266 - INFO] global step 1122 : 
+
+2022-10-11 20:58:30,267 - INFO] EWAP_eth dataset : average bpp : 0.107986, average psnr : 36.934791, average msssim: 0.991702
+
+2022-10-11 20:58:41,742 - INFO] Train Epoch : 03 Loss:	 0.016162	 lr:1e-05
+2022-10-11 21:00:12,406 - INFO] DVC training
+2022-10-11 21:00:12,407 - INFO] config : 
+2022-10-11 21:00:12,408 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-11 21:02:27,029 - INFO] Train Epoch : 00 Loss:	 0.016755	 lr:1e-05
+2022-10-11 21:04:26,035 - INFO] Train Epoch : 01 Loss:	 0.021908	 lr:1e-05
+2022-10-11 21:05:28,461 - INFO] DVC training
+2022-10-11 21:05:28,461 - INFO] config : 
+2022-10-11 21:05:28,462 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-11 21:06:28,646 - INFO] Train Epoch : 02 Loss:	 0.019020	 lr:1e-05
+2022-10-11 21:06:49,266 - INFO] global step 746 : 
+
+2022-10-11 21:06:49,267 - INFO] EWAP_eth dataset : average bpp : 0.109057, average psnr : 36.934578, average msssim: 0.991739
+
+2022-10-11 21:08:29,781 - INFO] Train Epoch : 03 Loss:	 0.019713	 lr:1e-05
+2022-10-11 21:10:28,813 - INFO] Train Epoch : 04 Loss:	 0.018950	 lr:1e-05
+2022-10-11 21:12:20,120 - INFO] Train Epoch : 05 Loss:	 0.017315	 lr:1e-05
+2022-10-11 21:14:11,116 - INFO] Train Epoch : 06 Loss:	 0.020469	 lr:1e-05
+2022-10-11 21:16:11,244 - INFO] Train Epoch : 07 Loss:	 0.017542	 lr:1e-05
+2022-10-11 21:18:10,191 - INFO] Train Epoch : 08 Loss:	 0.016834	 lr:1e-05
+2022-10-11 21:20:08,915 - INFO] Train Epoch : 09 Loss:	 0.017596	 lr:1e-05
+2022-10-11 21:22:08,109 - INFO] Train Epoch : 10 Loss:	 0.019433	 lr:1e-05
+2022-10-11 21:24:07,506 - INFO] Train Epoch : 11 Loss:	 0.016830	 lr:1e-05
+2022-10-11 21:26:08,048 - INFO] Train Epoch : 12 Loss:	 0.018404	 lr:1e-05
+2022-10-11 21:28:08,760 - INFO] Train Epoch : 13 Loss:	 0.018011	 lr:1e-05
+2022-10-11 21:30:08,392 - INFO] Train Epoch : 14 Loss:	 0.017131	 lr:1e-05
+2022-10-11 21:32:08,049 - INFO] DVC training
+2022-10-11 21:32:08,049 - INFO] config : 
+2022-10-11 21:32:08,055 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.00001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-11 21:33:19,772 - INFO] global step 5595 : 
+
+2022-10-11 21:33:19,773 - INFO] EWAP_eth dataset : average bpp : 0.103816, average psnr : 36.922701, average msssim: 0.991577
+
+2022-10-12 09:35:18,815 - INFO] DVC training
+2022-10-12 09:35:18,815 - INFO] config : 
+2022-10-12 09:35:18,816 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-12 09:37:46,709 - INFO] Train Epoch : 00 Loss:	 0.017598	 lr:0.0001
+2022-10-12 09:40:08,450 - INFO] Train Epoch : 01 Loss:	 0.018282	 lr:0.0001
+2022-10-12 09:42:28,861 - INFO] Train Epoch : 02 Loss:	 0.020080	 lr:0.0001
+2022-10-12 09:44:48,384 - INFO] Train Epoch : 03 Loss:	 0.014789	 lr:0.0001
+2022-10-12 09:47:21,626 - INFO] Train Epoch : 04 Loss:	 0.016708	 lr:0.0001
+2022-10-12 09:47:55,468 - INFO] DVC training
+2022-10-12 09:47:55,469 - INFO] config : 
+2022-10-12 09:47:55,470 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-12 09:50:20,131 - INFO] Train Epoch : 05 Loss:	 0.017044	 lr:0.0001
+2022-10-12 09:51:33,949 - INFO] global step 1492 : 
+
+2022-10-12 09:51:33,950 - INFO] EWAP_eth dataset : average bpp : 0.101302, average psnr : 36.843380, average msssim: 0.991615
+
+2022-10-12 09:52:54,761 - INFO] Train Epoch : 06 Loss:	 0.019554	 lr:0.0001
+2022-10-12 09:55:14,744 - INFO] Train Epoch : 07 Loss:	 0.015831	 lr:0.0001
+2022-10-12 09:57:57,564 - INFO] Train Epoch : 08 Loss:	 0.016482	 lr:0.0001
+2022-10-12 10:00:27,080 - INFO] Train Epoch : 09 Loss:	 0.020498	 lr:0.0001
+2022-10-12 10:02:42,179 - INFO] Train Epoch : 10 Loss:	 0.015714	 lr:0.0001
+2022-10-12 10:05:07,339 - INFO] Train Epoch : 11 Loss:	 0.016916	 lr:0.0001
+2022-10-12 10:07:34,676 - INFO] Train Epoch : 12 Loss:	 0.019626	 lr:0.0001
+2022-10-12 10:08:12,137 - INFO] DVC training
+2022-10-12 10:08:12,138 - INFO] config : 
+2022-10-12 10:08:12,143 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-12 10:10:25,824 - INFO] Train Epoch : 13 Loss:	 0.016319	 lr:0.0001
+2022-10-12 10:11:07,137 - INFO] global step 4849 : 
+
+2022-10-12 10:11:07,137 - INFO] EWAP_eth dataset : average bpp : 0.091200, average psnr : 36.888185, average msssim: 0.991541
+
+2022-10-12 10:13:09,972 - INFO] Train Epoch : 14 Loss:	 0.018053	 lr:0.0001
+2022-10-12 10:16:05,657 - INFO] Train Epoch : 15 Loss:	 0.013774	 lr:0.0001
+2022-10-12 10:18:54,055 - INFO] Train Epoch : 16 Loss:	 0.023415	 lr:0.0001
+2022-10-12 10:20:19,781 - INFO] DVC training
+2022-10-12 10:20:19,782 - INFO] config : 
+2022-10-12 10:20:19,783 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-12 10:23:00,831 - INFO] Train Epoch : 00 Loss:	 0.022234	 lr:0.001
+2022-10-12 10:25:44,351 - INFO] Train Epoch : 01 Loss:	 0.018703	 lr:0.001
+2022-10-12 10:28:30,725 - INFO] Train Epoch : 02 Loss:	 666.008539	 lr:0.001
+2022-10-12 10:30:54,011 - INFO] Train Epoch : 03 Loss:	 5.317210	 lr:0.001
+2022-10-12 10:33:18,659 - INFO] Train Epoch : 04 Loss:	 5.003556	 lr:0.001
+2022-10-12 10:35:46,226 - INFO] Train Epoch : 05 Loss:	 5.201483	 lr:0.001
+2022-10-12 10:38:01,464 - INFO] Train Epoch : 06 Loss:	 7.633888	 lr:0.001
+2022-10-12 10:40:16,035 - INFO] Train Epoch : 07 Loss:	 4.971454	 lr:0.001
+2022-10-12 10:42:43,458 - INFO] Train Epoch : 08 Loss:	 4.798323	 lr:0.001
+2022-10-12 10:45:05,643 - INFO] Train Epoch : 09 Loss:	 6.771077	 lr:0.001
+2022-10-12 10:46:10,745 - INFO] DVC training
+2022-10-12 10:46:10,745 - INFO] config : 
+2022-10-12 10:46:10,746 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-12 10:47:28,506 - INFO] Train Epoch : 10 Loss:	 5.147464	 lr:0.001
+2022-10-12 10:47:53,082 - INFO] global step 3730 : 
+
+2022-10-12 10:47:53,082 - INFO] EWAP_eth dataset : average bpp : 7.889498, average psnr : 29.709952, average msssim: 0.965449
+
+2022-10-12 10:49:45,540 - INFO] Train Epoch : 11 Loss:	 4.571644	 lr:0.001
+2022-10-12 10:50:30,111 - INFO] DVC training
+2022-10-12 10:50:30,112 - INFO] config : 
+2022-10-12 10:50:30,118 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.000001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-12 10:53:15,173 - INFO] Train Epoch : 00 Loss:	 0.019470	 lr:1e-06
+2022-10-12 10:55:28,527 - INFO] Train Epoch : 01 Loss:	 0.018361	 lr:1e-06
+2022-10-12 10:57:45,604 - INFO] Train Epoch : 02 Loss:	 0.018454	 lr:1e-06
+2022-10-12 11:00:13,646 - INFO] Train Epoch : 03 Loss:	 0.017133	 lr:1e-06
+2022-10-12 11:02:33,358 - INFO] Train Epoch : 04 Loss:	 0.019232	 lr:1e-06
+2022-10-12 11:04:44,055 - INFO] Train Epoch : 05 Loss:	 0.019682	 lr:1e-06
+2022-10-12 11:07:09,397 - INFO] Train Epoch : 06 Loss:	 0.021802	 lr:1e-06
+2022-10-12 11:09:32,062 - INFO] Train Epoch : 07 Loss:	 0.018472	 lr:1e-06
+2022-10-12 11:11:46,028 - INFO] Train Epoch : 08 Loss:	 0.018139	 lr:1e-06
+2022-10-12 11:14:00,351 - INFO] Train Epoch : 09 Loss:	 0.022778	 lr:1e-06
+2022-10-12 11:16:27,669 - INFO] Train Epoch : 10 Loss:	 0.018457	 lr:1e-06
+2022-10-12 11:18:49,672 - INFO] Train Epoch : 11 Loss:	 0.018081	 lr:1e-06
+2022-10-12 11:21:03,324 - INFO] Train Epoch : 12 Loss:	 0.018707	 lr:1e-06
+2022-10-12 11:23:22,397 - INFO] Train Epoch : 13 Loss:	 0.018620	 lr:1e-06
+2022-10-12 11:25:50,707 - INFO] Train Epoch : 14 Loss:	 0.019377	 lr:1e-06
+2022-10-12 11:28:06,774 - INFO] Train Epoch : 15 Loss:	 0.017355	 lr:1e-06
+2022-10-12 11:28:33,670 - INFO] DVC training
+2022-10-12 11:28:33,670 - INFO] config : 
+2022-10-12 11:28:33,671 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.000001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-12 11:29:38,383 - INFO] global step 3730 : 
+
+2022-10-12 11:29:38,384 - INFO] EWAP_eth dataset : average bpp : 0.110646, average psnr : 36.938838, average msssim: 0.991777
+
+2022-10-12 11:33:48,953 - INFO] DVC training
+2022-10-12 11:33:48,954 - INFO] config : 
+2022-10-12 11:33:48,960 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-12 11:36:12,645 - INFO] Train Epoch : 00 Loss:	 0.019666	 lr:0.0001
+2022-10-12 11:38:27,947 - INFO] Train Epoch : 01 Loss:	 0.018548	 lr:0.0001
+2022-10-12 11:40:50,570 - INFO] Train Epoch : 02 Loss:	 0.020085	 lr:0.0001
+2022-10-12 11:43:04,706 - INFO] Train Epoch : 03 Loss:	 0.018450	 lr:0.0001
+2022-10-12 11:45:10,737 - INFO] Train Epoch : 04 Loss:	 0.021634	 lr:0.0001
+2022-10-12 11:47:30,928 - INFO] Train Epoch : 05 Loss:	 0.018673	 lr:0.0001
+2022-10-12 11:49:51,869 - INFO] Train Epoch : 06 Loss:	 0.022608	 lr:0.0001
+2022-10-12 11:52:03,350 - INFO] Train Epoch : 07 Loss:	 0.021844	 lr:0.0001
+2022-10-12 11:53:45,705 - INFO] Train Epoch : 08 Loss:	 0.019609	 lr:0.0001
+2022-10-12 11:55:42,181 - INFO] Train Epoch : 09 Loss:	 0.020885	 lr:0.0001
+2022-10-12 11:57:38,833 - INFO] Train Epoch : 10 Loss:	 0.019777	 lr:0.0001
+2022-10-12 11:59:35,868 - INFO] Train Epoch : 11 Loss:	 0.019551	 lr:0.0001
+2022-10-12 12:01:32,904 - INFO] Train Epoch : 12 Loss:	 0.018763	 lr:0.0001
+2022-10-12 12:03:30,044 - INFO] Train Epoch : 13 Loss:	 0.021069	 lr:0.0001
+2022-10-12 12:05:26,980 - INFO] Train Epoch : 14 Loss:	 0.020253	 lr:0.0001
+2022-10-12 12:07:30,544 - INFO] Train Epoch : 15 Loss:	 0.018506	 lr:0.0001
+2022-10-12 12:09:53,419 - INFO] Train Epoch : 16 Loss:	 0.021207	 lr:0.0001
+2022-10-12 12:12:15,000 - INFO] Train Epoch : 17 Loss:	 0.019051	 lr:0.0001
+2022-10-12 12:14:26,015 - INFO] Train Epoch : 18 Loss:	 0.017687	 lr:0.0001
+2022-10-12 12:16:13,629 - INFO] Train Epoch : 19 Loss:	 0.020192	 lr:0.0001
+2022-10-12 12:18:07,610 - INFO] Train Epoch : 20 Loss:	 0.019204	 lr:0.0001
+2022-10-12 12:20:04,336 - INFO] Train Epoch : 21 Loss:	 0.016702	 lr:0.0001
+2022-10-12 12:22:01,119 - INFO] Train Epoch : 22 Loss:	 0.018348	 lr:0.0001
+2022-10-12 12:24:15,478 - INFO] Train Epoch : 23 Loss:	 0.021676	 lr:0.0001
+2022-10-12 12:26:38,196 - INFO] Train Epoch : 24 Loss:	 0.019199	 lr:0.0001
+2022-10-12 12:28:52,126 - INFO] Train Epoch : 25 Loss:	 0.018281	 lr:0.0001
+2022-10-12 12:30:58,356 - INFO] Train Epoch : 26 Loss:	 0.019710	 lr:0.0001
+2022-10-12 12:33:19,690 - INFO] Train Epoch : 27 Loss:	 0.018936	 lr:0.0001
+2022-10-12 12:35:40,600 - INFO] Train Epoch : 28 Loss:	 0.018180	 lr:0.0001
+2022-10-12 12:37:51,097 - INFO] Train Epoch : 29 Loss:	 0.022102	 lr:0.0001
+2022-10-12 12:39:33,543 - INFO] Train Epoch : 30 Loss:	 0.017886	 lr:0.0001
+2022-10-12 12:41:42,783 - INFO] Train Epoch : 31 Loss:	 0.019209	 lr:0.0001
+2022-10-12 12:44:04,782 - INFO] Train Epoch : 32 Loss:	 0.019884	 lr:0.0001
+2022-10-12 12:46:24,316 - INFO] Train Epoch : 33 Loss:	 0.021865	 lr:0.0001
+2022-10-12 12:48:34,199 - INFO] Train Epoch : 34 Loss:	 0.018379	 lr:0.0001
+2022-10-12 12:50:46,772 - INFO] Train Epoch : 35 Loss:	 0.019204	 lr:0.0001
+2022-10-12 12:53:07,129 - INFO] Train Epoch : 36 Loss:	 0.022548	 lr:0.0001
+2022-10-12 12:55:07,413 - INFO] Train Epoch : 37 Loss:	 0.019726	 lr:0.0001
+2022-10-12 12:57:14,542 - INFO] Train Epoch : 38 Loss:	 0.018191	 lr:0.0001
+2022-10-12 12:59:23,839 - INFO] Train Epoch : 39 Loss:	 0.020911	 lr:0.0001
+2022-10-12 13:01:35,813 - INFO] Train Epoch : 40 Loss:	 0.020949	 lr:0.0001
+2022-10-12 13:03:51,680 - INFO] Train Epoch : 41 Loss:	 0.017308	 lr:0.0001
+2022-10-12 13:06:08,969 - INFO] Train Epoch : 42 Loss:	 0.017739	 lr:0.0001
+2022-10-12 13:08:17,808 - INFO] Train Epoch : 43 Loss:	 0.021351	 lr:0.0001
+2022-10-12 13:10:14,040 - INFO] Train Epoch : 44 Loss:	 0.020625	 lr:0.0001
+2022-10-12 13:12:11,058 - INFO] Train Epoch : 45 Loss:	 0.021881	 lr:0.0001
+2022-10-12 13:14:08,123 - INFO] Train Epoch : 46 Loss:	 0.021706	 lr:0.0001
+2022-10-12 13:16:16,584 - INFO] Train Epoch : 47 Loss:	 0.017392	 lr:0.0001
+2022-10-12 13:18:39,304 - INFO] Train Epoch : 48 Loss:	 0.019255	 lr:0.0001
+2022-10-12 13:20:55,624 - INFO] Train Epoch : 49 Loss:	 0.022979	 lr:0.0001
+2022-10-12 13:23:05,598 - INFO] Train Epoch : 50 Loss:	 0.018938	 lr:0.0001
+2022-10-12 13:25:21,184 - INFO] Train Epoch : 51 Loss:	 0.017654	 lr:0.0001
+2022-10-12 13:27:34,745 - INFO] Train Epoch : 52 Loss:	 0.023047	 lr:0.0001
+2022-10-12 13:29:48,440 - INFO] Train Epoch : 53 Loss:	 0.019161	 lr:0.0001
+2022-10-12 14:12:27,389 - INFO] DVC training
+2022-10-12 14:12:27,390 - INFO] config : 
+2022-10-12 14:12:27,396 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-12 14:13:25,082 - INFO] global step 3730 : 
+
+2022-10-12 14:13:25,082 - INFO] EWAP_eth dataset : average bpp : 0.113351, average psnr : 36.937648, average msssim: 0.991759
+
+2022-10-12 14:14:51,396 - INFO] DVC training
+2022-10-12 14:14:51,396 - INFO] config : 
+2022-10-12 14:14:51,403 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-12 14:17:09,604 - INFO] Train Epoch : 00 Loss:	 0.016180	 lr:0.0001
+2022-10-12 14:19:09,430 - INFO] Train Epoch : 01 Loss:	 0.016080	 lr:0.0001
+2022-10-12 14:21:09,690 - INFO] Train Epoch : 02 Loss:	 0.018976	 lr:0.0001
+2022-10-12 14:22:57,255 - INFO] Train Epoch : 03 Loss:	 0.016847	 lr:0.0001
+2022-10-12 14:24:54,539 - INFO] Train Epoch : 04 Loss:	 0.018865	 lr:0.0001
+2022-10-12 14:26:55,484 - INFO] Train Epoch : 05 Loss:	 0.014174	 lr:0.0001
+2022-10-12 14:28:56,226 - INFO] Train Epoch : 06 Loss:	 0.014051	 lr:0.0001
+2022-10-12 14:30:57,064 - INFO] Train Epoch : 07 Loss:	 0.019959	 lr:0.0001
+2022-10-12 14:32:57,847 - INFO] Train Epoch : 08 Loss:	 0.013765	 lr:0.0001
+2022-10-12 14:34:58,513 - INFO] Train Epoch : 09 Loss:	 0.018803	 lr:0.0001
+2022-10-12 14:36:59,049 - INFO] Train Epoch : 10 Loss:	 0.013539	 lr:0.0001
+2022-10-12 14:37:36,150 - INFO] DVC training
+2022-10-12 14:37:36,151 - INFO] config : 
+2022-10-12 14:37:36,152 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-12 14:38:34,555 - INFO] global step 3740 : 
+
+2022-10-12 14:38:34,556 - INFO] EWAP_eth dataset : average bpp : 0.092039, average psnr : 36.835099, average msssim: 0.991405
+
+2022-10-12 14:42:09,414 - INFO] DVC training
+2022-10-12 14:42:09,414 - INFO] config : 
+2022-10-12 14:42:09,420 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-12 14:43:16,586 - INFO] DVC training
+2022-10-12 14:43:16,586 - INFO] config : 
+2022-10-12 14:43:16,587 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-12 14:46:10,341 - INFO] DVC training
+2022-10-12 14:46:10,341 - INFO] config : 
+2022-10-12 14:46:10,346 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-12 14:48:59,736 - INFO] Train Epoch : 00 Loss:	 0.049913	 lr:0.0001
+2022-10-12 14:51:31,095 - INFO] Train Epoch : 01 Loss:	 0.050508	 lr:0.0001
+2022-10-12 14:54:02,446 - INFO] Train Epoch : 02 Loss:	 0.057578	 lr:0.0001
+2022-10-12 14:54:48,946 - INFO] DVC training
+2022-10-12 14:54:48,947 - INFO] config : 
+2022-10-12 14:54:48,948 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-12 14:56:11,154 - INFO] global step 1122 : 
+
+2022-10-12 14:56:11,155 - INFO] EWAP_eth dataset : average bpp : 0.097147, average psnr : 36.147694, average msssim: 0.989678
+
+2022-10-12 14:56:45,776 - INFO] Train Epoch : 03 Loss:	 0.046078	 lr:0.0001
+2022-10-12 14:59:12,082 - INFO] Train Epoch : 04 Loss:	 0.055861	 lr:0.0001
+2022-10-12 15:01:32,583 - INFO] Train Epoch : 05 Loss:	 0.049216	 lr:0.0001
+2022-10-12 15:04:03,743 - INFO] Train Epoch : 06 Loss:	 0.047827	 lr:0.0001
+2022-10-12 15:06:35,756 - INFO] Train Epoch : 07 Loss:	 0.051358	 lr:0.0001
+2022-10-12 15:09:07,217 - INFO] Train Epoch : 08 Loss:	 0.046955	 lr:0.0001
+2022-10-12 15:11:38,708 - INFO] Train Epoch : 09 Loss:	 0.051943	 lr:0.0001
+2022-10-12 15:14:09,943 - INFO] Train Epoch : 10 Loss:	 0.050298	 lr:0.0001
+2022-10-12 15:14:22,341 - INFO] DVC training
+2022-10-12 15:14:22,341 - INFO] config : 
+2022-10-12 15:14:22,347 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-12 15:15:43,960 - INFO] global step 3740 : 
+
+2022-10-12 15:15:43,961 - INFO] EWAP_eth dataset : average bpp : 0.089952, average psnr : 35.849631, average msssim: 0.988255
+
+2022-10-12 15:16:54,029 - INFO] Train Epoch : 11 Loss:	 0.048568	 lr:0.0001
+2022-10-12 15:19:16,334 - INFO] Train Epoch : 12 Loss:	 0.053008	 lr:0.0001
+2022-10-12 15:21:43,135 - INFO] Train Epoch : 13 Loss:	 0.047403	 lr:0.0001
+2022-10-12 15:24:15,803 - INFO] Train Epoch : 14 Loss:	 0.051547	 lr:0.0001
+2022-10-12 15:26:47,213 - INFO] Train Epoch : 15 Loss:	 0.048037	 lr:0.0001
+2022-10-12 15:29:18,317 - INFO] Train Epoch : 16 Loss:	 0.044894	 lr:0.0001
+2022-10-12 15:31:49,583 - INFO] Train Epoch : 17 Loss:	 0.050964	 lr:0.0001
+2022-10-12 15:34:20,601 - INFO] Train Epoch : 18 Loss:	 0.045008	 lr:0.0001
+2022-10-12 15:36:52,274 - INFO] Train Epoch : 19 Loss:	 0.053966	 lr:0.0001
+2022-10-12 15:39:13,368 - INFO] Train Epoch : 20 Loss:	 0.046345	 lr:0.0001
+2022-10-12 15:41:40,056 - INFO] Train Epoch : 21 Loss:	 0.048100	 lr:0.0001
+2022-10-12 15:44:11,288 - INFO] Train Epoch : 22 Loss:	 0.048734	 lr:0.0001
+2022-10-12 15:46:42,496 - INFO] Train Epoch : 23 Loss:	 0.044140	 lr:0.0001
+2022-10-12 15:49:13,730 - INFO] Train Epoch : 24 Loss:	 0.051671	 lr:0.0001
+2022-10-12 15:51:44,493 - INFO] Train Epoch : 25 Loss:	 0.047161	 lr:0.0001
+2022-10-12 15:54:15,435 - INFO] Train Epoch : 26 Loss:	 0.044167	 lr:0.0001
+2022-10-12 15:56:46,559 - INFO] Train Epoch : 27 Loss:	 0.050464	 lr:0.0001
+2022-10-12 15:59:06,707 - INFO] Train Epoch : 28 Loss:	 0.042835	 lr:0.0001
+2022-10-12 16:01:33,857 - INFO] Train Epoch : 29 Loss:	 0.049541	 lr:0.0001
+2022-10-12 16:04:04,814 - INFO] Train Epoch : 30 Loss:	 0.042535	 lr:0.0001
+2022-10-12 16:05:16,623 - INFO] DVC training
+2022-10-12 16:05:16,624 - INFO] config : 
+2022-10-12 16:05:16,625 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-12 16:06:15,634 - INFO] global step 11594 : 
+
+2022-10-12 16:06:15,635 - INFO] EWAP_eth dataset : average bpp : 0.084687, average psnr : 35.721238, average msssim: 0.987716
+
+2022-10-12 16:14:37,910 - INFO] DVC training
+2022-10-12 16:14:37,910 - INFO] config : 
+2022-10-12 16:14:37,911 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-12 16:16:57,617 - INFO] Train Epoch : 00 Loss:	 0.016003	 lr:0.0001
+2022-10-12 16:19:00,086 - INFO] Train Epoch : 01 Loss:	 0.014912	 lr:0.0001
+2022-10-12 16:21:02,692 - INFO] Train Epoch : 02 Loss:	 0.016521	 lr:0.0001
+2022-10-12 16:23:05,148 - INFO] Train Epoch : 03 Loss:	 0.014564	 lr:0.0001
+2022-10-12 16:25:07,564 - INFO] Train Epoch : 04 Loss:	 0.015851	 lr:0.0001
+2022-10-12 16:27:08,945 - INFO] Train Epoch : 05 Loss:	 0.014855	 lr:0.0001
+2022-10-12 16:29:10,970 - INFO] Train Epoch : 06 Loss:	 0.013099	 lr:0.0001
+2022-10-12 16:31:13,071 - INFO] Train Epoch : 07 Loss:	 0.016049	 lr:0.0001
+2022-10-12 16:33:15,382 - INFO] Train Epoch : 08 Loss:	 0.016136	 lr:0.0001
+2022-10-12 16:35:17,684 - INFO] Train Epoch : 09 Loss:	 0.015851	 lr:0.0001
+2022-10-12 16:37:05,717 - INFO] Train Epoch : 10 Loss:	 0.014571	 lr:0.0001
+2022-10-12 16:39:04,767 - INFO] Train Epoch : 11 Loss:	 0.014821	 lr:0.0001
+2022-10-12 16:41:07,144 - INFO] Train Epoch : 12 Loss:	 0.016778	 lr:0.0001
+2022-10-12 16:43:09,382 - INFO] Train Epoch : 13 Loss:	 0.013581	 lr:0.0001
+2022-10-12 16:45:11,812 - INFO] Train Epoch : 14 Loss:	 0.017120	 lr:0.0001
+2022-10-12 16:47:13,601 - INFO] Train Epoch : 15 Loss:	 0.014143	 lr:0.0001
+2022-10-12 16:49:15,973 - INFO] Train Epoch : 16 Loss:	 0.013392	 lr:0.0001
+2022-10-12 16:51:17,952 - INFO] Train Epoch : 17 Loss:	 0.015590	 lr:0.0001
+2022-10-12 16:53:20,021 - INFO] Train Epoch : 18 Loss:	 0.012790	 lr:0.0001
+2022-10-12 16:55:21,884 - INFO] Train Epoch : 19 Loss:	 0.015452	 lr:0.0001
+2022-10-12 16:57:23,638 - INFO] Train Epoch : 20 Loss:	 0.013268	 lr:0.0001
+2022-10-12 16:59:18,956 - INFO] Train Epoch : 21 Loss:	 0.013165	 lr:0.0001
+2022-10-12 17:01:12,225 - INFO] Train Epoch : 22 Loss:	 0.014992	 lr:0.0001
+2022-10-12 17:03:14,829 - INFO] Train Epoch : 23 Loss:	 0.014464	 lr:0.0001
+2022-10-12 17:05:16,769 - INFO] Train Epoch : 24 Loss:	 0.014857	 lr:0.0001
+2022-10-12 17:07:19,661 - INFO] Train Epoch : 25 Loss:	 0.013214	 lr:0.0001
+2022-10-12 17:09:21,403 - INFO] Train Epoch : 26 Loss:	 0.014070	 lr:0.0001
+2022-10-12 17:11:24,155 - INFO] Train Epoch : 27 Loss:	 0.015144	 lr:0.0001
+2022-10-12 17:13:27,031 - INFO] Train Epoch : 28 Loss:	 0.013760	 lr:0.0001
+2022-10-12 17:15:29,188 - INFO] Train Epoch : 29 Loss:	 0.016951	 lr:0.0001
+2022-10-12 17:17:31,457 - INFO] Train Epoch : 30 Loss:	 0.013296	 lr:0.0001
+2022-10-12 17:19:33,348 - INFO] Train Epoch : 31 Loss:	 0.013297	 lr:0.0001
+2022-10-12 17:21:35,900 - INFO] Train Epoch : 32 Loss:	 0.014836	 lr:0.0001
+2022-10-12 17:23:22,983 - INFO] Train Epoch : 33 Loss:	 0.012785	 lr:0.0001
+2022-10-12 17:25:21,908 - INFO] Train Epoch : 34 Loss:	 0.015958	 lr:0.0001
+2022-10-12 17:27:23,699 - INFO] Train Epoch : 35 Loss:	 0.013845	 lr:0.0001
+2022-10-12 17:29:25,907 - INFO] Train Epoch : 36 Loss:	 0.013482	 lr:0.0001
+2022-10-12 17:31:27,189 - INFO] Train Epoch : 37 Loss:	 0.016220	 lr:0.0001
+2022-10-12 17:33:29,371 - INFO] Train Epoch : 38 Loss:	 0.013125	 lr:0.0001
+2022-10-12 17:35:31,539 - INFO] Train Epoch : 39 Loss:	 0.015060	 lr:0.0001
+2022-10-12 17:37:34,138 - INFO] Train Epoch : 40 Loss:	 0.011883	 lr:0.0001
+2022-10-12 17:39:36,327 - INFO] Train Epoch : 41 Loss:	 0.013039	 lr:0.0001
+2022-10-12 17:41:38,280 - INFO] Train Epoch : 42 Loss:	 0.014954	 lr:0.0001
+2022-10-12 17:43:40,107 - INFO] Train Epoch : 43 Loss:	 0.013348	 lr:0.0001
+2022-10-12 17:45:35,440 - INFO] Train Epoch : 44 Loss:	 0.016250	 lr:0.0001
+2022-10-12 17:47:27,504 - INFO] Train Epoch : 45 Loss:	 0.013797	 lr:0.0001
+2022-10-12 17:49:29,528 - INFO] Train Epoch : 46 Loss:	 0.015246	 lr:0.0001
+2022-10-12 17:51:31,435 - INFO] Train Epoch : 47 Loss:	 0.015780	 lr:0.0001
+2022-10-12 17:53:33,765 - INFO] Train Epoch : 48 Loss:	 0.013531	 lr:0.0001
+2022-10-12 17:55:35,792 - INFO] Train Epoch : 49 Loss:	 0.015723	 lr:0.0001
+2022-10-12 17:57:37,920 - INFO] Train Epoch : 50 Loss:	 0.013233	 lr:0.0001
+2022-10-12 17:59:40,235 - INFO] Train Epoch : 51 Loss:	 0.013637	 lr:0.0001
+2022-10-12 18:01:42,214 - INFO] Train Epoch : 52 Loss:	 0.013981	 lr:0.0001
+2022-10-12 18:03:44,265 - INFO] Train Epoch : 53 Loss:	 0.011481	 lr:0.0001
+2022-10-23 15:40:47,400 - INFO] DVC training
+2022-10-23 15:40:47,400 - INFO] config : 
+2022-10-23 15:40:47,407 - INFO] {
+    "tot_epoch": 30,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-23 15:41:51,059 - INFO] global step 20196 : 
+
+2022-10-23 15:41:51,060 - INFO] EWAP_eth dataset : average bpp : 0.083426, average psnr : 36.833847, average msssim: 0.991338
+
+2022-10-24 16:10:31,968 - INFO] DVC training
+2022-10-24 16:10:31,968 - INFO] config : 
+2022-10-24 16:10:31,970 - INFO] {
+    "tot_epoch": 30,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-24 16:11:11,451 - INFO] DVC training
+2022-10-24 16:11:11,451 - INFO] config : 
+2022-10-24 16:11:11,452 - INFO] {
+    "tot_epoch": 30,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-24 16:12:29,821 - INFO] DVC training
+2022-10-24 16:12:29,821 - INFO] config : 
+2022-10-24 16:12:29,822 - INFO] {
+    "tot_epoch": 30,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-24 16:13:17,720 - INFO] DVC training
+2022-10-24 16:13:17,720 - INFO] config : 
+2022-10-24 16:13:17,721 - INFO] {
+    "tot_epoch": 30,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-24 16:14:14,755 - INFO] DVC training
+2022-10-24 16:14:14,755 - INFO] config : 
+2022-10-24 16:14:14,756 - INFO] {
+    "tot_epoch": 30,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-24 16:14:37,208 - INFO] DVC training
+2022-10-24 16:14:37,208 - INFO] config : 
+2022-10-24 16:14:37,210 - INFO] {
+    "tot_epoch": 30,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-24 16:19:39,905 - INFO] Train Epoch : 00 Loss:	 0.013432	 lr:0.0001
+2022-10-24 16:20:34,698 - INFO] DVC training
+2022-10-24 16:20:34,699 - INFO] config : 
+2022-10-24 16:20:34,700 - INFO] {
+    "tot_epoch": 30,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-24 16:22:02,757 - INFO] global step 374 : 
+
+2022-10-24 16:22:02,758 - INFO] EWAP_eth dataset : average bpp : 0.103733, average psnr : 36.922387, average msssim: 0.991688
+
+2022-10-24 16:25:08,265 - INFO] Train Epoch : 01 Loss:	 0.013179	 lr:0.0001
+2022-10-24 16:28:31,828 - INFO] DVC training
+2022-10-24 16:28:31,829 - INFO] config : 
+2022-10-24 16:28:31,830 - INFO] {
+    "tot_epoch": 30,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-24 16:30:00,895 - INFO] global step 748 : 
+
+2022-10-24 16:30:00,896 - INFO] EWAP_eth dataset : average bpp : 0.105971, average psnr : 36.775470, average msssim: 0.991500
+
+2022-10-24 16:30:37,498 - INFO] Train Epoch : 02 Loss:	 0.015490	 lr:0.0001
+2022-10-24 16:31:49,006 - INFO] DVC training
+2022-10-24 16:31:49,006 - INFO] config : 
+2022-10-24 16:31:49,007 - INFO] {
+    "tot_epoch": 30,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-24 16:33:09,761 - INFO] DVC training
+2022-10-24 16:33:09,761 - INFO] config : 
+2022-10-24 16:33:09,762 - INFO] {
+    "tot_epoch": 30,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-24 16:34:39,014 - INFO] global step 0 : 
+
+2022-10-24 16:34:39,015 - INFO] EWAP_eth dataset : average bpp : 0.116026, average psnr : 36.754345, average msssim: 0.991936
+
+2022-10-24 16:34:54,685 - INFO] DVC training
+2022-10-24 16:34:54,686 - INFO] config : 
+2022-10-24 16:34:54,687 - INFO] {
+    "tot_epoch": 30,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-24 16:36:25,576 - INFO] Train Epoch : 03 Loss:	 0.012188	 lr:0.0001
+2022-10-24 16:37:01,769 - INFO] DVC training
+2022-10-24 16:37:01,769 - INFO] config : 
+2022-10-24 16:37:01,770 - INFO] {
+    "tot_epoch": 30,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-24 16:37:54,795 - INFO] DVC training
+2022-10-24 16:37:54,796 - INFO] config : 
+2022-10-24 16:37:54,797 - INFO] {
+    "tot_epoch": 30,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-24 16:39:23,602 - INFO] global step 1496 : 
+
+2022-10-24 16:39:23,602 - INFO] EWAP_eth dataset : average bpp : 0.094635, average psnr : 36.897194, average msssim: 0.992076
+
+2022-10-24 16:41:55,534 - INFO] Train Epoch : 04 Loss:	 0.013755	 lr:0.0001
+2022-10-24 16:47:05,816 - INFO] DVC training
+2022-10-24 16:47:05,816 - INFO] config : 
+2022-10-24 16:47:05,817 - INFO] {
+    "tot_epoch": 30,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-24 16:53:52,212 - INFO] DVC training
+2022-10-24 16:53:52,212 - INFO] config : 
+2022-10-24 16:53:52,213 - INFO] {
+    "tot_epoch": 30,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-24 16:54:33,181 - INFO] DVC training
+2022-10-24 16:54:33,182 - INFO] config : 
+2022-10-24 16:54:33,183 - INFO] {
+    "tot_epoch": 30,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-24 16:55:56,497 - INFO] global step 1496 : 
+
+2022-10-24 16:55:56,498 - INFO] EWAP_eth dataset : average bpp : 0.135950, average psnr : 37.324983, average msssim: 0.993548
+
+2022-10-24 16:58:37,850 - INFO] Train Epoch : 00 Loss:	 0.010905	 lr:0.0001
+2022-10-24 17:10:01,858 - INFO] Train Epoch : 01 Loss:	 0.011152	 lr:0.0001
+2022-10-24 17:14:23,940 - INFO] DVC training
+2022-10-24 17:14:23,941 - INFO] config : 
+2022-10-24 17:14:23,942 - INFO] {
+    "tot_epoch": 30,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-24 17:14:43,407 - INFO] DVC training
+2022-10-24 17:14:43,408 - INFO] config : 
+2022-10-24 17:14:43,409 - INFO] {
+    "tot_epoch": 30,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-24 17:16:09,256 - INFO] global step 748 : 
+
+2022-10-24 17:16:09,256 - INFO] EWAP_eth dataset : average bpp : 0.101159, average psnr : 36.694528, average msssim: 0.991946
+
+2022-10-24 17:21:25,179 - INFO] Train Epoch : 02 Loss:	 0.012600	 lr:0.0001
+2022-10-24 17:32:47,870 - INFO] Train Epoch : 03 Loss:	 0.010151	 lr:0.0001
+2022-10-24 17:44:10,810 - INFO] Train Epoch : 04 Loss:	 0.011600	 lr:0.0001
+2022-10-24 17:55:33,539 - INFO] Train Epoch : 05 Loss:	 0.009670	 lr:0.0001
+2022-10-24 18:04:06,856 - INFO] Train Epoch : 06 Loss:	 0.009884	 lr:0.0001
+2022-10-24 18:15:29,696 - INFO] Train Epoch : 07 Loss:	 0.011165	 lr:0.0001
+2022-10-24 18:26:54,417 - INFO] Train Epoch : 08 Loss:	 0.009823	 lr:0.0001
+2022-10-24 18:34:40,090 - INFO] Train Epoch : 09 Loss:	 0.012528	 lr:0.0001
+2022-10-24 18:39:37,862 - INFO] Train Epoch : 10 Loss:	 0.009392	 lr:0.0001
+2022-10-24 18:49:28,082 - INFO] Train Epoch : 11 Loss:	 0.009789	 lr:0.0001
+2022-10-24 19:00:50,246 - INFO] Train Epoch : 12 Loss:	 0.010607	 lr:0.0001
+2022-10-24 19:12:12,119 - INFO] Train Epoch : 13 Loss:	 0.008973	 lr:0.0001
+2022-10-24 19:23:35,251 - INFO] Train Epoch : 14 Loss:	 0.010651	 lr:0.0001
+2022-10-24 19:33:51,916 - INFO] Train Epoch : 15 Loss:	 0.009296	 lr:0.0001
+2022-10-24 19:38:49,542 - INFO] Train Epoch : 16 Loss:	 0.010348	 lr:0.0001
+2022-10-24 19:43:46,485 - INFO] Train Epoch : 17 Loss:	 0.010445	 lr:0.0001
+2022-10-24 19:53:16,976 - INFO] Train Epoch : 18 Loss:	 0.008641	 lr:0.0001
+2022-10-24 20:04:34,794 - INFO] Train Epoch : 19 Loss:	 0.010069	 lr:0.0001
+2022-10-24 20:15:51,485 - INFO] Train Epoch : 20 Loss:	 0.008524	 lr:0.0001
+2022-10-24 20:27:09,143 - INFO] Train Epoch : 21 Loss:	 0.009409	 lr:0.0001
+2022-10-24 20:38:25,042 - INFO] Train Epoch : 22 Loss:	 0.010316	 lr:0.0001
+2022-10-24 20:49:40,440 - INFO] Train Epoch : 23 Loss:	 0.008278	 lr:0.0001
+2022-10-24 21:00:56,398 - INFO] Train Epoch : 24 Loss:	 0.009594	 lr:0.0001
+2022-10-24 21:12:11,498 - INFO] Train Epoch : 25 Loss:	 0.008304	 lr:0.0001
+2022-10-24 21:18:18,312 - INFO] Train Epoch : 26 Loss:	 0.008595	 lr:0.0001
+2022-10-24 21:23:16,404 - INFO] Train Epoch : 27 Loss:	 0.009869	 lr:0.0001
+2022-10-24 21:28:13,913 - INFO] Train Epoch : 28 Loss:	 0.008208	 lr:0.0001
+2022-10-24 21:33:11,146 - INFO] Train Epoch : 29 Loss:	 0.009514	 lr:0.0001
+2022-10-24 22:19:58,571 - INFO] DVC training
+2022-10-24 22:19:58,571 - INFO] config : 
+2022-10-24 22:19:58,572 - INFO] {
+    "tot_epoch": 30,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-24 22:20:51,124 - INFO] global step 11220 : 
+
+2022-10-24 22:20:51,124 - INFO] EWAP_eth dataset : average bpp : 0.078758, average psnr : 36.732913, average msssim: 0.991767
+
+2022-10-24 22:22:35,649 - INFO] DVC training
+2022-10-24 22:22:35,649 - INFO] config : 
+2022-10-24 22:22:35,650 - INFO] {
+    "tot_epoch": 30,
+    "tot_step": 20000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-24 22:23:37,439 - INFO] global step 11220 : 
+
+2022-10-24 22:23:37,440 - INFO] EWAP_eth dataset : average bpp : 0.183806, average psnr : 37.925755, average msssim: 0.995103
+
+2022-10-24 22:28:20,147 - INFO] DVC training
+2022-10-24 22:28:20,147 - INFO] config : 
+2022-10-24 22:28:20,149 - INFO] {
+    "tot_epoch": 1000,
+    "tot_step": 20000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-24 22:33:27,747 - INFO] Train Epoch : 00 Loss:	 0.011230	 lr:0.0001
+2022-10-24 22:38:30,383 - INFO] Train Epoch : 01 Loss:	 0.010488	 lr:0.0001
+2022-10-24 22:43:31,913 - INFO] Train Epoch : 02 Loss:	 0.013558	 lr:0.0001
+2022-10-24 22:48:33,373 - INFO] Train Epoch : 03 Loss:	 0.010013	 lr:0.0001
+2022-10-24 22:53:35,970 - INFO] Train Epoch : 04 Loss:	 0.011656	 lr:0.0001
+2022-10-24 22:58:38,688 - INFO] Train Epoch : 05 Loss:	 0.009834	 lr:0.0001
+2022-10-24 23:03:40,780 - INFO] Train Epoch : 06 Loss:	 0.009861	 lr:0.0001
+2022-10-24 23:08:42,966 - INFO] Train Epoch : 07 Loss:	 0.011007	 lr:0.0001
+2022-10-24 23:13:44,948 - INFO] Train Epoch : 08 Loss:	 0.009673	 lr:0.0001
+2022-10-24 23:18:46,991 - INFO] Train Epoch : 09 Loss:	 0.010888	 lr:0.0001
+2022-10-24 23:23:48,491 - INFO] Train Epoch : 10 Loss:	 0.009641	 lr:0.0001
+2022-10-24 23:28:50,069 - INFO] Train Epoch : 11 Loss:	 0.012393	 lr:0.0001
+2022-10-24 23:33:51,809 - INFO] Train Epoch : 12 Loss:	 0.010389	 lr:0.0001
+2022-10-24 23:38:53,516 - INFO] Train Epoch : 13 Loss:	 0.008998	 lr:0.0001
+2022-10-24 23:43:54,676 - INFO] Train Epoch : 14 Loss:	 0.010403	 lr:0.0001
+2022-10-24 23:48:56,215 - INFO] Train Epoch : 15 Loss:	 0.009165	 lr:0.0001
+2022-10-24 23:53:57,431 - INFO] Train Epoch : 16 Loss:	 0.008832	 lr:0.0001
+2022-10-24 23:58:58,899 - INFO] Train Epoch : 17 Loss:	 0.009775	 lr:0.0001
+2022-10-25 00:04:00,349 - INFO] Train Epoch : 18 Loss:	 0.008699	 lr:0.0001
+2022-10-25 00:09:01,791 - INFO] Train Epoch : 19 Loss:	 0.010458	 lr:0.0001
+2022-10-25 00:14:03,240 - INFO] Train Epoch : 20 Loss:	 0.008446	 lr:0.0001
+2022-10-25 00:19:05,531 - INFO] Train Epoch : 21 Loss:	 0.008802	 lr:0.0001
+2022-10-25 00:24:07,677 - INFO] Train Epoch : 22 Loss:	 0.009904	 lr:0.0001
+2022-10-25 00:29:09,452 - INFO] Train Epoch : 23 Loss:	 0.008192	 lr:0.0001
+2022-10-25 00:34:10,977 - INFO] Train Epoch : 24 Loss:	 0.009612	 lr:0.0001
+2022-10-25 00:39:12,314 - INFO] Train Epoch : 25 Loss:	 0.008610	 lr:0.0001
+2022-10-25 00:44:13,325 - INFO] Train Epoch : 26 Loss:	 0.010493	 lr:0.0001
+2022-10-25 00:49:14,689 - INFO] Train Epoch : 27 Loss:	 0.009364	 lr:0.0001
+2022-10-25 00:54:16,048 - INFO] Train Epoch : 28 Loss:	 0.009286	 lr:0.0001
+2022-10-25 00:59:17,354 - INFO] Train Epoch : 29 Loss:	 0.009560	 lr:0.0001
+2022-10-25 01:04:18,591 - INFO] Train Epoch : 30 Loss:	 0.008732	 lr:0.0001
+2022-10-25 01:09:19,729 - INFO] Train Epoch : 31 Loss:	 0.008279	 lr:0.0001
+2022-10-25 01:14:21,042 - INFO] Train Epoch : 32 Loss:	 0.009768	 lr:0.0001
+2022-10-25 01:19:22,308 - INFO] Train Epoch : 33 Loss:	 0.008271	 lr:0.0001
+2022-10-25 01:24:24,784 - INFO] Train Epoch : 34 Loss:	 0.009677	 lr:0.0001
+2022-10-25 01:29:26,281 - INFO] Train Epoch : 35 Loss:	 0.008215	 lr:0.0001
+2022-10-25 01:34:27,889 - INFO] Train Epoch : 36 Loss:	 0.008724	 lr:0.0001
+2022-10-25 01:39:29,437 - INFO] Train Epoch : 37 Loss:	 0.011914	 lr:0.0001
+2022-10-25 01:44:30,713 - INFO] Train Epoch : 38 Loss:	 0.008223	 lr:0.0001
+2022-10-25 01:49:32,179 - INFO] Train Epoch : 39 Loss:	 0.009178	 lr:0.0001
+2022-10-25 01:54:33,622 - INFO] Train Epoch : 40 Loss:	 0.008291	 lr:0.0001
+2022-10-25 01:59:35,856 - INFO] Train Epoch : 41 Loss:	 0.008274	 lr:0.0001
+2022-10-25 02:04:37,329 - INFO] Train Epoch : 42 Loss:	 0.009654	 lr:0.0001
+2022-10-25 02:09:39,079 - INFO] Train Epoch : 43 Loss:	 0.008059	 lr:0.0001
+2022-10-25 02:14:40,622 - INFO] Train Epoch : 44 Loss:	 0.010921	 lr:0.0001
+2022-10-25 02:19:42,116 - INFO] Train Epoch : 45 Loss:	 0.008335	 lr:0.0001
+2022-10-25 02:24:43,479 - INFO] Train Epoch : 46 Loss:	 0.008175	 lr:0.0001
+2022-10-25 02:29:44,969 - INFO] Train Epoch : 47 Loss:	 0.009600	 lr:0.0001
+2022-10-25 02:34:46,590 - INFO] Train Epoch : 48 Loss:	 0.010360	 lr:0.0001
+2022-10-25 02:39:48,732 - INFO] Train Epoch : 49 Loss:	 0.009165	 lr:0.0001
+2022-10-25 02:44:51,106 - INFO] Train Epoch : 50 Loss:	 0.007923	 lr:0.0001
+2022-10-25 02:49:52,890 - INFO] Train Epoch : 51 Loss:	 0.008219	 lr:0.0001
+2022-10-25 02:54:55,036 - INFO] Train Epoch : 52 Loss:	 0.011067	 lr:0.0001
+2022-10-25 02:59:56,905 - INFO] Train Epoch : 53 Loss:	 0.009849	 lr:0.0001
+2022-10-25 03:04:58,678 - INFO] Train Epoch : 54 Loss:	 0.008734	 lr:0.0001
+2022-10-25 03:10:00,338 - INFO] Train Epoch : 55 Loss:	 0.007907	 lr:0.0001
+2022-10-25 03:15:02,227 - INFO] Train Epoch : 56 Loss:	 0.009879	 lr:0.0001
+2022-10-25 03:20:04,266 - INFO] Train Epoch : 57 Loss:	 0.009458	 lr:0.0001
+2022-10-25 03:25:05,907 - INFO] Train Epoch : 58 Loss:	 0.008590	 lr:0.0001
+2022-10-25 03:30:07,203 - INFO] Train Epoch : 59 Loss:	 0.009215	 lr:0.0001
+2022-10-25 03:35:08,925 - INFO] Train Epoch : 60 Loss:	 0.007958	 lr:0.0001
+2022-10-25 03:40:11,706 - INFO] Train Epoch : 61 Loss:	 0.008107	 lr:0.0001
+2022-10-25 03:45:13,419 - INFO] Train Epoch : 62 Loss:	 0.010547	 lr:0.0001
+2022-10-25 03:50:15,177 - INFO] Train Epoch : 63 Loss:	 0.007727	 lr:0.0001
+2022-10-25 03:55:17,178 - INFO] Train Epoch : 64 Loss:	 0.008969	 lr:0.0001
+2022-10-25 04:00:18,667 - INFO] Train Epoch : 65 Loss:	 0.007685	 lr:0.0001
+2022-10-25 04:05:20,125 - INFO] Train Epoch : 66 Loss:	 0.008098	 lr:0.0001
+2022-10-25 04:10:21,499 - INFO] Train Epoch : 67 Loss:	 0.010879	 lr:0.0001
+2022-10-25 04:15:22,875 - INFO] Train Epoch : 68 Loss:	 0.008513	 lr:0.0001
+2022-10-25 04:20:24,376 - INFO] Train Epoch : 69 Loss:	 0.008995	 lr:0.0001
+2022-10-25 04:25:25,836 - INFO] Train Epoch : 70 Loss:	 0.007832	 lr:0.0001
+2022-10-25 04:30:28,244 - INFO] Train Epoch : 71 Loss:	 0.007966	 lr:0.0001
+2022-10-25 04:35:30,217 - INFO] Train Epoch : 72 Loss:	 0.008960	 lr:0.0001
+2022-10-25 04:40:31,718 - INFO] Train Epoch : 73 Loss:	 0.007957	 lr:0.0001
+2022-10-25 04:45:33,323 - INFO] Train Epoch : 74 Loss:	 0.008639	 lr:0.0001
+2022-10-25 04:50:34,618 - INFO] Train Epoch : 75 Loss:	 0.008115	 lr:0.0001
+2022-10-25 04:55:35,841 - INFO] Train Epoch : 76 Loss:	 0.007907	 lr:0.0001
+2022-10-25 05:00:37,304 - INFO] Train Epoch : 77 Loss:	 0.009625	 lr:0.0001
+2022-10-25 05:05:38,666 - INFO] Train Epoch : 78 Loss:	 0.007732	 lr:0.0001
+2022-10-25 05:10:40,027 - INFO] Train Epoch : 79 Loss:	 0.008749	 lr:0.0001
+2022-10-25 05:15:41,396 - INFO] Train Epoch : 80 Loss:	 0.008261	 lr:0.0001
+2022-10-25 05:20:43,351 - INFO] Train Epoch : 81 Loss:	 0.007757	 lr:0.0001
+2022-10-25 05:25:44,584 - INFO] Train Epoch : 82 Loss:	 0.010823	 lr:0.0001
+2022-10-25 05:30:45,713 - INFO] Train Epoch : 83 Loss:	 0.009619	 lr:0.0001
+2022-10-25 05:35:47,136 - INFO] Train Epoch : 84 Loss:	 0.008783	 lr:0.0001
+2022-10-25 05:40:48,258 - INFO] Train Epoch : 85 Loss:	 0.007986	 lr:0.0001
+2022-10-25 05:45:49,247 - INFO] Train Epoch : 86 Loss:	 0.008049	 lr:0.0001
+2022-10-25 05:50:50,123 - INFO] Train Epoch : 87 Loss:	 0.010994	 lr:0.0001
+2022-10-25 05:55:51,105 - INFO] Train Epoch : 88 Loss:	 0.008280	 lr:0.0001
+2022-10-25 06:00:52,053 - INFO] Train Epoch : 89 Loss:	 0.008970	 lr:0.0001
+2022-10-25 06:05:53,306 - INFO] Train Epoch : 90 Loss:	 0.008130	 lr:0.0001
+2022-10-25 06:10:55,251 - INFO] Train Epoch : 91 Loss:	 0.008061	 lr:0.0001
+2022-10-25 06:15:56,152 - INFO] Train Epoch : 92 Loss:	 0.008714	 lr:0.0001
+2022-10-25 06:20:56,753 - INFO] Train Epoch : 93 Loss:	 0.008070	 lr:0.0001
+2022-10-25 06:25:57,612 - INFO] Train Epoch : 94 Loss:	 0.008883	 lr:0.0001
+2022-10-25 06:30:58,171 - INFO] Train Epoch : 95 Loss:	 0.007410	 lr:0.0001
+2022-10-25 06:35:58,788 - INFO] Train Epoch : 96 Loss:	 0.007911	 lr:0.0001
+2022-10-25 06:40:59,515 - INFO] Train Epoch : 97 Loss:	 0.008745	 lr:0.0001
+2022-10-25 06:46:00,157 - INFO] Train Epoch : 98 Loss:	 0.007823	 lr:0.0001
+2022-10-25 06:51:01,415 - INFO] Train Epoch : 99 Loss:	 0.009249	 lr:0.0001
+2022-10-25 06:56:02,594 - INFO] Train Epoch : 100 Loss:	 0.008429	 lr:0.0001
+2022-10-25 07:01:04,717 - INFO] Train Epoch : 101 Loss:	 0.009465	 lr:0.0001
+2022-10-25 07:06:05,457 - INFO] Train Epoch : 102 Loss:	 0.009096	 lr:0.0001
+2022-10-25 07:11:05,877 - INFO] Train Epoch : 103 Loss:	 0.007668	 lr:0.0001
+2022-10-25 07:16:06,506 - INFO] Train Epoch : 104 Loss:	 0.009414	 lr:0.0001
+2022-10-25 07:21:07,143 - INFO] Train Epoch : 105 Loss:	 0.007805	 lr:0.0001
+2022-10-25 07:26:08,075 - INFO] Train Epoch : 106 Loss:	 0.008276	 lr:0.0001
+2022-10-25 07:31:08,522 - INFO] Train Epoch : 107 Loss:	 0.008859	 lr:0.0001
+2022-10-25 07:36:09,245 - INFO] Train Epoch : 108 Loss:	 0.008145	 lr:0.0001
+2022-10-25 07:41:09,704 - INFO] Train Epoch : 109 Loss:	 0.008525	 lr:0.0001
+2022-10-25 07:46:09,566 - INFO] Train Epoch : 110 Loss:	 0.008033	 lr:0.0001
+2022-10-25 07:51:09,761 - INFO] Train Epoch : 111 Loss:	 0.007857	 lr:0.0001
+2022-10-25 07:56:09,515 - INFO] Train Epoch : 112 Loss:	 0.008853	 lr:0.0001
+2022-10-25 08:01:10,290 - INFO] Train Epoch : 113 Loss:	 0.007513	 lr:0.0001
+2022-10-25 08:06:10,307 - INFO] Train Epoch : 114 Loss:	 0.008688	 lr:0.0001
+2022-10-25 08:11:10,217 - INFO] Train Epoch : 115 Loss:	 0.008279	 lr:0.0001
+2022-10-25 08:16:09,908 - INFO] Train Epoch : 116 Loss:	 0.009818	 lr:0.0001
+2022-10-25 08:21:09,529 - INFO] Train Epoch : 117 Loss:	 0.010611	 lr:0.0001
+2022-10-25 08:26:09,244 - INFO] Train Epoch : 118 Loss:	 0.007163	 lr:0.0001
+2022-10-25 08:31:09,014 - INFO] Train Epoch : 119 Loss:	 0.008781	 lr:0.0001
+2022-10-25 08:36:08,723 - INFO] Train Epoch : 120 Loss:	 0.008135	 lr:0.0001
+2022-10-25 08:41:09,292 - INFO] Train Epoch : 121 Loss:	 0.007533	 lr:0.0001
+2022-10-25 08:46:08,881 - INFO] Train Epoch : 122 Loss:	 0.010983	 lr:0.0001
+2022-10-25 08:51:08,621 - INFO] Train Epoch : 123 Loss:	 0.009521	 lr:0.0001
+2022-10-25 08:56:08,126 - INFO] Train Epoch : 124 Loss:	 0.008464	 lr:0.0001
+2022-10-25 09:01:07,608 - INFO] Train Epoch : 125 Loss:	 0.007777	 lr:0.0001
+2022-10-25 09:06:07,132 - INFO] Train Epoch : 126 Loss:	 0.007521	 lr:0.0001
+2022-10-25 09:11:06,962 - INFO] Train Epoch : 127 Loss:	 0.008773	 lr:0.0001
+2022-10-25 09:16:07,376 - INFO] Train Epoch : 128 Loss:	 0.010137	 lr:0.0001
+2022-10-25 09:21:06,950 - INFO] Train Epoch : 129 Loss:	 0.008494	 lr:0.0001
+2022-10-25 09:25:44,897 - INFO] DVC training
+2022-10-25 09:25:44,897 - INFO] config : 
+2022-10-25 09:25:44,898 - INFO] {
+    "tot_epoch": 1000,
+    "tot_step": 20000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-25 09:26:13,535 - INFO] Train Epoch : 130 Loss:	 0.007423	 lr:0.0001
+2022-10-25 09:27:10,517 - INFO] global step 45254 : 
+
+2022-10-25 09:27:10,518 - INFO] EWAP_eth dataset : average bpp : 0.073200, average psnr : 36.966868, average msssim: 0.991892
+
+2022-10-25 09:30:24,284 - INFO] DVC training
+2022-10-25 09:30:24,284 - INFO] config : 
+2022-10-25 09:30:24,285 - INFO] {
+    "tot_epoch": 1000,
+    "tot_step": 20000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-25 09:31:49,450 - INFO] global step 45254 : 
+
+2022-10-25 09:31:49,451 - INFO] EWAP_eth dataset : average bpp : 0.073200, average psnr : 36.966868, average msssim: 0.991892
+
+2022-10-25 09:32:09,230 - INFO] Train Epoch : 131 Loss:	 0.007414	 lr:0.0001
+2022-10-25 09:32:20,474 - INFO] DVC training
+2022-10-25 09:32:20,474 - INFO] config : 
+2022-10-25 09:32:20,476 - INFO] {
+    "tot_epoch": 1000,
+    "tot_step": 20000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-25 09:33:46,712 - INFO] global step 30294 : 
+
+2022-10-25 09:33:46,713 - INFO] EWAP_eth dataset : average bpp : 0.097212, average psnr : 36.495246, average msssim: 0.989978
+
+2022-10-25 09:38:36,506 - INFO] Train Epoch : 132 Loss:	 0.010139	 lr:0.0001
+2022-10-25 09:43:37,338 - INFO] Train Epoch : 133 Loss:	 0.007822	 lr:0.0001
+2022-10-25 09:48:38,078 - INFO] Train Epoch : 134 Loss:	 0.008788	 lr:0.0001
+2022-10-25 09:53:38,145 - INFO] Train Epoch : 135 Loss:	 0.007656	 lr:0.0001
+2022-10-25 09:58:37,660 - INFO] Train Epoch : 136 Loss:	 0.007561	 lr:0.0001
+2022-10-25 10:03:37,190 - INFO] Train Epoch : 137 Loss:	 0.008574	 lr:0.0001
+2022-10-25 10:08:36,938 - INFO] Train Epoch : 138 Loss:	 0.007626	 lr:0.0001
+2022-10-25 10:13:36,559 - INFO] Train Epoch : 139 Loss:	 0.008688	 lr:0.0001
+2022-10-25 10:18:36,385 - INFO] Train Epoch : 140 Loss:	 0.007500	 lr:0.0001
+2022-10-25 10:23:37,695 - INFO] Train Epoch : 141 Loss:	 0.007939	 lr:0.0001
+2022-10-25 10:24:03,289 - INFO] DVC training
+2022-10-25 10:24:03,289 - INFO] config : 
+2022-10-25 10:24:03,290 - INFO] {
+    "tot_epoch": 1000,
+    "tot_step": 20000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-25 10:25:26,969 - INFO] global step 45254 : 
+
+2022-10-25 10:25:26,970 - INFO] EWAP_eth dataset : average bpp : 0.040038, average psnr : 35.987063, average msssim: 0.990190
+
+2022-10-25 10:28:15,614 - INFO] DVC training
+2022-10-25 10:28:15,614 - INFO] config : 
+2022-10-25 10:28:15,616 - INFO] {
+    "tot_epoch": 1000,
+    "tot_step": 20000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-25 10:29:11,299 - INFO] Train Epoch : 142 Loss:	 0.008792	 lr:0.0001
+2022-10-25 10:29:40,546 - INFO] DVC training
+2022-10-25 10:29:40,547 - INFO] config : 
+2022-10-25 10:29:40,548 - INFO] {
+    "tot_epoch": 1000,
+    "tot_step": 20000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-25 10:31:50,930 - INFO] DVC training
+2022-10-25 10:31:50,931 - INFO] config : 
+2022-10-25 10:31:50,932 - INFO] {
+    "tot_epoch": 1000,
+    "tot_step": 20000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-25 10:33:15,124 - INFO] global step 45254 : 
+
+2022-10-25 10:33:15,124 - INFO] EWAP_eth dataset : average bpp : 0.038608, average psnr : 37.904256, average msssim: 0.993642
+
+2022-10-25 10:34:46,994 - INFO] Train Epoch : 143 Loss:	 0.007706	 lr:0.0001
+2022-10-25 10:38:53,895 - INFO] DVC training
+2022-10-25 10:38:53,895 - INFO] config : 
+2022-10-25 10:38:53,896 - INFO] {
+    "tot_epoch": 1000,
+    "tot_step": 20000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-25 10:40:15,905 - INFO] global step 45254 : 
+
+2022-10-25 10:40:15,906 - INFO] EWAP_eth dataset : average bpp : 0.052272, average psnr : 37.904256, average msssim: 0.993642
+
+2022-10-25 10:40:19,775 - INFO] Train Epoch : 144 Loss:	 0.008831	 lr:0.0001
+2022-10-25 10:42:21,654 - INFO] DVC training
+2022-10-25 10:42:21,655 - INFO] config : 
+2022-10-25 10:42:21,661 - INFO] {
+    "tot_epoch": 1000,
+    "tot_step": 20000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-25 10:45:22,950 - INFO] Train Epoch : 145 Loss:	 0.010803	 lr:0.0001
+2022-10-25 10:47:14,940 - INFO] DVC training
+2022-10-25 10:47:14,941 - INFO] config : 
+2022-10-25 10:47:14,942 - INFO] {
+    "tot_epoch": 1000,
+    "tot_step": 20000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-25 10:48:47,215 - INFO] DVC training
+2022-10-25 10:48:47,215 - INFO] config : 
+2022-10-25 10:48:47,217 - INFO] {
+    "tot_epoch": 1000,
+    "tot_step": 20000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-25 10:49:14,361 - INFO] DVC training
+2022-10-25 10:49:14,361 - INFO] config : 
+2022-10-25 10:49:14,363 - INFO] {
+    "tot_epoch": 1000,
+    "tot_step": 20000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-25 10:50:36,322 - INFO] global step 45254 : 
+
+2022-10-25 10:50:36,323 - INFO] EWAP_eth dataset : average bpp : 0.052272, average psnr : 37.904258, average msssim: 0.993642
+
+2022-10-25 10:50:57,394 - INFO] Train Epoch : 146 Loss:	 0.007814	 lr:0.0001
+2022-10-25 10:55:58,539 - INFO] Train Epoch : 147 Loss:	 0.009629	 lr:0.0001
+2022-10-25 11:00:59,052 - INFO] Train Epoch : 148 Loss:	 0.007786	 lr:0.0001
+2022-10-25 11:05:59,038 - INFO] Train Epoch : 149 Loss:	 0.008546	 lr:0.0001
+2022-10-25 11:10:18,271 - INFO] DVC training
+2022-10-25 11:10:18,271 - INFO] config : 
+2022-10-25 11:10:18,272 - INFO] {
+    "tot_epoch": 1000,
+    "tot_step": 20000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-25 11:11:22,642 - INFO] Train Epoch : 150 Loss:	 0.007661	 lr:0.0001
+2022-10-25 11:11:38,924 - INFO] global step 45254 : 
+
+2022-10-25 11:11:38,925 - INFO] EWAP_eth dataset : average bpp : 0.078884, average psnr : 38.133840, average msssim: 0.993992
+
+2022-10-25 11:17:28,853 - INFO] Train Epoch : 151 Loss:	 0.007638	 lr:0.0001
+2022-10-25 11:22:39,527 - INFO] Train Epoch : 152 Loss:	 0.010719	 lr:0.0001
+2022-10-25 11:28:28,685 - INFO] Train Epoch : 153 Loss:	 0.007499	 lr:0.0001
+2022-10-25 11:33:29,449 - INFO] Train Epoch : 154 Loss:	 0.008536	 lr:0.0001
+2022-10-25 11:38:29,786 - INFO] Train Epoch : 155 Loss:	 0.007240	 lr:0.0001
+2022-10-25 11:43:29,837 - INFO] Train Epoch : 156 Loss:	 0.009310	 lr:0.0001
+2022-10-25 11:48:29,627 - INFO] Train Epoch : 157 Loss:	 0.008415	 lr:0.0001
+2022-10-25 11:53:29,754 - INFO] Train Epoch : 158 Loss:	 0.009998	 lr:0.0001
+2022-10-25 11:58:29,619 - INFO] Train Epoch : 159 Loss:	 0.008546	 lr:0.0001
+2022-10-25 12:03:29,712 - INFO] Train Epoch : 160 Loss:	 0.009257	 lr:0.0001
+2022-10-25 12:08:30,202 - INFO] Train Epoch : 161 Loss:	 0.007249	 lr:0.0001
+2022-10-25 12:13:30,111 - INFO] Train Epoch : 162 Loss:	 0.008431	 lr:0.0001
+2022-10-25 12:18:30,495 - INFO] Train Epoch : 163 Loss:	 0.008022	 lr:0.0001
+2022-10-25 12:23:31,025 - INFO] Train Epoch : 164 Loss:	 0.008597	 lr:0.0001
+2022-10-25 12:28:31,269 - INFO] Train Epoch : 165 Loss:	 0.007824	 lr:0.0001
+2022-10-25 12:33:32,028 - INFO] Train Epoch : 166 Loss:	 0.007172	 lr:0.0001
+2022-10-25 12:38:32,834 - INFO] Train Epoch : 167 Loss:	 0.009161	 lr:0.0001
+2022-10-25 12:43:33,584 - INFO] Train Epoch : 168 Loss:	 0.009336	 lr:0.0001
+2022-10-25 12:48:33,757 - INFO] Train Epoch : 169 Loss:	 0.010641	 lr:0.0001
+2022-10-25 12:53:33,879 - INFO] Train Epoch : 170 Loss:	 0.007950	 lr:0.0001
+2022-10-25 12:58:34,111 - INFO] Train Epoch : 171 Loss:	 0.007963	 lr:0.0001
+2022-10-25 13:03:34,199 - INFO] Train Epoch : 172 Loss:	 0.008497	 lr:0.0001
+2022-10-25 13:08:34,541 - INFO] Train Epoch : 173 Loss:	 0.007314	 lr:0.0001
+2022-10-25 13:13:35,000 - INFO] Train Epoch : 174 Loss:	 0.008362	 lr:0.0001
+2022-10-25 13:18:36,013 - INFO] Train Epoch : 175 Loss:	 0.009199	 lr:0.0001
+2022-10-25 13:23:37,026 - INFO] Train Epoch : 176 Loss:	 0.007711	 lr:0.0001
+2022-10-25 13:28:38,211 - INFO] Train Epoch : 177 Loss:	 0.008643	 lr:0.0001
+2022-10-25 13:33:39,652 - INFO] Train Epoch : 178 Loss:	 0.008900	 lr:0.0001
+2022-10-25 13:38:41,807 - INFO] Train Epoch : 179 Loss:	 0.008263	 lr:0.0001
+2022-10-25 13:43:43,317 - INFO] Train Epoch : 180 Loss:	 0.009362	 lr:0.0001
+2022-10-25 13:48:45,296 - INFO] Train Epoch : 181 Loss:	 0.007345	 lr:0.0001
+2022-10-25 13:53:47,103 - INFO] Train Epoch : 182 Loss:	 0.009422	 lr:0.0001
+2022-10-25 13:58:49,092 - INFO] Train Epoch : 183 Loss:	 0.007122	 lr:0.0001
+2022-10-25 14:03:50,507 - INFO] Train Epoch : 184 Loss:	 0.008391	 lr:0.0001
+2022-10-25 14:08:52,968 - INFO] Train Epoch : 185 Loss:	 0.008686	 lr:0.0001
+2022-10-25 14:13:55,466 - INFO] Train Epoch : 186 Loss:	 0.007506	 lr:0.0001
+2022-10-25 14:18:57,192 - INFO] Train Epoch : 187 Loss:	 0.008589	 lr:0.0001
+2022-10-25 14:23:59,052 - INFO] Train Epoch : 188 Loss:	 0.007405	 lr:0.0001
+2022-10-25 18:43:29,289 - INFO] DVC training
+2022-10-25 18:43:29,289 - INFO] config : 
+2022-10-25 18:43:29,291 - INFO] {
+    "tot_epoch": 1000,
+    "tot_step": 20000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-25 21:12:25,667 - INFO] DVC training
+2022-10-25 21:12:25,668 - INFO] config : 
+2022-10-25 21:12:25,669 - INFO] {
+    "tot_epoch": 1000,
+    "tot_step": 20000000,
+    "train_lambda": 1024,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-25 21:13:21,132 - INFO] DVC training
+2022-10-25 21:13:21,133 - INFO] config : 
+2022-10-25 21:13:21,134 - INFO] {
+    "tot_epoch": 1000,
+    "tot_step": 20000000,
+    "train_lambda": 1024,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-10-25 21:18:29,064 - INFO] Train Epoch : 00 Loss:	 0.007465	 lr:0.0001
+2022-10-25 21:23:32,209 - INFO] Train Epoch : 01 Loss:	 0.007315	 lr:0.0001
+2022-10-25 21:31:32,404 - INFO] Train Epoch : 02 Loss:	 0.007103	 lr:0.0001
+2022-10-25 21:37:58,924 - INFO] Train Epoch : 03 Loss:	 0.007446	 lr:0.0001
+2022-10-25 21:46:00,584 - INFO] Train Epoch : 04 Loss:	 0.006596	 lr:0.0001
+2022-10-25 21:52:26,461 - INFO] Train Epoch : 05 Loss:	 0.005711	 lr:0.0001
+2022-10-25 21:57:28,908 - INFO] Train Epoch : 06 Loss:	 0.005773	 lr:0.0001
+2022-10-25 22:02:31,201 - INFO] Train Epoch : 07 Loss:	 0.006755	 lr:0.0001
+2022-10-25 22:07:33,356 - INFO] Train Epoch : 08 Loss:	 0.006474	 lr:0.0001
+2022-10-25 22:12:35,631 - INFO] Train Epoch : 09 Loss:	 0.006656	 lr:0.0001
+2022-10-25 22:17:37,562 - INFO] Train Epoch : 10 Loss:	 0.005319	 lr:0.0001
+2022-10-25 22:22:39,294 - INFO] Train Epoch : 11 Loss:	 0.005547	 lr:0.0001
+2022-10-25 22:27:40,488 - INFO] Train Epoch : 12 Loss:	 0.005875	 lr:0.0001
+2022-10-25 22:32:42,433 - INFO] Train Epoch : 13 Loss:	 0.005098	 lr:0.0001
+2022-10-25 22:37:43,911 - INFO] Train Epoch : 14 Loss:	 0.005918	 lr:0.0001
+2022-10-25 22:42:45,354 - INFO] Train Epoch : 15 Loss:	 0.005091	 lr:0.0001
+2022-10-25 22:47:46,766 - INFO] Train Epoch : 16 Loss:	 0.006112	 lr:0.0001
+2022-10-25 22:52:48,225 - INFO] Train Epoch : 17 Loss:	 0.005808	 lr:0.0001
+2022-10-25 22:57:49,494 - INFO] Train Epoch : 18 Loss:	 0.004867	 lr:0.0001
+2022-10-25 23:02:50,864 - INFO] Train Epoch : 19 Loss:	 0.005263	 lr:0.0001
+2022-10-25 23:07:52,221 - INFO] Train Epoch : 20 Loss:	 0.004805	 lr:0.0001
+2022-10-25 23:12:54,271 - INFO] Train Epoch : 21 Loss:	 0.004620	 lr:0.0001
+2022-10-25 23:17:55,610 - INFO] Train Epoch : 22 Loss:	 0.005334	 lr:0.0001
+2022-10-25 23:22:56,749 - INFO] Train Epoch : 23 Loss:	 0.005712	 lr:0.0001
+2022-10-25 23:27:58,166 - INFO] Train Epoch : 24 Loss:	 0.005412	 lr:0.0001
+2022-10-25 23:32:59,301 - INFO] Train Epoch : 25 Loss:	 0.005015	 lr:0.0001
+2022-10-25 23:38:00,179 - INFO] Train Epoch : 26 Loss:	 0.004620	 lr:0.0001
+2022-10-25 23:43:01,002 - INFO] Train Epoch : 27 Loss:	 0.005137	 lr:0.0001
+2022-10-25 23:48:02,109 - INFO] Train Epoch : 28 Loss:	 0.004849	 lr:0.0001
+2022-10-25 23:53:03,005 - INFO] Train Epoch : 29 Loss:	 0.005369	 lr:0.0001
+2022-10-25 23:58:04,305 - INFO] Train Epoch : 30 Loss:	 0.004613	 lr:0.0001
+2022-10-26 00:03:05,476 - INFO] Train Epoch : 31 Loss:	 0.004397	 lr:0.0001
+2022-10-26 00:08:07,164 - INFO] Train Epoch : 32 Loss:	 0.005139	 lr:0.0001
+2022-10-26 00:13:09,944 - INFO] Train Epoch : 33 Loss:	 0.004655	 lr:0.0001
+2022-10-26 00:18:12,036 - INFO] Train Epoch : 34 Loss:	 0.005033	 lr:0.0001
+2022-10-26 00:23:13,579 - INFO] Train Epoch : 35 Loss:	 0.004471	 lr:0.0001
+2022-10-26 00:28:15,210 - INFO] Train Epoch : 36 Loss:	 0.005563	 lr:0.0001
+2022-10-26 00:33:16,458 - INFO] Train Epoch : 37 Loss:	 0.005179	 lr:0.0001
+2022-10-26 00:38:17,820 - INFO] Train Epoch : 38 Loss:	 0.005593	 lr:0.0001
+2022-10-26 00:43:19,368 - INFO] Train Epoch : 39 Loss:	 0.005378	 lr:0.0001
+2022-10-26 00:48:20,878 - INFO] Train Epoch : 40 Loss:	 0.004574	 lr:0.0001
+2022-10-26 00:53:22,724 - INFO] Train Epoch : 41 Loss:	 0.004252	 lr:0.0001
+2022-10-26 00:58:24,051 - INFO] Train Epoch : 42 Loss:	 0.005064	 lr:0.0001
+2022-10-26 01:03:25,564 - INFO] Train Epoch : 43 Loss:	 0.004116	 lr:0.0001
+2022-10-26 01:08:26,701 - INFO] Train Epoch : 44 Loss:	 0.006093	 lr:0.0001
+2022-10-26 01:13:28,030 - INFO] Train Epoch : 45 Loss:	 0.004215	 lr:0.0001
+2022-10-26 01:18:29,269 - INFO] Train Epoch : 46 Loss:	 0.004178	 lr:0.0001
+2022-10-26 01:23:30,695 - INFO] Train Epoch : 47 Loss:	 0.005939	 lr:0.0001
+2022-10-26 01:28:32,194 - INFO] Train Epoch : 48 Loss:	 0.005035	 lr:0.0001
+2022-10-26 01:33:33,719 - INFO] Train Epoch : 49 Loss:	 0.006632	 lr:0.0001
+2022-10-26 01:38:34,917 - INFO] Train Epoch : 50 Loss:	 0.004133	 lr:0.0001
+2022-10-26 01:43:36,784 - INFO] Train Epoch : 51 Loss:	 0.004503	 lr:0.0001
+2022-10-26 01:48:38,125 - INFO] Train Epoch : 52 Loss:	 0.004973	 lr:0.0001
+2022-10-26 01:53:38,983 - INFO] Train Epoch : 53 Loss:	 0.004346	 lr:0.0001
+2022-10-26 01:58:39,931 - INFO] Train Epoch : 54 Loss:	 0.005725	 lr:0.0001
+2022-10-26 02:03:41,092 - INFO] Train Epoch : 55 Loss:	 0.004363	 lr:0.0001
+2022-10-26 02:08:41,598 - INFO] Train Epoch : 56 Loss:	 0.004176	 lr:0.0001
+2022-10-26 02:13:42,920 - INFO] Train Epoch : 57 Loss:	 0.004835	 lr:0.0001
+2022-10-26 02:18:44,239 - INFO] Train Epoch : 58 Loss:	 0.004344	 lr:0.0001
+2022-10-26 02:23:45,933 - INFO] Train Epoch : 59 Loss:	 0.004889	 lr:0.0001
+2022-10-26 02:28:48,518 - INFO] Train Epoch : 60 Loss:	 0.004184	 lr:0.0001
+2022-10-26 02:33:51,798 - INFO] Train Epoch : 61 Loss:	 0.004305	 lr:0.0001
+2022-10-26 02:38:53,555 - INFO] Train Epoch : 62 Loss:	 0.005080	 lr:0.0001
+2022-10-26 02:43:54,944 - INFO] Train Epoch : 63 Loss:	 0.005145	 lr:0.0001
+2022-10-26 02:48:56,120 - INFO] Train Epoch : 64 Loss:	 0.004990	 lr:0.0001
+2022-10-26 02:53:57,827 - INFO] Train Epoch : 65 Loss:	 0.004330	 lr:0.0001
+2022-10-26 02:58:59,270 - INFO] Train Epoch : 66 Loss:	 0.004267	 lr:0.0001
+2022-10-26 03:04:00,873 - INFO] Train Epoch : 67 Loss:	 0.004704	 lr:0.0001
+2022-10-26 03:09:02,322 - INFO] Train Epoch : 68 Loss:	 0.004329	 lr:0.0001
+2022-10-26 03:14:03,633 - INFO] Train Epoch : 69 Loss:	 0.004842	 lr:0.0001
+2022-10-26 03:19:04,979 - INFO] Train Epoch : 70 Loss:	 0.004408	 lr:0.0001
+2022-10-26 03:24:06,311 - INFO] Train Epoch : 71 Loss:	 0.004124	 lr:0.0001
+2022-10-26 03:29:07,734 - INFO] Train Epoch : 72 Loss:	 0.005084	 lr:0.0001
+2022-10-26 03:34:08,803 - INFO] Train Epoch : 73 Loss:	 0.004360	 lr:0.0001
+2022-10-26 03:39:10,027 - INFO] Train Epoch : 74 Loss:	 0.005721	 lr:0.0001
+2022-10-26 03:44:11,369 - INFO] Train Epoch : 75 Loss:	 0.005152	 lr:0.0001
+2022-10-26 03:49:12,646 - INFO] Train Epoch : 76 Loss:	 0.004320	 lr:0.0001
+2022-10-26 03:54:14,249 - INFO] Train Epoch : 77 Loss:	 0.005046	 lr:0.0001
+2022-10-26 03:59:15,594 - INFO] Train Epoch : 78 Loss:	 0.004247	 lr:0.0001
+2022-10-26 04:04:17,402 - INFO] Train Epoch : 79 Loss:	 0.004897	 lr:0.0001
+2022-10-26 04:09:18,974 - INFO] Train Epoch : 80 Loss:	 0.004387	 lr:0.0001
+2022-10-26 04:14:21,126 - INFO] Train Epoch : 81 Loss:	 0.004253	 lr:0.0001
+2022-10-26 04:19:22,903 - INFO] Train Epoch : 82 Loss:	 0.005592	 lr:0.0001
+2022-10-26 04:24:24,263 - INFO] Train Epoch : 83 Loss:	 0.004027	 lr:0.0001
+2022-10-26 04:29:25,809 - INFO] Train Epoch : 84 Loss:	 0.004860	 lr:0.0001
+2022-10-26 04:34:27,292 - INFO] Train Epoch : 85 Loss:	 0.004323	 lr:0.0001
+2022-10-26 04:39:28,656 - INFO] Train Epoch : 86 Loss:	 0.004283	 lr:0.0001
+2022-10-26 04:44:30,229 - INFO] Train Epoch : 87 Loss:	 0.005763	 lr:0.0001
+2022-10-26 04:49:31,641 - INFO] Train Epoch : 88 Loss:	 0.004172	 lr:0.0001
+2022-10-26 04:54:32,895 - INFO] Train Epoch : 89 Loss:	 0.004680	 lr:0.0001
+2022-10-26 04:59:34,393 - INFO] Train Epoch : 90 Loss:	 0.004530	 lr:0.0001
+2022-10-26 05:04:35,704 - INFO] Train Epoch : 91 Loss:	 0.004048	 lr:0.0001
+2022-10-26 05:09:37,086 - INFO] Train Epoch : 92 Loss:	 0.004881	 lr:0.0001
+2022-10-26 05:14:38,440 - INFO] Train Epoch : 93 Loss:	 0.004473	 lr:0.0001
+2022-10-26 05:19:40,298 - INFO] Train Epoch : 94 Loss:	 0.005791	 lr:0.0001
+2022-10-26 05:24:41,459 - INFO] Train Epoch : 95 Loss:	 0.004873	 lr:0.0001
+2022-10-26 05:29:42,617 - INFO] Train Epoch : 96 Loss:	 0.003964	 lr:0.0001
+2022-10-26 05:34:43,550 - INFO] Train Epoch : 97 Loss:	 0.004596	 lr:0.0001
+2022-10-26 05:39:44,639 - INFO] Train Epoch : 98 Loss:	 0.005041	 lr:0.0001
+2022-10-26 05:44:46,302 - INFO] Train Epoch : 99 Loss:	 0.004996	 lr:0.0001
+2022-10-26 05:49:47,411 - INFO] Train Epoch : 100 Loss:	 0.004571	 lr:0.0001
+2022-10-26 05:54:50,177 - INFO] Train Epoch : 101 Loss:	 0.005378	 lr:0.0001
+2022-10-26 05:59:52,922 - INFO] Train Epoch : 102 Loss:	 0.004759	 lr:0.0001
+2022-10-26 06:04:55,053 - INFO] Train Epoch : 103 Loss:	 0.004175	 lr:0.0001
+2022-10-26 06:09:57,065 - INFO] Train Epoch : 104 Loss:	 0.004584	 lr:0.0001
+2022-10-26 06:14:58,005 - INFO] Train Epoch : 105 Loss:	 0.004381	 lr:0.0001
+2022-10-26 06:19:58,764 - INFO] Train Epoch : 106 Loss:	 0.004311	 lr:0.0001
+2022-10-26 06:24:59,897 - INFO] Train Epoch : 107 Loss:	 0.004600	 lr:0.0001
+2022-10-26 06:30:00,716 - INFO] Train Epoch : 108 Loss:	 0.004054	 lr:0.0001
+2022-10-26 06:35:01,308 - INFO] Train Epoch : 109 Loss:	 0.004884	 lr:0.0001
+2022-10-26 06:40:01,866 - INFO] Train Epoch : 110 Loss:	 0.004915	 lr:0.0001
+2022-10-26 06:45:02,622 - INFO] Train Epoch : 111 Loss:	 0.004839	 lr:0.0001
+2022-10-26 06:50:03,301 - INFO] Train Epoch : 112 Loss:	 0.004573	 lr:0.0001
+2022-10-26 06:55:03,818 - INFO] Train Epoch : 113 Loss:	 0.004162	 lr:0.0001
+2022-10-26 07:00:04,362 - INFO] Train Epoch : 114 Loss:	 0.005054	 lr:0.0001
+2022-10-26 07:05:05,221 - INFO] Train Epoch : 115 Loss:	 0.004963	 lr:0.0001
+2022-10-26 07:10:06,148 - INFO] Train Epoch : 116 Loss:	 0.004251	 lr:0.0001
+2022-10-26 07:15:07,294 - INFO] Train Epoch : 117 Loss:	 0.005512	 lr:0.0001
+2022-10-26 07:20:08,718 - INFO] Train Epoch : 118 Loss:	 0.003973	 lr:0.0001
+2022-10-26 07:25:09,809 - INFO] Train Epoch : 119 Loss:	 0.004734	 lr:0.0001
+2022-10-26 07:30:10,411 - INFO] Train Epoch : 120 Loss:	 0.004174	 lr:0.0001
+2022-10-26 07:35:11,376 - INFO] Train Epoch : 121 Loss:	 0.003993	 lr:0.0001
+2022-10-26 07:40:11,289 - INFO] Train Epoch : 122 Loss:	 0.004762	 lr:0.0001
+2022-10-26 07:45:10,884 - INFO] Train Epoch : 123 Loss:	 0.004629	 lr:0.0001
+2022-10-26 07:50:10,177 - INFO] Train Epoch : 124 Loss:	 0.004675	 lr:0.0001
+2022-10-26 07:55:09,513 - INFO] Train Epoch : 125 Loss:	 0.004035	 lr:0.0001
+2022-10-26 08:00:08,967 - INFO] Train Epoch : 126 Loss:	 0.004294	 lr:0.0001
+2022-10-26 08:05:08,411 - INFO] Train Epoch : 127 Loss:	 0.005498	 lr:0.0001
+2022-10-26 08:10:07,612 - INFO] Train Epoch : 128 Loss:	 0.004149	 lr:0.0001
+2022-10-26 08:15:06,728 - INFO] Train Epoch : 129 Loss:	 0.004760	 lr:0.0001
+2022-10-26 08:20:05,928 - INFO] Train Epoch : 130 Loss:	 0.004175	 lr:0.0001
+2022-10-26 08:25:05,028 - INFO] Train Epoch : 131 Loss:	 0.006243	 lr:0.0001
+2022-10-26 08:30:04,072 - INFO] Train Epoch : 132 Loss:	 0.004803	 lr:0.0001
+2022-10-26 08:35:03,225 - INFO] Train Epoch : 133 Loss:	 0.004093	 lr:0.0001
+2022-10-26 08:40:02,391 - INFO] Train Epoch : 134 Loss:	 0.004781	 lr:0.0001
+2022-10-26 08:45:01,652 - INFO] Train Epoch : 135 Loss:	 0.004108	 lr:0.0001
+2022-10-26 08:50:00,588 - INFO] Train Epoch : 136 Loss:	 0.004085	 lr:0.0001
+2022-10-26 08:54:59,680 - INFO] Train Epoch : 137 Loss:	 0.004999	 lr:0.0001
+2022-10-26 08:59:58,618 - INFO] Train Epoch : 138 Loss:	 0.004018	 lr:0.0001
+2022-10-26 09:04:57,536 - INFO] Train Epoch : 139 Loss:	 0.004832	 lr:0.0001
+2022-10-26 09:09:56,659 - INFO] Train Epoch : 140 Loss:	 0.004006	 lr:0.0001
+2022-10-26 09:14:56,003 - INFO] Train Epoch : 141 Loss:	 0.004242	 lr:0.0001
+2022-10-26 09:19:54,936 - INFO] Train Epoch : 142 Loss:	 0.004820	 lr:0.0001
+2022-10-26 09:24:53,591 - INFO] Train Epoch : 143 Loss:	 0.004052	 lr:0.0001
+2022-10-26 09:29:53,777 - INFO] Train Epoch : 144 Loss:	 0.004382	 lr:0.0001
+2022-10-26 09:35:59,454 - INFO] Train Epoch : 145 Loss:	 0.003999	 lr:0.0001
+2022-10-26 09:42:22,530 - INFO] Train Epoch : 146 Loss:	 0.004705	 lr:0.0001
+2022-10-26 09:48:46,458 - INFO] Train Epoch : 147 Loss:	 0.004660	 lr:0.0001
+2022-10-26 09:55:14,624 - INFO] Train Epoch : 148 Loss:	 0.003849	 lr:0.0001
+2022-10-26 10:01:39,519 - INFO] Train Epoch : 149 Loss:	 0.004732	 lr:0.0001
+2022-10-26 10:06:41,543 - INFO] Train Epoch : 150 Loss:	 0.003942	 lr:0.0001
+2022-10-26 10:11:42,616 - INFO] Train Epoch : 151 Loss:	 0.004142	 lr:0.0001
+2022-10-26 10:16:43,603 - INFO] Train Epoch : 152 Loss:	 0.005675	 lr:0.0001
+2022-10-26 10:21:45,430 - INFO] Train Epoch : 153 Loss:	 0.003760	 lr:0.0001
+2022-10-26 10:26:47,676 - INFO] Train Epoch : 154 Loss:	 0.004633	 lr:0.0001
+2022-10-26 10:31:49,896 - INFO] Train Epoch : 155 Loss:	 0.004034	 lr:0.0001
+2022-10-26 10:36:51,139 - INFO] Train Epoch : 156 Loss:	 0.004226	 lr:0.0001
+2022-10-26 10:41:52,726 - INFO] Train Epoch : 157 Loss:	 0.004566	 lr:0.0001
+2022-10-26 10:46:54,089 - INFO] Train Epoch : 158 Loss:	 0.004301	 lr:0.0001
+2022-10-26 10:51:54,922 - INFO] Train Epoch : 159 Loss:	 0.004730	 lr:0.0001
+2022-10-26 10:56:56,161 - INFO] Train Epoch : 160 Loss:	 0.003869	 lr:0.0001
+2022-10-26 11:01:58,191 - INFO] Train Epoch : 161 Loss:	 0.004233	 lr:0.0001
+2022-10-26 11:06:59,135 - INFO] Train Epoch : 162 Loss:	 0.004933	 lr:0.0001
+2022-10-26 11:11:59,665 - INFO] Train Epoch : 163 Loss:	 0.004156	 lr:0.0001
+2022-10-26 11:17:00,537 - INFO] Train Epoch : 164 Loss:	 0.004400	 lr:0.0001
+2022-10-26 11:22:01,181 - INFO] Train Epoch : 165 Loss:	 0.003985	 lr:0.0001
+2022-10-26 11:27:03,801 - INFO] Train Epoch : 166 Loss:	 0.003950	 lr:0.0001
+2022-10-26 11:32:05,974 - INFO] Train Epoch : 167 Loss:	 0.004594	 lr:0.0001
+2022-10-26 11:37:07,882 - INFO] Train Epoch : 168 Loss:	 0.003938	 lr:0.0001
+2022-10-26 11:42:09,292 - INFO] Train Epoch : 169 Loss:	 0.004400	 lr:0.0001
+2022-10-26 11:47:10,341 - INFO] Train Epoch : 170 Loss:	 0.003874	 lr:0.0001
+2022-10-26 11:52:11,354 - INFO] Train Epoch : 171 Loss:	 0.003907	 lr:0.0001
+2022-10-26 11:57:11,641 - INFO] Train Epoch : 172 Loss:	 0.004620	 lr:0.0001
+2022-10-26 12:02:11,289 - INFO] Train Epoch : 173 Loss:	 0.004504	 lr:0.0001
+2022-10-26 12:07:11,963 - INFO] Train Epoch : 174 Loss:	 0.004545	 lr:0.0001
+2022-10-26 12:12:13,139 - INFO] Train Epoch : 175 Loss:	 0.003750	 lr:0.0001
+2022-10-26 12:17:13,978 - INFO] Train Epoch : 176 Loss:	 0.004795	 lr:0.0001
+2022-10-26 12:22:15,012 - INFO] Train Epoch : 177 Loss:	 0.004375	 lr:0.0001
+2022-10-26 12:27:15,421 - INFO] Train Epoch : 178 Loss:	 0.004203	 lr:0.0001
+2022-10-26 12:32:15,503 - INFO] Train Epoch : 179 Loss:	 0.004649	 lr:0.0001
+2022-10-26 12:37:15,099 - INFO] Train Epoch : 180 Loss:	 0.004878	 lr:0.0001
+2022-10-26 12:42:14,734 - INFO] Train Epoch : 181 Loss:	 0.003963	 lr:0.0001
+2022-10-26 12:47:13,290 - INFO] Train Epoch : 182 Loss:	 0.004735	 lr:0.0001
+2022-10-26 12:52:11,789 - INFO] Train Epoch : 183 Loss:	 0.004001	 lr:0.0001
+2022-10-26 12:57:11,002 - INFO] Train Epoch : 184 Loss:	 0.006254	 lr:0.0001
+2022-10-26 13:02:10,129 - INFO] Train Epoch : 185 Loss:	 0.004163	 lr:0.0001
+2022-10-26 13:07:08,529 - INFO] Train Epoch : 186 Loss:	 0.003999	 lr:0.0001
+2022-10-26 13:12:07,121 - INFO] Train Epoch : 187 Loss:	 0.004587	 lr:0.0001
+2022-10-26 13:17:05,630 - INFO] Train Epoch : 188 Loss:	 0.004021	 lr:0.0001
+2022-10-26 13:22:04,175 - INFO] Train Epoch : 189 Loss:	 0.004663	 lr:0.0001
+2022-10-26 13:27:02,551 - INFO] Train Epoch : 190 Loss:	 0.004480	 lr:0.0001
+2022-10-26 13:32:01,073 - INFO] Train Epoch : 191 Loss:	 0.003983	 lr:0.0001
+2022-10-26 13:36:59,772 - INFO] Train Epoch : 192 Loss:	 0.004359	 lr:0.0001
+2022-10-26 13:41:58,345 - INFO] Train Epoch : 193 Loss:	 0.003961	 lr:0.0001
+2022-10-26 13:46:56,938 - INFO] Train Epoch : 194 Loss:	 0.004643	 lr:0.0001
+2022-10-26 13:51:55,658 - INFO] Train Epoch : 195 Loss:	 0.003920	 lr:0.0001
+2022-10-26 13:56:54,382 - INFO] Train Epoch : 196 Loss:	 0.004176	 lr:0.0001
+2022-10-26 14:01:53,172 - INFO] Train Epoch : 197 Loss:	 0.004759	 lr:0.0001
+2022-10-26 14:06:52,029 - INFO] Train Epoch : 198 Loss:	 0.003927	 lr:0.0001
+2022-10-26 14:11:50,823 - INFO] Train Epoch : 199 Loss:	 0.004181	 lr:0.0001
+2022-10-26 14:16:49,646 - INFO] Train Epoch : 200 Loss:	 0.003885	 lr:0.0001
+2022-10-26 14:21:51,004 - INFO] Train Epoch : 201 Loss:	 0.003980	 lr:0.0001
+2022-10-26 14:26:51,114 - INFO] Train Epoch : 202 Loss:	 0.004753	 lr:0.0001
+2022-10-26 14:31:50,865 - INFO] Train Epoch : 203 Loss:	 0.004206	 lr:0.0001
+2022-10-26 14:36:50,380 - INFO] Train Epoch : 204 Loss:	 0.004656	 lr:0.0001
+2022-10-26 14:41:49,727 - INFO] Train Epoch : 205 Loss:	 0.005587	 lr:0.0001
+2022-10-26 14:46:48,730 - INFO] Train Epoch : 206 Loss:	 0.004444	 lr:0.0001
+2022-10-26 14:51:47,762 - INFO] Train Epoch : 207 Loss:	 0.004645	 lr:0.0001
+2022-10-26 14:56:46,786 - INFO] Train Epoch : 208 Loss:	 0.003856	 lr:0.0001
+2022-10-26 15:01:45,917 - INFO] Train Epoch : 209 Loss:	 0.004367	 lr:0.0001
+2022-10-26 15:06:44,865 - INFO] Train Epoch : 210 Loss:	 0.004046	 lr:0.0001
+2022-10-26 15:11:45,547 - INFO] Train Epoch : 211 Loss:	 0.004505	 lr:0.0001
+2022-10-26 15:16:46,700 - INFO] Train Epoch : 212 Loss:	 0.004560	 lr:0.0001
+2022-10-26 15:21:47,377 - INFO] Train Epoch : 213 Loss:	 0.004146	 lr:0.0001
+2022-10-26 15:26:48,182 - INFO] Train Epoch : 214 Loss:	 0.004362	 lr:0.0001
+2022-10-26 15:31:48,453 - INFO] Train Epoch : 215 Loss:	 0.003966	 lr:0.0001
+2022-10-26 15:36:48,667 - INFO] Train Epoch : 216 Loss:	 0.004275	 lr:0.0001
+2022-10-26 15:41:48,799 - INFO] Train Epoch : 217 Loss:	 0.004489	 lr:0.0001
+2022-10-26 15:46:48,878 - INFO] Train Epoch : 218 Loss:	 0.003870	 lr:0.0001
+2022-10-26 15:51:48,949 - INFO] Train Epoch : 219 Loss:	 0.004247	 lr:0.0001
+2022-10-26 15:56:49,072 - INFO] Train Epoch : 220 Loss:	 0.004231	 lr:0.0001
+2022-10-26 16:01:49,810 - INFO] Train Epoch : 221 Loss:	 0.003909	 lr:0.0001
+2022-10-26 16:06:50,841 - INFO] Train Epoch : 222 Loss:	 0.004458	 lr:0.0001
+2022-10-26 16:11:51,417 - INFO] Train Epoch : 223 Loss:	 0.003856	 lr:0.0001
+2022-10-26 16:16:52,044 - INFO] Train Epoch : 224 Loss:	 0.004370	 lr:0.0001
+2022-10-26 16:21:52,838 - INFO] Train Epoch : 225 Loss:	 0.003896	 lr:0.0001
+2022-10-26 16:26:53,345 - INFO] Train Epoch : 226 Loss:	 0.003900	 lr:0.0001
+2022-10-26 16:31:55,394 - INFO] Train Epoch : 227 Loss:	 0.004615	 lr:0.0001
+2022-10-26 16:36:56,011 - INFO] Train Epoch : 228 Loss:	 0.003718	 lr:0.0001
+2022-10-26 16:41:56,860 - INFO] Train Epoch : 229 Loss:	 0.004408	 lr:0.0001
+2022-10-26 16:46:57,663 - INFO] Train Epoch : 230 Loss:	 0.003861	 lr:0.0001
+2022-10-26 16:51:58,420 - INFO] Train Epoch : 231 Loss:	 0.004061	 lr:0.0001
+2022-10-26 16:57:00,759 - INFO] Train Epoch : 232 Loss:	 0.004570	 lr:0.0001
+2022-10-26 17:02:02,134 - INFO] Train Epoch : 233 Loss:	 0.003796	 lr:0.0001
+2022-10-26 17:07:03,712 - INFO] Train Epoch : 234 Loss:	 0.005104	 lr:0.0001
+2022-10-26 17:12:04,513 - INFO] Train Epoch : 235 Loss:	 0.003892	 lr:0.0001
+2022-10-26 17:17:05,928 - INFO] Train Epoch : 236 Loss:	 0.004027	 lr:0.0001
+2022-10-26 17:22:08,369 - INFO] Train Epoch : 237 Loss:	 0.004380	 lr:0.0001
+2022-10-26 17:27:11,278 - INFO] Train Epoch : 238 Loss:	 0.004047	 lr:0.0001
+2022-10-26 17:32:13,824 - INFO] Train Epoch : 239 Loss:	 0.004614	 lr:0.0001
+2022-10-26 17:37:16,129 - INFO] Train Epoch : 240 Loss:	 0.003762	 lr:0.0001
+2022-10-26 17:42:18,870 - INFO] Train Epoch : 241 Loss:	 0.003879	 lr:0.0001
+2022-10-26 17:47:20,766 - INFO] Train Epoch : 242 Loss:	 0.004417	 lr:0.0001
+2022-10-26 17:52:22,695 - INFO] Train Epoch : 243 Loss:	 0.004723	 lr:0.0001
+2022-10-26 17:57:24,422 - INFO] Train Epoch : 244 Loss:	 0.004365	 lr:0.0001
+2022-10-26 18:02:26,104 - INFO] Train Epoch : 245 Loss:	 0.005772	 lr:0.0001
+2022-10-26 18:07:27,976 - INFO] Train Epoch : 246 Loss:	 0.003722	 lr:0.0001
+2022-10-26 18:12:29,735 - INFO] Train Epoch : 247 Loss:	 0.004473	 lr:0.0001
+2022-10-26 18:17:31,452 - INFO] Train Epoch : 248 Loss:	 0.003832	 lr:0.0001
+2022-10-26 18:22:33,182 - INFO] Train Epoch : 249 Loss:	 0.004956	 lr:0.0001
+2022-10-26 18:27:35,148 - INFO] Train Epoch : 250 Loss:	 0.005252	 lr:0.0001
+2022-10-26 18:32:37,130 - INFO] Train Epoch : 251 Loss:	 0.004295	 lr:0.0001
+2022-10-26 18:37:38,839 - INFO] Train Epoch : 252 Loss:	 0.004566	 lr:0.0001
+2022-10-26 18:42:40,726 - INFO] Train Epoch : 253 Loss:	 0.003975	 lr:0.0001
+2022-10-26 18:47:42,532 - INFO] Train Epoch : 254 Loss:	 0.004651	 lr:0.0001
+2022-10-26 18:52:44,673 - INFO] Train Epoch : 255 Loss:	 0.003866	 lr:0.0001
+2022-10-26 18:57:46,482 - INFO] Train Epoch : 256 Loss:	 0.004164	 lr:0.0001
+2022-10-26 19:02:47,996 - INFO] Train Epoch : 257 Loss:	 0.004380	 lr:0.0001
+2022-10-26 19:07:50,033 - INFO] Train Epoch : 258 Loss:	 0.004210	 lr:0.0001
+2022-10-26 19:12:51,819 - INFO] Train Epoch : 259 Loss:	 0.004815	 lr:0.0001
+2022-10-26 19:17:53,743 - INFO] Train Epoch : 260 Loss:	 0.003972	 lr:0.0001
+2022-10-26 19:22:56,066 - INFO] Train Epoch : 261 Loss:	 0.004965	 lr:0.0001
+2022-10-26 19:27:57,468 - INFO] Train Epoch : 262 Loss:	 0.005952	 lr:0.0001
+2022-10-26 19:32:58,288 - INFO] Train Epoch : 263 Loss:	 0.003858	 lr:0.0001
+2022-10-26 19:37:58,761 - INFO] Train Epoch : 264 Loss:	 0.005644	 lr:0.0001
+2022-10-26 19:42:58,828 - INFO] Train Epoch : 265 Loss:	 0.004879	 lr:0.0001
+2022-10-26 19:47:59,321 - INFO] Train Epoch : 266 Loss:	 0.004846	 lr:0.0001
+2022-10-26 19:52:59,771 - INFO] Train Epoch : 267 Loss:	 0.004583	 lr:0.0001
+2022-10-26 19:58:00,203 - INFO] Train Epoch : 268 Loss:	 0.003731	 lr:0.0001
+2022-10-26 20:03:00,833 - INFO] Train Epoch : 269 Loss:	 0.004506	 lr:0.0001
+2022-10-26 20:08:01,338 - INFO] Train Epoch : 270 Loss:	 0.004805	 lr:0.0001
+2022-10-26 20:13:01,753 - INFO] Train Epoch : 271 Loss:	 0.004088	 lr:0.0001
+2022-10-26 20:18:01,791 - INFO] Train Epoch : 272 Loss:	 0.006874	 lr:0.0001
+2022-10-26 20:23:02,133 - INFO] Train Epoch : 273 Loss:	 0.003926	 lr:0.0001
+2022-10-26 20:28:02,434 - INFO] Train Epoch : 274 Loss:	 0.004875	 lr:0.0001
+2022-10-26 20:33:02,951 - INFO] Train Epoch : 275 Loss:	 0.004046	 lr:0.0001
+2022-10-26 20:38:04,384 - INFO] Train Epoch : 276 Loss:	 0.004066	 lr:0.0001
+2022-10-26 20:43:05,591 - INFO] Train Epoch : 277 Loss:	 0.005237	 lr:0.0001
+2022-10-26 20:48:06,318 - INFO] Train Epoch : 278 Loss:	 0.004183	 lr:0.0001
+2022-10-26 20:53:06,645 - INFO] Train Epoch : 279 Loss:	 0.004500	 lr:0.0001
+2022-10-26 20:58:06,919 - INFO] Train Epoch : 280 Loss:	 0.003893	 lr:0.0001
+2022-10-26 21:03:07,900 - INFO] Train Epoch : 281 Loss:	 0.003749	 lr:0.0001
+2022-10-26 21:08:08,022 - INFO] Train Epoch : 282 Loss:	 0.004441	 lr:0.0001
+2022-10-26 21:13:08,411 - INFO] Train Epoch : 283 Loss:	 0.003736	 lr:0.0001
+2022-10-26 21:18:09,024 - INFO] Train Epoch : 284 Loss:	 0.005082	 lr:0.0001
+2022-10-26 21:23:09,753 - INFO] Train Epoch : 285 Loss:	 0.003676	 lr:0.0001
+2022-10-26 21:28:10,180 - INFO] Train Epoch : 286 Loss:	 0.004022	 lr:0.0001
+2022-10-26 21:33:10,474 - INFO] Train Epoch : 287 Loss:	 0.004480	 lr:0.0001
+2022-10-26 21:38:10,905 - INFO] Train Epoch : 288 Loss:	 0.003784	 lr:0.0001
+2022-10-26 21:43:11,376 - INFO] Train Epoch : 289 Loss:	 0.005498	 lr:0.0001
+2022-10-26 21:48:11,904 - INFO] Train Epoch : 290 Loss:	 0.003919	 lr:0.0001
+2022-10-26 21:53:12,675 - INFO] Train Epoch : 291 Loss:	 0.004827	 lr:0.0001
+2022-10-26 21:58:13,732 - INFO] Train Epoch : 292 Loss:	 0.004437	 lr:0.0001
+2022-10-26 22:03:14,953 - INFO] Train Epoch : 293 Loss:	 0.003740	 lr:0.0001
+2022-10-26 22:08:15,716 - INFO] Train Epoch : 294 Loss:	 0.005382	 lr:0.0001
+2022-10-26 22:13:16,680 - INFO] Train Epoch : 295 Loss:	 0.003771	 lr:0.0001
+2022-10-26 22:18:17,584 - INFO] Train Epoch : 296 Loss:	 0.003929	 lr:0.0001
+2022-10-26 22:23:19,134 - INFO] Train Epoch : 297 Loss:	 0.004441	 lr:0.0001
+2022-10-26 22:28:20,141 - INFO] Train Epoch : 298 Loss:	 0.004137	 lr:0.0001
+2022-10-26 22:33:21,499 - INFO] Train Epoch : 299 Loss:	 0.004733	 lr:0.0001
+2022-10-26 22:38:22,872 - INFO] Train Epoch : 300 Loss:	 0.003915	 lr:0.0001
+2022-10-26 22:43:25,048 - INFO] Train Epoch : 301 Loss:	 0.003708	 lr:0.0001
+2022-10-26 22:48:26,394 - INFO] Train Epoch : 302 Loss:	 0.005635	 lr:0.0001
+2022-10-26 22:53:27,598 - INFO] Train Epoch : 303 Loss:	 0.003768	 lr:0.0001
+2022-10-26 22:58:28,645 - INFO] Train Epoch : 304 Loss:	 0.004254	 lr:0.0001
+2022-10-26 23:03:29,846 - INFO] Train Epoch : 305 Loss:	 0.003651	 lr:0.0001
+2022-10-26 23:08:30,997 - INFO] Train Epoch : 306 Loss:	 0.003994	 lr:0.0001
+2022-10-26 23:13:32,607 - INFO] Train Epoch : 307 Loss:	 0.004953	 lr:0.0001
+2022-10-26 23:18:33,733 - INFO] Train Epoch : 308 Loss:	 0.004013	 lr:0.0001
+2022-10-26 23:23:34,652 - INFO] Train Epoch : 309 Loss:	 0.004332	 lr:0.0001
+2022-10-26 23:28:35,737 - INFO] Train Epoch : 310 Loss:	 0.003971	 lr:0.0001
+2022-10-26 23:33:36,760 - INFO] Train Epoch : 311 Loss:	 0.003758	 lr:0.0001
+2022-10-26 23:38:37,944 - INFO] Train Epoch : 312 Loss:	 0.004374	 lr:0.0001
+2022-10-26 23:43:38,890 - INFO] Train Epoch : 313 Loss:	 0.003916	 lr:0.0001
+2022-10-26 23:48:40,270 - INFO] Train Epoch : 314 Loss:	 0.004550	 lr:0.0001
+2022-10-26 23:53:41,278 - INFO] Train Epoch : 315 Loss:	 0.004109	 lr:0.0001
+2022-10-26 23:58:42,414 - INFO] Train Epoch : 316 Loss:	 0.003880	 lr:0.0001
+2022-10-27 00:03:43,692 - INFO] Train Epoch : 317 Loss:	 0.004225	 lr:0.0001
+2022-10-27 00:08:44,865 - INFO] Train Epoch : 318 Loss:	 0.003975	 lr:0.0001
+2022-10-27 00:13:46,356 - INFO] Train Epoch : 319 Loss:	 0.005106	 lr:0.0001
+2022-10-27 00:18:47,631 - INFO] Train Epoch : 320 Loss:	 0.003682	 lr:0.0001
+2022-10-27 00:23:49,660 - INFO] Train Epoch : 321 Loss:	 0.003849	 lr:0.0001
+2022-10-27 00:28:51,199 - INFO] Train Epoch : 322 Loss:	 0.004398	 lr:0.0001
+2022-10-27 00:33:52,802 - INFO] Train Epoch : 323 Loss:	 0.003595	 lr:0.0001
+2022-10-27 00:38:54,386 - INFO] Train Epoch : 324 Loss:	 0.005124	 lr:0.0001
+2022-10-27 00:43:55,944 - INFO] Train Epoch : 325 Loss:	 0.003835	 lr:0.0001
+2022-10-27 00:48:57,430 - INFO] Train Epoch : 326 Loss:	 0.004116	 lr:0.0001
+2022-10-27 00:53:59,154 - INFO] Train Epoch : 327 Loss:	 0.004236	 lr:0.0001
+2022-10-27 00:59:00,759 - INFO] Train Epoch : 328 Loss:	 0.003976	 lr:0.0001
+2022-10-27 01:04:02,191 - INFO] Train Epoch : 329 Loss:	 0.004258	 lr:0.0001
+2022-10-27 01:09:03,838 - INFO] Train Epoch : 330 Loss:	 0.003867	 lr:0.0001
+2022-10-27 01:14:05,461 - INFO] Train Epoch : 331 Loss:	 0.004212	 lr:0.0001
+2022-10-27 01:19:07,237 - INFO] Train Epoch : 332 Loss:	 0.004345	 lr:0.0001
+2022-10-27 01:24:08,833 - INFO] Train Epoch : 333 Loss:	 0.003690	 lr:0.0001
+2022-10-27 01:29:10,542 - INFO] Train Epoch : 334 Loss:	 0.005263	 lr:0.0001
+2022-10-27 01:34:12,418 - INFO] Train Epoch : 335 Loss:	 0.004039	 lr:0.0001
+2022-10-27 01:39:14,471 - INFO] Train Epoch : 336 Loss:	 0.003722	 lr:0.0001
+2022-10-27 01:44:16,450 - INFO] Train Epoch : 337 Loss:	 0.005075	 lr:0.0001
+2022-10-27 01:49:18,102 - INFO] Train Epoch : 338 Loss:	 0.003762	 lr:0.0001
+2022-10-27 01:54:20,113 - INFO] Train Epoch : 339 Loss:	 0.004478	 lr:0.0001
+2022-11-04 11:28:58,698 - INFO] DVC training
+2022-11-04 11:28:58,698 - INFO] config : 
+2022-11-04 11:28:58,699 - INFO] {
+    "tot_epoch": 1000,
+    "tot_step": 20000000,
+    "train_lambda": 1024,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+
+2022-11-04 12:11:02,199 - INFO] Train Epoch : 00 Loss:	 0.015102	 lr:0.0001
+2022-11-04 12:52:50,587 - INFO] Train Epoch : 01 Loss:	 0.013810	 lr:0.0001
+2022-11-04 13:34:42,846 - INFO] Train Epoch : 02 Loss:	 0.014223	 lr:0.0001
+2022-11-04 14:16:31,847 - INFO] Train Epoch : 03 Loss:	 0.013787	 lr:0.0001
+2022-11-04 14:47:19,076 - INFO] Train Epoch : 04 Loss:	 0.015191	 lr:0.0001
+2022-11-04 15:14:39,070 - INFO] Train Epoch : 05 Loss:	 0.010910	 lr:0.0001
+2022-11-04 15:34:53,927 - INFO] Train Epoch : 06 Loss:	 0.014557	 lr:0.0001
+2022-11-04 15:56:03,373 - INFO] Train Epoch : 07 Loss:	 0.012438	 lr:0.0001
+2022-11-04 16:22:41,927 - INFO] Train Epoch : 08 Loss:	 0.011229	 lr:0.0001
+2022-11-04 16:51:49,124 - INFO] Train Epoch : 09 Loss:	 0.013580	 lr:0.0001
+2022-11-04 17:19:06,308 - INFO] Train Epoch : 10 Loss:	 0.010730	 lr:0.0001
+2022-11-04 17:46:28,233 - INFO] Train Epoch : 11 Loss:	 0.015921	 lr:0.0001
+2022-11-04 18:13:50,441 - INFO] Train Epoch : 12 Loss:	 0.014775	 lr:0.0001
+2022-11-04 18:41:12,450 - INFO] Train Epoch : 13 Loss:	 0.013178	 lr:0.0001
+2022-11-04 19:08:34,138 - INFO] Train Epoch : 14 Loss:	 0.012057	 lr:0.0001
+2022-11-04 19:35:55,418 - INFO] Train Epoch : 15 Loss:	 0.012701	 lr:0.0001
+2022-11-04 20:03:16,598 - INFO] Train Epoch : 16 Loss:	 0.012479	 lr:0.0001
+2022-11-04 20:30:40,370 - INFO] Train Epoch : 17 Loss:	 0.010545	 lr:0.0001
+2022-11-04 20:58:01,981 - INFO] Train Epoch : 18 Loss:	 0.010696	 lr:0.0001
+2022-11-04 21:25:22,880 - INFO] Train Epoch : 19 Loss:	 0.013806	 lr:0.0001
+2022-11-04 21:52:43,728 - INFO] Train Epoch : 20 Loss:	 0.010860	 lr:0.0001
+2022-11-04 22:20:07,431 - INFO] Train Epoch : 21 Loss:	 0.010632	 lr:0.0001
+2022-11-04 22:47:28,693 - INFO] Train Epoch : 22 Loss:	 0.012196	 lr:0.0001
+2022-11-04 23:14:50,075 - INFO] Train Epoch : 23 Loss:	 0.011857	 lr:0.0001
+2022-11-04 23:42:10,200 - INFO] Train Epoch : 24 Loss:	 0.011503	 lr:0.0001
+2022-11-05 00:09:30,855 - INFO] Train Epoch : 25 Loss:	 0.010963	 lr:0.0001
+2022-11-05 00:36:51,957 - INFO] Train Epoch : 26 Loss:	 0.013861	 lr:0.0001
+2022-11-05 01:04:11,735 - INFO] Train Epoch : 27 Loss:	 0.011013	 lr:0.0001
+2022-11-05 01:31:31,240 - INFO] Train Epoch : 28 Loss:	 0.010458	 lr:0.0001
+2022-11-05 01:58:51,409 - INFO] Train Epoch : 29 Loss:	 0.012344	 lr:0.0001
+2022-11-05 02:26:12,770 - INFO] Train Epoch : 30 Loss:	 0.011212	 lr:0.0001
+2022-11-05 02:53:33,184 - INFO] Train Epoch : 31 Loss:	 0.011885	 lr:0.0001
+2022-11-05 03:20:52,920 - INFO] Train Epoch : 32 Loss:	 0.010095	 lr:0.0001
+2022-11-05 03:48:11,815 - INFO] Train Epoch : 33 Loss:	 0.011456	 lr:0.0001
+2022-11-05 04:15:30,804 - INFO] Train Epoch : 34 Loss:	 0.010371	 lr:0.0001
+2022-11-05 04:42:51,500 - INFO] Train Epoch : 35 Loss:	 0.011585	 lr:0.0001
+2022-11-05 05:10:09,943 - INFO] Train Epoch : 36 Loss:	 0.013895	 lr:0.0001
+2022-11-05 05:37:28,470 - INFO] Train Epoch : 37 Loss:	 0.010621	 lr:0.0001
+2022-11-05 06:04:46,337 - INFO] Train Epoch : 38 Loss:	 0.010633	 lr:0.0001
+2022-11-05 06:32:04,279 - INFO] Train Epoch : 39 Loss:	 0.017347	 lr:0.0001
+2022-11-24 14:04:21,187 - INFO] DVC training
+2022-11-24 14:04:21,188 - INFO] config : 
+2022-11-24 14:04:21,190 - INFO] {
+    "tot_epoch": 1000,
+    "tot_step": 20000000,
+    "train_lambda": 1024,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 150000
+    }
+}
+

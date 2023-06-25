@@ -1,0 +1,6 @@
+trained_lambda: 2048, crf : 19,  gop : 5, bpp : 0.32691536214420336, psnr : 39.840795470263735
+trained_lambda: 2048, crf : 19,  gop : 10, bpp : 0.21484318509529268, psnr : 38.702658044562035
+trained_lambda: 2048, crf : 19,  gop : 5, bpp : 0.32691619824835794, psnr : 39.84075026610114
+trained_lambda: 2048, crf : 19,  gop : 10, bpp : 0.2148427835835043, psnr : 38.7026883714053
+trained_lambda: 2048, crf : 19,  gop : 10, bpp : 0.2148424593218191, psnr : 38.70266243146389
+trained_lambda: 2048, crf : 19,  gop : 15, bpp : 0.17191780578461566, psnr : 37.769383868301304

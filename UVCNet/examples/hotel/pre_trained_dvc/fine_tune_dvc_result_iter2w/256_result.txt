@@ -1,0 +1,9 @@
+trained_lambda: 256, crf : 31,  gop : 5, bpp : 0.10271959887861441, psnr : 34.203898909925464
+trained_lambda: 256, crf : 31,  gop : 10, bpp : 0.0661420333557277, psnr : 35.19322242558577
+trained_lambda: 256, crf : 31,  gop : 15, bpp : 0.04798497842209309, psnr : 34.987102568884794
+trained_lambda: 256, crf : 31,  gop : 20, bpp : 0.03790198889733808, psnr : 34.451931395144605
+trained_lambda: 256, crf : 31,  gop : 25, bpp : 0.0318228150901805, psnr : 33.98285399269743
+trained_lambda: 256, crf : 31,  gop : 30, bpp : 0.027954035748174, psnr : 33.351776836653364
+trained_lambda: 256, crf : 31,  gop : 50, bpp : 0.021333139966347434, psnr : 31.108991139560203
+trained_lambda: 256, crf : 31,  gop : 100, bpp : 0.027286918184993555, psnr : 27.098300556427542
+trained_lambda: 256, crf : 31,  gop : 150, bpp : 0.049699838394239644, psnr : 24.897555314066402
